@@ -1,1 +1,1 @@
-This are my backup files for obsidian for my religious studies
+These are my backup files for obsidian for my religious studies
