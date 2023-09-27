@@ -1,0 +1,12 @@
+---
+tags:
+  - person
+  - tafsir
+  - kahf
+---
+- ‘He will test his slaves by using him (Dajjal)’
+- ‘Allah will empower him (Dajjal) with powers usually only within the dominion of Allah’
+- The dajjal makes you focus on the seeable
+- ‘If the Christians do not change their view, there will be consequence which will result in a dajjal-based view’ [[Religion being replaced]]
+- The biggest test will be Dajjal
+- When we come face-to-face with Dajjal, we recite the first ten Ayat of [[Surah Kahf]]
