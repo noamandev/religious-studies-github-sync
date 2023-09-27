@@ -1,3 +1,9 @@
+---
+tags:
+  - actions
+  - tafsir
+  - kahf
+---
 Around 5th and 6th century Christianity become the official religion of the Roman empire. When this was declared, All Scholars were kicked out of the empire. So then Christianity became a dogma.
 
 - The Scholars were kicked out to Arabia
