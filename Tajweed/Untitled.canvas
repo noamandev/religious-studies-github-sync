@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"acc8bafd3a185ef9","x":-460,"y":-100,"width":280,"height":60,"color":"1","type":"text","text":"Arabic letters have 4 variations"},
+		{"id":"d7cba2a49b9dacd8","x":-280,"y":-229,"width":250,"height":60,"type":"text","text":"The end of the word"},
+		{"id":"896307cb1ddba95b","x":-280,"y":20,"width":250,"height":60,"type":"text","text":"The middle of the word"},
+		{"id":"86ee69643ab9e3fd","x":-581,"y":20,"width":243,"height":60,"type":"text","text":"The beginning of a word,"},
+		{"id":"a362407797f23c6e","x":-588,"y":-229,"width":250,"height":60,"type":"text","text":"Or if the letter is separate"}
+	],
+	"edges":[
+		{"id":"3aeae08524309583","fromNode":"acc8bafd3a185ef9","fromSide":"bottom","toNode":"86ee69643ab9e3fd","toSide":"top"},
+		{"id":"e5eda6d2c6d22919","fromNode":"acc8bafd3a185ef9","fromSide":"bottom","toNode":"896307cb1ddba95b","toSide":"top"},
+		{"id":"06bb908fe32f4536","fromNode":"acc8bafd3a185ef9","fromSide":"top","toNode":"d7cba2a49b9dacd8","toSide":"bottom"},
+		{"id":"f98489f2e1faca0e","fromNode":"acc8bafd3a185ef9","fromSide":"top","toNode":"a362407797f23c6e","toSide":"bottom"}
+	]
+}
