@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"e627a2b418f719c5","x":40,"y":-100,"width":400,"height":400,"type":"file","file":"github-backup/Tajweed/Arabic letters/Group 1 of Arabic letters.md"},
-		{"id":"acc8bafd3a185ef9","x":-460,"y":-100,"width":280,"height":60,"color":"1","type":"text","text":"Arabic letters have 4 variations"},
-		{"id":"d7cba2a49b9dacd8","x":-280,"y":-229,"width":250,"height":60,"type":"text","text":"The end of the word"},
-		{"id":"896307cb1ddba95b","x":-280,"y":20,"width":250,"height":60,"type":"text","text":"The middle of the word"},
-		{"id":"86ee69643ab9e3fd","x":-581,"y":20,"width":243,"height":60,"type":"text","text":"The beginning of a word,"},
-		{"id":"a362407797f23c6e","x":-588,"y":-229,"width":250,"height":60,"type":"text","text":"Or if the letter is separate"}
+		{"id":"e627a2b418f719c5","type":"file","file":"github-backup/Tajweed/Arabic letters/Group 1 of Arabic letters.md","x":40,"y":-100,"width":400,"height":400},
+		{"id":"acc8bafd3a185ef9","type":"text","text":"Arabic letters have 4 variations","x":-460,"y":-100,"width":280,"height":60,"color":"1"},
+		{"id":"d7cba2a49b9dacd8","type":"text","text":"The end of the word","x":-280,"y":-229,"width":250,"height":60},
+		{"id":"896307cb1ddba95b","type":"text","text":"The middle of the word","x":-280,"y":20,"width":250,"height":60},
+		{"id":"86ee69643ab9e3fd","type":"text","text":"The beginning of a word,","x":-581,"y":20,"width":243,"height":60},
+		{"id":"a362407797f23c6e","type":"text","text":"Or if the letter is separate","x":-588,"y":-229,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3aeae08524309583","fromNode":"acc8bafd3a185ef9","fromSide":"bottom","toNode":"86ee69643ab9e3fd","toSide":"top"},
