@@ -40,8 +40,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 	"elements": [
 		{
 			"type": "text",
-			"version": 31,
-			"versionNonce": 1992096247,
+			"version": 73,
+			"versionNonce": 348656183,
 			"isDeleted": false,
 			"id": "nwiBjyEw",
 			"fillStyle": "hachure",
@@ -50,8 +50,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -207.20001220703125,
-			"y": -6.237480163574219,
+			"x": 220.800048828125,
+			"y": -231.0374984741211,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 69.53993225097656,
@@ -60,8 +60,33 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696081568235,
+			"boundElements": [
+				{
+					"id": "NjG3gv5A4iDq2awSyYosM",
+					"type": "arrow"
+				},
+				{
+					"id": "XEahoziHsKKPpFpO8ALBq",
+					"type": "arrow"
+				},
+				{
+					"id": "OzXBY3W3xPkECnVMtG2vG",
+					"type": "arrow"
+				},
+				{
+					"id": "vCRm2pKaR7LoSMWThzgLz",
+					"type": "arrow"
+				},
+				{
+					"id": "-MlrUu-jNVp58Uq3hHb2h",
+					"type": "arrow"
+				},
+				{
+					"id": "XtHKsmKIQSGP0_JNRyaH4",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082416507,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -77,8 +102,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 251,
-			"versionNonce": 237381337,
+			"version": 253,
+			"versionNonce": 859015511,
 			"isDeleted": false,
 			"id": "Z4otz8Jf",
 			"fillStyle": "hachure",
@@ -107,7 +132,7 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 					"type": "arrow"
 				}
 			],
-			"updated": 1696082006138,
+			"updated": 1696082424483,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -123,8 +148,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 253,
-			"versionNonce": 741961401,
+			"version": 378,
+			"versionNonce": 1690792087,
 			"isDeleted": false,
 			"id": "8yMSKTst",
 			"fillStyle": "hachure",
@@ -133,8 +158,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 420,
-			"y": -122.23754119873047,
+			"x": 539.2000732421875,
+			"y": 4.162422180175781,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 116.67991638183594,
@@ -149,7 +174,7 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 					"type": "arrow"
 				}
 			],
-			"updated": 1696082008138,
+			"updated": 1696082432019,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -165,8 +190,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 11,
-			"versionNonce": 780664281,
+			"version": 60,
+			"versionNonce": 283106455,
 			"isDeleted": false,
 			"id": "s3fSsLQ2",
 			"fillStyle": "hachure",
@@ -175,8 +200,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -88.79998779296875,
-			"y": -86.23748016357422,
+			"x": 163.2000732421875,
+			"y": -338.23746490478516,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 85.43995666503906,
@@ -185,8 +210,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696081568236,
+			"boundElements": [
+				{
+					"id": "NjG3gv5A4iDq2awSyYosM",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082394347,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -202,8 +232,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 1877306553,
+			"version": 221,
+			"versionNonce": 1882468471,
 			"isDeleted": false,
 			"id": "e9x3mF0A",
 			"fillStyle": "hachure",
@@ -238,9 +268,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 				{
 					"id": "1DtD0aQuX3wHwrGR0BuhX",
 					"type": "arrow"
+				},
+				{
+					"id": "XtHKsmKIQSGP0_JNRyaH4",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696081990429,
+			"updated": 1696082416508,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -256,8 +290,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 62,
-			"versionNonce": 1990013175,
+			"version": 116,
+			"versionNonce": 2025806359,
 			"isDeleted": false,
 			"id": "LlXFG4Z8",
 			"fillStyle": "hachure",
@@ -266,8 +300,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -158.39996337890625,
-			"y": -136.63753509521484,
+			"x": 464.800048828125,
+			"y": -213.4375228881836,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 48.77996826171875,
@@ -276,8 +310,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696082037535,
+			"boundElements": [
+				{
+					"id": "OzXBY3W3xPkECnVMtG2vG",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082404235,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -335,8 +374,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 24,
-			"versionNonce": 560873593,
+			"version": 90,
+			"versionNonce": 50605273,
 			"isDeleted": false,
 			"id": "rdWwpRum",
 			"fillStyle": "hachure",
@@ -345,8 +384,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -64.79998779296875,
-			"y": 55.362464904785156,
+			"x": 362.40008544921875,
+			"y": -320.63756561279297,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 82.15994262695312,
@@ -355,8 +394,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696081568236,
+			"boundElements": [
+				{
+					"id": "XEahoziHsKKPpFpO8ALBq",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082398811,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -372,8 +416,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 740201047,
+			"version": 80,
+			"versionNonce": 1532942521,
 			"isDeleted": false,
 			"id": "zB2lltuR",
 			"fillStyle": "hachure",
@@ -382,8 +426,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -218.4000244140625,
-			"y": -65.43749237060547,
+			"x": 64.7999267578125,
+			"y": -154.23748016357422,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 61.799957275390625,
@@ -392,8 +436,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696082038652,
+			"boundElements": [
+				{
+					"id": "vCRm2pKaR7LoSMWThzgLz",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082408195,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -409,8 +458,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		},
 		{
 			"type": "text",
-			"version": 5,
-			"versionNonce": 1080951383,
+			"version": 81,
+			"versionNonce": 1557224119,
 			"isDeleted": false,
 			"id": "XNXFzyVL",
 			"fillStyle": "hachure",
@@ -419,8 +468,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -364.79998779296875,
-			"y": 88.9625015258789,
+			"x": 48.799957275390625,
+			"y": -257.43749237060547,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 51.41996765136719,
@@ -429,8 +478,13 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1696081574911,
+			"boundElements": [
+				{
+					"id": "-MlrUu-jNVp58Uq3hHb2h",
+					"type": "arrow"
+				}
+			],
+			"updated": 1696082412035,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -447,8 +501,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		{
 			"id": "d5pCOSUw",
 			"type": "text",
-			"x": 34.4000244140625,
-			"y": -221.4374771118164,
+			"x": 184,
+			"y": 27.362510681152344,
 			"width": 245.25985717773438,
 			"height": 25,
 			"angle": 0,
@@ -463,8 +517,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 			"frameId": null,
 			"roundness": null,
 			"seed": 2021815511,
-			"version": 188,
-			"versionNonce": 77294713,
+			"version": 225,
+			"versionNonce": 1337001689,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -472,7 +526,7 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 					"type": "arrow"
 				}
 			],
-			"updated": 1696081967854,
+			"updated": 1696082370629,
 			"link": null,
 			"locked": false,
 			"text": "Fatha, Dhammah, Kasrah",
@@ -489,10 +543,10 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		{
 			"id": "qoA7liZytHrXgyDBkem6t",
 			"type": "arrow",
-			"x": 246.83947564466757,
-			"y": -119.17023908694301,
-			"width": 54.71378183240256,
-			"height": 68.66724718014683,
+			"x": 310.59878863432164,
+			"y": -92.23754119873047,
+			"width": 17.77582551485483,
+			"height": 111.00006103515625,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -507,11 +561,11 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 				"type": 2
 			},
 			"seed": 984738743,
-			"version": 308,
-			"versionNonce": 1830565687,
+			"version": 382,
+			"versionNonce": 1887298713,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696081971726,
+			"updated": 1696082370629,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -520,8 +574,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 					0
 				],
 				[
-					-54.71378183240256,
-					-68.66724718014683
+					-17.77582551485483,
+					111.00006103515625
 				]
 			],
 			"lastCommittedPoint": null,
@@ -645,10 +699,10 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		{
 			"id": "1DtD0aQuX3wHwrGR0BuhX",
 			"type": "arrow",
-			"x": 473.4519501336755,
-			"y": -64.4375228881836,
-			"width": 51.725401082642634,
-			"height": 22.400054931640625,
+			"x": 473.5394545713542,
+			"y": -25.701224887017716,
+			"width": 56.06070412005204,
+			"height": 50.851402039152745,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -663,11 +717,11 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 				"type": 2
 			},
 			"seed": 1202407639,
-			"version": 505,
-			"versionNonce": 1446368377,
+			"version": 819,
+			"versionNonce": 2079815383,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696082008138,
+			"updated": 1696082432019,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -676,20 +730,332 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 					0
 				],
 				[
-					51.725401082642634,
-					-22.400054931640625
+					56.06070412005204,
+					50.851402039152745
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "Z4otz8Jf",
-				"focus": -0.47809323770418066,
-				"gap": 10.20001220703125
+				"focus": -0.05238192161967356,
+				"gap": 3.5362857941346277
 			},
 			"endBinding": {
 				"elementId": "8yMSKTst",
-				"focus": -1.1434863446224457,
+				"focus": -1.0717777884123785,
+				"gap": 9.59991455078125
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "NjG3gv5A4iDq2awSyYosM",
+			"type": "arrow",
+			"x": 248.80010986328125,
+			"y": -236.63753509521484,
+			"width": 5.60003662109375,
+			"height": 68,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 218044249,
+			"version": 23,
+			"versionNonce": 1800233847,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082394347,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5.60003662109375,
+					-68
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": -0.1474691296297789,
+				"gap": 5.60003662109375
+			},
+			"endBinding": {
+				"elementId": "s3fSsLQ2",
+				"focus": -0.8124082067841772,
+				"gap": 8.599929809570312
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "XEahoziHsKKPpFpO8ALBq",
+			"type": "arrow",
+			"x": 302.40008544921875,
+			"y": -230.23754119873047,
+			"width": 68.800048828125,
+			"height": 53.600006103515625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 201732535,
+			"version": 27,
+			"versionNonce": 523703289,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082398811,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					68.800048828125,
+					-53.600006103515625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": 0.6260405714679164,
+				"gap": 12.060104370117188
+			},
+			"endBinding": {
+				"elementId": "rdWwpRum",
+				"focus": 0.01906066088658353,
+				"gap": 11.800018310546875
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "OzXBY3W3xPkECnVMtG2vG",
+			"type": "arrow",
+			"x": 302.40008544921875,
+			"y": -207.03752899169922,
+			"width": 154.4000244140625,
+			"height": 5.5999755859375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 595274169,
+			"version": 46,
+			"versionNonce": 1823379703,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082404235,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					154.4000244140625,
+					5.5999755859375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": 0.7122606921569034,
+				"gap": 12.060104370117188
+			},
+			"endBinding": {
+				"elementId": "LlXFG4Z8",
+				"focus": -0.05041076170033849,
+				"gap": 7.99993896484375
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "vCRm2pKaR7LoSMWThzgLz",
+			"type": "arrow",
+			"x": 212.80010986328125,
+			"y": -197.43755340576172,
+			"width": 78.4000244140625,
+			"height": 46.4000244140625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 370802487,
+			"version": 24,
+			"versionNonce": 561101785,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082408195,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-78.4000244140625,
+					46.4000244140625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": 0.1273608602867283,
+				"gap": 8.599945068359375
+			},
+			"endBinding": {
+				"elementId": "zB2lltuR",
+				"focus": 0.4418687914035301,
+				"gap": 7.800201416015625
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "-MlrUu-jNVp58Uq3hHb2h",
+			"type": "arrow",
+			"x": 210.40008544921875,
+			"y": -229.43755340576172,
+			"width": 97.5999755859375,
+			"height": 18.399993896484375,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 391469465,
+			"version": 34,
+			"versionNonce": 1578902935,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082412035,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-97.5999755859375,
+					-18.399993896484375
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": 0.1251332482146895,
 				"gap": 10.39996337890625
+			},
+			"endBinding": {
+				"elementId": "XNXFzyVL",
+				"focus": -0.5833120337983327,
+				"gap": 12.580184936523438
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "XtHKsmKIQSGP0_JNRyaH4",
+			"type": "arrow",
+			"x": 254.40008544921875,
+			"y": -190.23754119873047,
+			"width": 25.5999755859375,
+			"height": 60.79998779296875,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 930324761,
+			"version": 28,
+			"versionNonce": 2090251095,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696082416508,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					25.5999755859375,
+					60.79998779296875
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "nwiBjyEw",
+				"focus": 0.3268716502373542,
+				"gap": 15.799957275390625
+			},
+			"endBinding": {
+				"elementId": "e9x3mF0A",
+				"focus": 0.05348094403147256,
+				"gap": 11.20001220703125
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -710,8 +1076,8 @@ Fatha, Dhammah, Kasrah ^d5pCOSUw
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 506.199951171875,
-		"scrollY": 396.1625061035156,
+		"scrollX": 165.39996337890625,
+		"scrollY": 550.362548828125,
 		"zoom": {
 			"value": 1
 		},
