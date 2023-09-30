@@ -19,6 +19,12 @@ with them ^rJVzcMUV
 
 The 7 Sleepers (Youth) ^q1bRpmk7
 
+- They were imprisoned due to not bowing 
+to idols when commanded to
+- They escaped and took refuge in a cave
+- In Christianity, they are believed to be
+martyrs ^i6XLyUhM
+
 %%
 # Drawing
 ```json
@@ -29,8 +35,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 60,
-			"versionNonce": 416781742,
+			"version": 61,
+			"versionNonce": 777711154,
 			"isDeleted": false,
 			"id": "vM_EvJ3MH5vsgZXpVofFb",
 			"fillStyle": "hachure",
@@ -50,7 +56,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875509,
+			"updated": 1696067143423,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -307,8 +313,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 844653618,
+			"version": 47,
+			"versionNonce": 733464046,
 			"isDeleted": false,
 			"id": "jpP-YUOed49Zp7ans0BKB",
 			"fillStyle": "hachure",
@@ -328,7 +334,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875509,
+			"updated": 1696067143423,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -515,8 +521,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 84,
-			"versionNonce": 150253550,
+			"version": 85,
+			"versionNonce": 1627543538,
 			"isDeleted": false,
 			"id": "vzEN6zrAnN-sdAiXl3xtW",
 			"fillStyle": "hachure",
@@ -536,7 +542,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143423,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -913,8 +919,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 40,
-			"versionNonce": 836832754,
+			"version": 41,
+			"versionNonce": 1759828014,
 			"isDeleted": false,
 			"id": "AsukZU4Kvvi7oDXdsYtVl",
 			"fillStyle": "hachure",
@@ -934,7 +940,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143423,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1091,8 +1097,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 26,
-			"versionNonce": 586449454,
+			"version": 27,
+			"versionNonce": 647399858,
 			"isDeleted": false,
 			"id": "ITY6Wd8UkwoouQE9TtJec",
 			"fillStyle": "hachure",
@@ -1112,7 +1118,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1199,8 +1205,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 55,
-			"versionNonce": 372146098,
+			"version": 56,
+			"versionNonce": 456499822,
 			"isDeleted": false,
 			"id": "YwCHJ9aYb7KK71cN2adtn",
 			"fillStyle": "hachure",
@@ -1220,7 +1226,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1452,8 +1458,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 163581038,
+			"version": 36,
+			"versionNonce": 373195634,
 			"isDeleted": false,
 			"id": "f-S5OFDOpYaSYCwIMA5lt",
 			"fillStyle": "hachure",
@@ -1473,7 +1479,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1605,8 +1611,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 108,
-			"versionNonce": 2070395250,
+			"version": 109,
+			"versionNonce": 1433609390,
 			"isDeleted": false,
 			"id": "jcjyoMzpvg8hqfyLEYt1_",
 			"fillStyle": "hachure",
@@ -1626,7 +1632,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2123,8 +2129,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 17,
-			"versionNonce": 455102126,
+			"version": 18,
+			"versionNonce": 1245791538,
 			"isDeleted": false,
 			"id": "zG9eT7Ku86dYLNlw2dbb0",
 			"fillStyle": "hachure",
@@ -2144,7 +2150,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2181,8 +2187,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 44,
-			"versionNonce": 1624488754,
+			"version": 45,
+			"versionNonce": 1766219502,
 			"isDeleted": false,
 			"id": "jdYCrnP2MxAYWmvghc6m5",
 			"fillStyle": "hachure",
@@ -2202,7 +2208,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2379,8 +2385,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 58,
-			"versionNonce": 331237614,
+			"version": 59,
+			"versionNonce": 2080755442,
 			"isDeleted": false,
 			"id": "FEr0M0B1DSyZRlACRyfOF",
 			"fillStyle": "hachure",
@@ -2400,7 +2406,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2647,8 +2653,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1155106034,
+			"version": 70,
+			"versionNonce": 188240174,
 			"isDeleted": false,
 			"id": "fzvSe8pEFG7JGrgbfdO9n",
 			"fillStyle": "hachure",
@@ -2668,7 +2674,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2970,8 +2976,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 47,
-			"versionNonce": 857930542,
+			"version": 48,
+			"versionNonce": 538124466,
 			"isDeleted": false,
 			"id": "NY7uZay0_jxfW92rJbjFA",
 			"fillStyle": "hachure",
@@ -2991,7 +2997,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3183,8 +3189,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 112,
-			"versionNonce": 1090524850,
+			"version": 113,
+			"versionNonce": 1991375726,
 			"isDeleted": false,
 			"id": "Bmco0WIzJLvptJP1vfn71",
 			"fillStyle": "hachure",
@@ -3204,7 +3210,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3721,8 +3727,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 67,
-			"versionNonce": 1605854574,
+			"version": 68,
+			"versionNonce": 34617970,
 			"isDeleted": false,
 			"id": "NIRHHDnyW6H_LsJnrU9_D",
 			"fillStyle": "hachure",
@@ -3742,7 +3748,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4034,8 +4040,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 636383346,
+			"version": 78,
+			"versionNonce": 301751726,
 			"isDeleted": false,
 			"id": "EsQ-oMvKu3KYkl7utmDsI",
 			"fillStyle": "hachure",
@@ -4055,7 +4061,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4397,8 +4403,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 24,
-			"versionNonce": 1254393774,
+			"version": 25,
+			"versionNonce": 1623465010,
 			"isDeleted": false,
 			"id": "0uAe3TwoAFjkzjh35P7xX",
 			"fillStyle": "hachure",
@@ -4418,7 +4424,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4495,8 +4501,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 23,
-			"versionNonce": 392925746,
+			"version": 24,
+			"versionNonce": 306214894,
 			"isDeleted": false,
 			"id": "9apwJPUjyTPPJMx_BPbwH",
 			"fillStyle": "hachure",
@@ -4516,7 +4522,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4588,8 +4594,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 35,
-			"versionNonce": 343106030,
+			"version": 36,
+			"versionNonce": 169199090,
 			"isDeleted": false,
 			"id": "lToum_hnn5GUmHvbwNWE4",
 			"fillStyle": "hachure",
@@ -4609,7 +4615,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4741,8 +4747,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 36,
-			"versionNonce": 677280754,
+			"version": 37,
+			"versionNonce": 528960046,
 			"isDeleted": false,
 			"id": "r_fWm4Odk29YLOFX9RqYA",
 			"fillStyle": "hachure",
@@ -4762,7 +4768,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4899,8 +4905,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 82,
-			"versionNonce": 1875702830,
+			"version": 83,
+			"versionNonce": 1997289394,
 			"isDeleted": false,
 			"id": "CPoIWuo85Gw-UAezEFnlV",
 			"fillStyle": "hachure",
@@ -4920,7 +4926,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5287,8 +5293,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 42,
-			"versionNonce": 1993223602,
+			"version": 43,
+			"versionNonce": 2025444462,
 			"isDeleted": false,
 			"id": "KmDOxDfi2i9wncgcXZ0kM",
 			"fillStyle": "hachure",
@@ -5308,7 +5314,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5475,8 +5481,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 20,
-			"versionNonce": 1186610798,
+			"version": 21,
+			"versionNonce": 1741582706,
 			"isDeleted": false,
 			"id": "v5IUusic5Ic1bNXsh4MH9",
 			"fillStyle": "hachure",
@@ -5496,7 +5502,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5553,8 +5559,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 21,
-			"versionNonce": 1205970802,
+			"version": 22,
+			"versionNonce": 396433070,
 			"isDeleted": false,
 			"id": "Yip8c4q0ea-994fyASkiY",
 			"fillStyle": "hachure",
@@ -5574,7 +5580,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5636,8 +5642,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 139,
-			"versionNonce": 1577337006,
+			"version": 140,
+			"versionNonce": 2141418290,
 			"isDeleted": false,
 			"id": "73T1vZI3XGZP4ReOYdPG4",
 			"fillStyle": "hachure",
@@ -5657,7 +5663,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6309,8 +6315,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 77,
-			"versionNonce": 601876786,
+			"version": 78,
+			"versionNonce": 1424363758,
 			"isDeleted": false,
 			"id": "HOMxeh1q3y32GF245sMna",
 			"fillStyle": "hachure",
@@ -6330,7 +6336,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143424,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6667,8 +6673,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 136,
-			"versionNonce": 2035546862,
+			"version": 137,
+			"versionNonce": 1626488050,
 			"isDeleted": false,
 			"id": "xOp28QY6hO_fFSXQqP0-G",
 			"fillStyle": "hachure",
@@ -6688,7 +6694,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7325,8 +7331,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 72,
-			"versionNonce": 1915745010,
+			"version": 73,
+			"versionNonce": 202490670,
 			"isDeleted": false,
 			"id": "AX0mRDvESf8dwbUQzNUHC",
 			"fillStyle": "hachure",
@@ -7346,7 +7352,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7663,8 +7669,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 32,
-			"versionNonce": 2134011182,
+			"version": 33,
+			"versionNonce": 1229049522,
 			"isDeleted": false,
 			"id": "Mo-ClJPSiVMIflm-2OFd9",
 			"fillStyle": "hachure",
@@ -7684,7 +7690,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7801,8 +7807,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "freedraw",
-			"version": 37,
-			"versionNonce": 358139058,
+			"version": 38,
+			"versionNonce": 1066216814,
 			"isDeleted": false,
 			"id": "-Y2nrcgXJJsp2yzENj9Ss",
 			"fillStyle": "hachure",
@@ -7822,7 +7828,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7964,8 +7970,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 487102318,
+			"version": 77,
+			"versionNonce": 758720626,
 			"isDeleted": false,
 			"id": "ns60V4lz",
 			"fillStyle": "hachure",
@@ -7985,7 +7991,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8001,8 +8007,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "text",
-			"version": 48,
-			"versionNonce": 117530226,
+			"version": 49,
+			"versionNonce": 1017204654,
 			"isDeleted": false,
 			"id": "ZhGcl36u",
 			"fillStyle": "hachure",
@@ -8022,7 +8028,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8038,8 +8044,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		},
 		{
 			"type": "text",
-			"version": 589,
-			"versionNonce": 1797224878,
+			"version": 625,
+			"versionNonce": 1419725362,
 			"isDeleted": false,
 			"id": "rJVzcMUV",
 			"fillStyle": "hachure",
@@ -8048,8 +8054,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -236.2664521807953,
-			"y": -144.6591892470936,
+			"x": -257.4277346278719,
+			"y": -184.9172498254706,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 393.149169921875,
@@ -8059,7 +8065,7 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696066875510,
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.227820021141259,
@@ -8074,58 +8080,58 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"baseline": 61
 		},
 		{
-			"id": "lHpSZhyNVFNb2462rUQU8",
 			"type": "rectangle",
-			"x": -196.46107281807826,
-			"y": -47.18431475261559,
-			"width": 233.4801859592867,
-			"height": 276.42808480763046,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 103,
+			"versionNonce": 1064774126,
+			"isDeleted": false,
+			"id": "lHpSZhyNVFNb2462rUQU8",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -234.1367788114336,
+			"y": -90.65626619804254,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 233.4801859592867,
+			"height": 276.42808480763046,
+			"seed": 587848498,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 587848498,
-			"version": 78,
-			"versionNonce": 1945157682,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875510,
+			"boundElements": [],
+			"updated": 1696067143425,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "ZkZG4gOj6ctH5e-GWX3tn",
 			"type": "freedraw",
-			"x": -194.89935595524082,
-			"y": 144.12889036542578,
-			"width": 228.79503537077449,
-			"height": 114.00705868183815,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 320,
+			"versionNonce": 974470450,
+			"isDeleted": false,
+			"id": "ZkZG4gOj6ctH5e-GWX3tn",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -232.57506194859616,
+			"y": 116.39324311845692,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 228.79503537077449,
+			"height": 114.00705868183815,
+			"seed": 816632302,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 816632302,
-			"version": 219,
-			"versionNonce": 278926318,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875510,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8962,6 +8968,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-92.14266514803711
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1435546875,
 				0.3173828125,
@@ -9171,37 +9179,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.6162109375,
 				0.177734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				227.2332589322575,
-				-92.14266514803711
 			]
 		},
 		{
-			"id": "M-G1HNPuddlGNgvlLtUR5",
 			"type": "freedraw",
-			"x": -166.78803539441054,
-			"y": 169.8976356319999,
-			"width": 50.75657252605009,
-			"height": 67.93569631997985,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 265,
+			"versionNonce": 1050330866,
+			"isDeleted": false,
+			"id": "M-G1HNPuddlGNgvlLtUR5",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -204.46374138776588,
+			"y": 142.16198838503104,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 50.75657252605009,
+			"height": 67.93569631997985,
+			"seed": 1639742578,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1639742578,
-			"version": 87,
-			"versionNonce": 1737713198,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875510,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9514,6 +9517,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-67.93569631997985
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1845703125,
 				0.2509765625,
@@ -9592,37 +9597,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.4697265625,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				50.75657252605009,
-				-67.93569631997985
 			]
 		},
 		{
-			"id": "wUU184uEAwDeV2oxo7zBu",
 			"type": "freedraw",
-			"x": -81.6731557048214,
-			"y": 74.63147718260848,
-			"width": 117.91141041461117,
-			"height": 18.740900232446734,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 199,
+			"versionNonce": 893982898,
+			"isDeleted": false,
+			"id": "wUU184uEAwDeV2oxo7zBu",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -119.34886169817673,
+			"y": 46.895829935639625,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 117.91141041461117,
+			"height": 18.740900232446734,
+			"seed": 44883186,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 44883186,
-			"version": 98,
-			"versionNonce": 442489778,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875510,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9979,6 +9979,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-0.7809180070982507
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.2021484375,
 				0.2783203125,
@@ -10068,37 +10070,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.4736328125,
 				0.2314453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				116.34969355177373,
-				-0.7809180070982507
 			]
 		},
 		{
-			"id": "X-04LMZn0_BuZlx9QJb7t",
 			"type": "freedraw",
-			"x": -151.95148689473695,
-			"y": -11.264290726239096,
-			"width": 20.30267667096365,
-			"height": 24.206998615896964,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 223,
+			"versionNonce": 1841771122,
+			"isDeleted": false,
+			"id": "X-04LMZn0_BuZlx9QJb7t",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -189.62719288809228,
+			"y": -38.99993797320795,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 20.30267667096365,
+			"height": 24.206998615896964,
+			"seed": 1910340018,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1910340018,
-			"version": 45,
-			"versionNonce": 688756082,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875510,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10243,6 +10240,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.08203125,
 				0.388671875,
@@ -10279,37 +10278,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3623046875,
 				0.1640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.561716862837386,
-				-0.7808584314187215
 			]
 		},
 		{
-			"id": "h1lAOFuk3ZJ-0pQEOrg-u",
 			"type": "freedraw",
-			"x": -149.60885202480125,
-			"y": 16.06617140317246,
-			"width": 0.7808584314186646,
-			"height": 10.932196766900574,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 188,
+			"versionNonce": 719066162,
+			"isDeleted": false,
+			"id": "h1lAOFuk3ZJ-0pQEOrg-u",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -187.2845580181566,
+			"y": -11.669475843796391,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.7808584314186646,
+			"height": 10.932196766900574,
+			"seed": 935064174,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 935064174,
-			"version": 10,
-			"versionNonce": 331762802,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10346,6 +10340,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					10.932196766900574
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1123046875,
 				0.3505859375,
@@ -10355,37 +10351,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.33203125,
 				0.087890625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0.7808584314186646,
-				10.932196766900574
 			]
 		},
 		{
-			"id": "KSLKV3oSaqJy19GCyseej",
 			"type": "freedraw",
-			"x": -136.33407996364463,
-			"y": 3.572257773434501,
-			"width": 11.713055198319296,
-			"height": 1.561716862837443,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 187,
+			"versionNonce": 1047444978,
+			"isDeleted": false,
+			"id": "KSLKV3oSaqJy19GCyseej",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -174.00978595699996,
+			"y": -24.16338947353435,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 11.713055198319296,
+			"height": 1.561716862837443,
+			"seed": 831350446,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 831350446,
-			"version": 9,
-			"versionNonce": 736652206,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10418,6 +10409,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					0.7808584314187215
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1484375,
 				0.26953125,
@@ -10426,37 +10419,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.291015625,
 				0.119140625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				11.713055198319296,
-				0.7808584314187215
 			]
 		},
 		{
-			"id": "bsZbBsV6ca37iCqSywsSY",
 			"type": "freedraw",
-			"x": -148.04713516196387,
-			"y": -17.511247541108105,
-			"width": 2.3426348699356936,
-			"height": 8.589591684804645,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 188,
+			"versionNonce": 629551026,
+			"isDeleted": false,
+			"id": "bsZbBsV6ca37iCqSywsSY",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -185.7228411553192,
+			"y": -45.24689478807696,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.3426348699356936,
+			"height": 8.589591684804645,
+			"seed": 1675188398,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1675188398,
-			"version": 10,
-			"versionNonce": 904392242,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10493,6 +10481,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-8.589591684804645
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0517578125,
 				0.255859375,
@@ -10502,37 +10492,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2705078125,
 				0.134765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.3426348699356936,
-				-8.589591684804645
 			]
 		},
 		{
-			"id": "hePUprsMWJfgsQIP5eKan",
 			"type": "freedraw",
-			"x": -174.5967388599567,
-			"y": 4.353116204853222,
-			"width": 10.932196766900518,
-			"height": 1.5617466506772075,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 188,
+			"versionNonce": 608790898,
+			"isDeleted": false,
+			"id": "hePUprsMWJfgsQIP5eKan",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -212.27244485331204,
+			"y": -23.38253104211563,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 10.932196766900518,
+			"height": 1.5617466506772075,
+			"seed": 510772462,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 510772462,
-			"version": 10,
-			"versionNonce": 1870317038,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10569,6 +10554,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-1.5617466506772075
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0751953125,
 				0.1982421875,
@@ -10578,37 +10565,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.279296875,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.151338335481796,
-				-1.5617466506772075
 			]
 		},
 		{
-			"id": "EtQqbVKKVzkXdxvJHYET1",
 			"type": "freedraw",
-			"x": -168.34975225724799,
-			"y": 17.62791805384967,
-			"width": 7.808703465546159,
-			"height": 7.808703465546159,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 187,
+			"versionNonce": 1644129074,
+			"isDeleted": false,
+			"id": "EtQqbVKKVzkXdxvJHYET1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -206.02545825060332,
+			"y": -10.107729193119184,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.808703465546159,
+			"height": 7.808703465546159,
+			"seed": 2103077166,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2103077166,
-			"version": 9,
-			"versionNonce": 1861179378,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10641,6 +10623,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-7.808703465546159
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1533203125,
 				0.2841796875,
@@ -10649,37 +10633,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2763671875,
 				0.033203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.808703465546159,
-				-7.808703465546159
 			]
 		},
 		{
-			"id": "vNrwPv3QtkcNyraCcHb_Z",
 			"type": "freedraw",
-			"x": -170.69238712718362,
-			"y": -17.511247541108105,
-			"width": 10.932196766900518,
-			"height": 4.685210164191801,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 188,
+			"versionNonce": 84882674,
+			"isDeleted": false,
+			"id": "vNrwPv3QtkcNyraCcHb_Z",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -208.36809312053896,
+			"y": -45.24689478807696,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 10.932196766900518,
+			"height": 4.685210164191801,
+			"seed": 681302830,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 681302830,
-			"version": 10,
-			"versionNonce": 1011341358,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10716,6 +10695,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					4.685210164191801
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.08984375,
 				0.2353515625,
@@ -10725,37 +10706,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2763671875,
 				0.2275390625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.932196766900518,
-				4.685210164191801
 			]
 		},
 		{
-			"id": "P-ZTzF8Ylwgt_w2fsfKJJ",
 			"type": "freedraw",
-			"x": -140.2384316964177,
-			"y": -8.921685644143224,
-			"width": 7.808703465546216,
-			"height": 5.46609838345023,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 187,
+			"versionNonce": 1325385394,
+			"isDeleted": false,
+			"id": "P-ZTzF8Ylwgt_w2fsfKJJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -177.91413768977304,
+			"y": -36.65733289111208,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.808703465546216,
+			"height": 5.46609838345023,
+			"seed": 1569027950,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1569027950,
-			"version": 9,
-			"versionNonce": 1860405682,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10788,6 +10764,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-5.46609838345023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1337890625,
 				0.251953125,
@@ -10796,37 +10774,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.234375,
 				0.138671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.808703465546216,
-				-5.46609838345023
 			]
 		},
 		{
-			"id": "wFGZPoXN8EI6nvZiWASfm",
 			"type": "freedraw",
-			"x": -145.70450029202817,
-			"y": 10.600073019722231,
-			"width": 7.808703465546159,
-			"height": 3.9043517327730797,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 185,
+			"versionNonce": 947396722,
+			"isDeleted": false,
+			"id": "wFGZPoXN8EI6nvZiWASfm",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -183.3802062853835,
+			"y": -17.13557422724662,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.808703465546159,
+			"height": 3.9043517327730797,
+			"seed": 1042590062,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1042590062,
-			"version": 7,
-			"versionNonce": 171483758,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066875511,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10851,43 +10824,40 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					3.9043517327730797
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.154296875,
 				0.2041015625,
 				0.1982421875,
 				0.158203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.808703465546159,
-				3.9043517327730797
 			]
 		},
 		{
-			"id": "SMtaZP-qyz3aqx8AmOy3_",
 			"type": "freedraw",
-			"x": -74.05968174104981,
-			"y": 127.53542528897987,
-			"width": 26.549603697992893,
-			"height": 27.330462129411586,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 224,
+			"versionNonce": 222249522,
+			"isDeleted": false,
+			"id": "SMtaZP-qyz3aqx8AmOy3_",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -111.73538773440515,
+			"y": 99.79977804201101,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 26.549603697992893,
+			"height": 27.330462129411586,
+			"seed": 592332082,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 592332082,
-			"version": 46,
-			"versionNonce": 820048366,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066878548,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11072,6 +11042,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					1.561716862837443
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1015625,
 				0.34765625,
@@ -11118,37 +11090,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2373046875,
 				0.150390625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-7.808703465546159,
-				1.561716862837443
 			]
 		},
 		{
-			"id": "6Uk8UfQr6OcaPjjD3G6QG",
 			"type": "freedraw",
-			"x": -91.23880553497958,
-			"y": 147.83804238426399,
-			"width": 33.57744873212033,
-			"height": 29.673067211507487,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 206,
+			"versionNonce": 138161138,
+			"isDeleted": false,
+			"id": "6Uk8UfQr6OcaPjjD3G6QG",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -128.9145115283349,
+			"y": 120.10239513729513,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 33.57744873212033,
+			"height": 29.673067211507487,
+			"seed": 2111020466,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2111020466,
-			"version": 28,
-			"versionNonce": 228499694,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066879691,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11261,6 +11228,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					29.673067211507487
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.083984375,
 				0.2919921875,
@@ -11289,37 +11258,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.30859375,
 				0.3095703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-33.57744873212033,
-				29.673067211507487
 			]
 		},
 		{
-			"id": "6NPVsKo3WYyeeJwPLNRsa",
 			"type": "freedraw",
-			"x": -124.81625426709991,
-			"y": 178.29199781502996,
-			"width": 30.453955430765973,
-			"height": 21.083505314542606,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 269,
+			"versionNonce": 1869995442,
+			"isDeleted": false,
+			"id": "6NPVsKo3WYyeeJwPLNRsa",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -162.49196026045524,
+			"y": 150.5563505680611,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 30.453955430765973,
+			"height": 21.083505314542606,
+			"seed": 764165810,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 764165810,
-			"version": 91,
-			"versionNonce": 631653806,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066882301,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11684,6 +11648,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-0.7808882192584861
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1328125,
 				0.2001953125,
@@ -11775,37 +11741,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3779296875,
 				0.373046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				19.5217586638654,
-				-0.7808882192584861
 			]
 		},
 		{
-			"id": "D99L3UIv4_nEGF4sOmSUc",
 			"type": "freedraw",
-			"x": -105.29449560323451,
-			"y": 193.90940474612228,
-			"width": 30.453955430765916,
-			"height": 39.043517327730854,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 255,
+			"versionNonce": 806573938,
+			"isDeleted": false,
+			"id": "D99L3UIv4_nEGF4sOmSUc",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -142.97020159658985,
+			"y": 166.17375749915342,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 30.453955430765916,
+			"height": 39.043517327730854,
+			"seed": 663444978,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 663444978,
-			"version": 77,
-			"versionNonce": 1122646766,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066884628,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12114,6 +12075,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-37.48180046489341
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.09765625,
 				0.2958984375,
@@ -12191,37 +12154,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3955078125,
 				0.392578125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				29.67309699934725,
-				-37.48180046489341
 			]
 		},
 		{
-			"id": "f2IpcItiFTAXj--bZOoLQ",
 			"type": "freedraw",
-			"x": -44.38658474170256,
-			"y": 127.53542528897987,
-			"width": 24.2069688280572,
-			"height": 25.768715478734407,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 226,
+			"versionNonce": 2052823346,
+			"isDeleted": false,
+			"id": "f2IpcItiFTAXj--bZOoLQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -82.0622907350579,
+			"y": 99.79977804201101,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 24.2069688280572,
+			"height": 25.768715478734407,
+			"seed": 59671730,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 59671730,
-			"version": 48,
-			"versionNonce": 1748133614,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066889062,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12410,6 +12368,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.068359375,
 				0.2607421875,
@@ -12457,37 +12417,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3310546875,
 				0.205078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.5617764385169721,
-				3.123463513514622
 			]
 		},
 		{
-			"id": "lBK60G3VH8h-OZ1HJ7bFF",
 			"type": "freedraw",
-			"x": -63.1274849741493,
-			"y": 151.74239411703707,
-			"width": 6.246986602708716,
-			"height": 28.892208780088765,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 202,
+			"versionNonce": 1572184818,
+			"isDeleted": false,
+			"id": "lBK60G3VH8h-OZ1HJ7bFF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.80319096750463,
+			"y": 124.00674687006821,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 6.246986602708716,
+			"height": 28.892208780088765,
+			"seed": 1039964338,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1039964338,
-			"version": 24,
-			"versionNonce": 478379246,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066891655,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12584,6 +12539,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					28.892208780088765
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.1845703125,
@@ -12608,37 +12565,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.365234375,
 				0.361328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-6.246986602708716,
-				28.892208780088765
 			]
 		},
 		{
-			"id": "jbl9DNYhPvBDViwe0RVRT",
 			"type": "freedraw",
-			"x": -50.63357134441134,
-			"y": 155.64674584981015,
-			"width": 16.39826536251104,
-			"height": 36.700912245634925,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 226,
+			"versionNonce": 1688761522,
+			"isDeleted": false,
+			"id": "jbl9DNYhPvBDViwe0RVRT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -88.30927733776667,
+			"y": 127.91109860284129,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 16.39826536251104,
+			"height": 36.700912245634925,
+			"seed": 1249288882,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1249288882,
-			"version": 48,
-			"versionNonce": 1719642350,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066893540,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12831,6 +12783,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					36.700912245634925
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.23828125,
@@ -12879,37 +12833,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3623046875,
 				0.15234375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.9043517327730797,
-				36.700912245634925
 			]
 		},
 		{
-			"id": "MK-A63jnSGwA4I1AveHVS",
 			"type": "freedraw",
-			"x": -70.15533000827674,
-			"y": 181.41546132854455,
-			"width": 4.685210164191801,
-			"height": 15.617406931092319,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 201,
+			"versionNonce": 819662450,
+			"isDeleted": false,
+			"id": "MK-A63jnSGwA4I1AveHVS",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -107.83103600163207,
+			"y": 153.6798140815757,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 4.685210164191801,
+			"height": 15.617406931092319,
+			"seed": 1139848882,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1139848882,
-			"version": 23,
-			"versionNonce": 291734702,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066895057,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13002,6 +12951,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					15.617406931092319
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.064453125,
 				0.3203125,
@@ -13025,37 +12976,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3603515625,
 				0.1015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-3.9043517327730797,
-				15.617406931092319
 			]
 		},
 		{
-			"id": "jRBE44o9dFIRSUzGdZ3_L",
 			"type": "freedraw",
-			"x": -72.4979053025329,
-			"y": 196.25200982821815,
-			"width": 8.58956189696488,
-			"height": 11.713055198319239,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 199,
+			"versionNonce": 387215410,
+			"isDeleted": false,
+			"id": "jRBE44o9dFIRSUzGdZ3_L",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -110.17361129588824,
+			"y": 168.5163625812493,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 8.58956189696488,
+			"height": 11.713055198319239,
+			"seed": 1947692786,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1947692786,
-			"version": 21,
-			"versionNonce": 1515207662,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066896161,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13140,6 +13086,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-11.713055198319239
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.109375,
 				0.2021484375,
@@ -13161,37 +13109,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2841796875,
 				0.27734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.58956189696488,
-				-11.713055198319239
 			]
 		},
 		{
-			"id": "7QYEJzyhdypKexb09MDCh",
 			"type": "freedraw",
-			"x": -62.346626542730576,
-			"y": 184.5389546298989,
-			"width": 14.055690068254933,
-			"height": 7.808703465546159,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 195,
+			"versionNonce": 993761778,
+			"isDeleted": false,
+			"id": "7QYEJzyhdypKexb09MDCh",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.02233253608591,
+			"y": 156.80330738293006,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 14.055690068254933,
+			"height": 7.808703465546159,
+			"seed": 647705522,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 647705522,
-			"version": 17,
-			"versionNonce": 1107653166,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066896660,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13260,6 +13203,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					7.808703465546159
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1376953125,
 				0.2255859375,
@@ -13277,37 +13222,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.359375,
 				0.0634765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.055690068254933,
-				7.808703465546159
 			]
 		},
 		{
-			"id": "0sm16_uLIhAVYk0K048PC",
 			"type": "freedraw",
-			"x": -23.303109214999722,
-			"y": 188.443306362672,
-			"width": 7.027845034127495,
-			"height": 16.398295150350805,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 212,
+			"versionNonce": 743934898,
+			"isDeleted": false,
+			"id": "0sm16_uLIhAVYk0K048PC",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -60.97881520835506,
+			"y": 160.70765911570314,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.027845034127495,
+			"height": 16.398295150350805,
+			"seed": 618383730,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 618383730,
-			"version": 34,
-			"versionNonce": 1058604718,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066900859,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13444,6 +13384,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-15.617406931092319
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.419921875,
@@ -13478,37 +13420,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.4111328125,
 				0.111328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-15.617406931092319
 			]
 		},
 		{
-			"id": "DkTJy3bTQ4J46H6AxSGjU",
 			"type": "freedraw",
-			"x": -14.713547318034841,
-			"y": 185.31981306131763,
-			"width": 7.808703465546216,
-			"height": 14.055660280415111,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 206,
+			"versionNonce": 9389426,
+			"isDeleted": false,
+			"id": "DkTJy3bTQ4J46H6AxSGjU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -52.38925331139018,
+			"y": 157.58416581434878,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.808703465546216,
+			"height": 14.055660280415111,
+			"seed": 1187990770,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1187990770,
-			"version": 28,
-			"versionNonce": 911480238,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066901873,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13621,6 +13558,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-14.055660280415111
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.099609375,
 				0.2607421875,
@@ -13649,37 +13588,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3349609375,
 				0.3076171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-0.7808584314187215,
-				-14.055660280415111
 			]
 		},
 		{
-			"id": "WX4wsoxDnuYoJXyEWiY4G",
 			"type": "freedraw",
-			"x": -25.645684509255886,
-			"y": 186.88155971199484,
-			"width": 7.0277854584479655,
-			"height": 1.5617466506771507,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 189,
+			"versionNonce": 1898563378,
+			"isDeleted": false,
+			"id": "WX4wsoxDnuYoJXyEWiY4G",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -63.32139050261122,
+			"y": 159.145912465026,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.0277854584479655,
+			"height": 1.5617466506771507,
+			"seed": 989629938,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 989629938,
-			"version": 11,
-			"versionNonce": 1527168622,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066902990,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13720,6 +13654,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0537109375,
 				0.103515625,
@@ -13730,37 +13666,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.23828125,
 				0.2353515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.0277854584479655,
-				1.5617466506771507
 			]
 		},
 		{
-			"id": "5hspoyO9RMOt0lVSyojGD",
 			"type": "freedraw",
-			"x": -17.056122612291006,
-			"y": 186.10070128057612,
-			"width": 12.49391362973796,
-			"height": 36.70088245779522,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 240,
+			"versionNonce": 1989021938,
+			"isDeleted": false,
+			"id": "5hspoyO9RMOt0lVSyojGD",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -54.73182860564634,
+			"y": 158.36505403360727,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 12.49391362973796,
+			"height": 36.70088245779522,
+			"seed": 86731058,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 86731058,
-			"version": 62,
-			"versionNonce": 843936238,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066905188,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14009,6 +13940,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-35.139165594957774
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.1611328125,
@@ -14071,37 +14004,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.37109375,
 				0.2080078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.685210164191801,
-				-35.139165594957774
 			]
 		},
 		{
-			"id": "qVKMTOUpCSUb4LaBPbWFi",
 			"type": "freedraw",
-			"x": -21.741332776482807,
-			"y": 170.4832943494838,
-			"width": 3.123493301354358,
-			"height": 14.055690068254933,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 189,
+			"versionNonce": 1682121394,
+			"isDeleted": false,
+			"id": "qVKMTOUpCSUb4LaBPbWFi",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -59.41703876983814,
+			"y": 142.74764710251495,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 3.123493301354358,
+			"height": 14.055690068254933,
+			"seed": 939466162,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 939466162,
-			"version": 11,
-			"versionNonce": 77218478,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066905995,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14146,6 +14074,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-14.055690068254933
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1005859375,
 				0.30859375,
@@ -14157,37 +14087,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.4111328125,
 				0.412109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-3.123493301354358,
-				-14.055690068254933
 			]
 		},
 		{
-			"id": "3IZR0ov6iKcguBV4UAFjQ",
 			"type": "freedraw",
-			"x": -13.151770879517926,
-			"y": 143.9336906514909,
-			"width": 21.864393533801092,
-			"height": 10.151308547642088,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 217,
+			"versionNonce": 82836594,
+			"isDeleted": false,
+			"id": "3IZR0ov6iKcguBV4UAFjQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -50.82747687287326,
+			"y": 116.19804340452205,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 21.864393533801092,
+			"height": 10.151308547642088,
+			"seed": 1331646706,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1331646706,
-			"version": 39,
-			"versionNonce": 1737718382,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066907317,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14344,6 +14269,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					3.123493301354358
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.072265625,
 				0.240234375,
@@ -14383,37 +14310,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3173828125,
 				0.05859375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-20.30261709528412,
-				3.123493301354358
 			]
 		},
 		{
-			"id": "9l5rmW4LdojLCP6C5igCW",
 			"type": "freedraw",
-			"x": -29.550036242028966,
-			"y": 133.0014938845904,
-			"width": 17.959982225348483,
-			"height": 17.179153581769526,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 208,
+			"versionNonce": 911973938,
+			"isDeleted": false,
+			"id": "9l5rmW4LdojLCP6C5igCW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -67.2257422353843,
+			"y": 105.26584663762154,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 17.959982225348483,
+			"height": 17.179153581769526,
+			"seed": 1301802290,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1301802290,
-			"version": 30,
-			"versionNonce": 1577215470,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066908373,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14534,6 +14456,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					13.274801848996447
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0732421875,
 				0.25,
@@ -14564,37 +14488,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3349609375,
 				0.173828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.17912379392976,
-				13.274801848996447
 			]
 		},
 		{
-			"id": "FngUeGUT4x-DUmhuCeFm3",
 			"type": "freedraw",
-			"x": -66.25097827550366,
-			"y": 106.45191997443726,
-			"width": 12.49391362973796,
-			"height": 11.713055198319239,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 204,
+			"versionNonce": 91031538,
+			"isDeleted": false,
+			"id": "FngUeGUT4x-DUmhuCeFm3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -103.92668426885899,
+			"y": 78.71627272746841,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 12.49391362973796,
+			"height": 11.713055198319239,
+			"seed": 1859774898,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1859774898,
-			"version": 26,
-			"versionNonce": 1770969198,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066912693,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14699,6 +14618,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					7.808703465546188
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1669921875,
 				0.2392578125,
@@ -14725,37 +14646,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.2333984375,
 				0.1201171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.49391362973796,
-				7.808703465546188
 			]
 		},
 		{
-			"id": "fXB5gy04morJwuL1aLnb3",
 			"type": "freedraw",
-			"x": -56.09963994002186,
-			"y": 97.86232828963264,
-			"width": 15.617406931092376,
-			"height": 9.370420328383602,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 202,
+			"versionNonce": 1244346802,
+			"isDeleted": false,
+			"id": "fXB5gy04morJwuL1aLnb3",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -93.7753459333772,
+			"y": 70.12668104266379,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 15.617406931092376,
+			"height": 9.370420328383602,
+			"seed": 1015623474,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1015623474,
-			"version": 24,
-			"versionNonce": 274951790,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066913675,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14852,6 +14768,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					5.466098383450259
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1171875,
 				0.1806640625,
@@ -14876,37 +14794,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3193359375,
 				0.224609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				15.617406931092376,
-				5.466098383450259
 			]
 		},
 		{
-			"id": "aaAk6GA7qgVAYfwIqaAG1",
 			"type": "freedraw",
-			"x": -42.044009447446456,
-			"y": 86.14927309131338,
-			"width": 18.740900232446734,
-			"height": 14.055660280415168,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 211,
+			"versionNonce": 1136472946,
+			"isDeleted": false,
+			"id": "aaAk6GA7qgVAYfwIqaAG1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -79.71971544080179,
+			"y": 58.41362584434452,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 18.740900232446734,
+			"height": 14.055660280415168,
+			"seed": 803715378,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 803715378,
-			"version": 33,
-			"versionNonce": 2082683054,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066914905,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15039,6 +14952,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					9.370450116223367
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.091796875,
 				0.265625,
@@ -15072,37 +14987,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3134765625,
 				0.302734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.740900232446734,
-				9.370450116223367
 			]
 		},
 		{
-			"id": "iSMzbq7JNUjdDOJ-mgPBQ",
 			"type": "freedraw",
-			"x": 11.836056379957995,
-			"y": 125.1927904190442,
-			"width": 25.768745266574115,
-			"height": 24.206998615896993,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 215,
+			"versionNonce": 879359282,
+			"isDeleted": false,
+			"id": "iSMzbq7JNUjdDOJ-mgPBQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -25.83964961339734,
+			"y": 97.45714317207535,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 25.768745266574115,
+			"height": 24.206998615896993,
+			"seed": 885750514,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 885750514,
-			"version": 37,
-			"versionNonce": 1040372718,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066916930,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15247,6 +15157,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0869140625,
 				0.298828125,
@@ -15283,37 +15195,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.27734375,
 				0.1982421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0.7808584314187783,
-				3.1234933013543866
 			]
 		},
 		{
-			"id": "uUFIJzNPi1FeaRQNcfUT0",
 			"type": "freedraw",
-			"x": 1.6847776201556712,
-			"y": 149.3997890349412,
-			"width": 7.0277854584479655,
-			"height": 46.07133257401853,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 224,
+			"versionNonce": 2107145970,
+			"isDeleted": false,
+			"id": "uUFIJzNPi1FeaRQNcfUT0",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -35.990928373199665,
+			"y": 121.66414178797234,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 7.0277854584479655,
+			"height": 46.07133257401853,
+			"seed": 1113660338,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1113660338,
-			"version": 46,
-			"versionNonce": 524845934,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066918910,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15498,6 +15405,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					45.290474142599805
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0205078125,
 				0.173828125,
@@ -15544,37 +15453,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3388671875,
 				0.1552734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.5617764385169153,
-				45.290474142599805
 			]
 		},
 		{
-			"id": "gVWLXKdofvS5z5I1PC4FD",
 			"type": "freedraw",
-			"x": -1.438715681198687,
-			"y": 194.690263177541,
-			"width": 17.17912379392976,
-			"height": 20.30261709528412,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 208,
+			"versionNonce": 1003475122,
+			"isDeleted": false,
+			"id": "gVWLXKdofvS5z5I1PC4FD",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -39.11442167455402,
+			"y": 166.95461593057215,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 17.17912379392976,
+			"height": 20.30261709528412,
+			"seed": 389747762,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 389747762,
-			"version": 30,
-			"versionNonce": 819048174,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066919959,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15695,6 +15599,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-19.5217586638654
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.1240234375,
 				0.193359375,
@@ -15725,37 +15631,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.3486328125,
 				0.0693359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.836548499673654,
-				-19.5217586638654
 			]
 		},
 		{
-			"id": "oJQApuV_XsLfHCLxGWmnC",
 			"type": "freedraw",
-			"x": 13.397832818474967,
-			"y": 176.73025116435275,
-			"width": 17.959982225348426,
-			"height": 28.111350348670044,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 160,
+			"versionNonce": 1656154738,
+			"isDeleted": false,
+			"id": "oJQApuV_XsLfHCLxGWmnC",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -24.27787317488037,
+			"y": 148.9946039173839,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 17.959982225348426,
+			"height": 28.111350348670044,
+			"seed": 669962418,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 669962418,
-			"version": 59,
-			"versionNonce": 1122126766,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066921317,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15992,6 +15893,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-10.932196766900518
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.07421875,
 				0.193359375,
@@ -16051,37 +15954,32 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.330078125,
 				0.33203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.3425752942561076,
-				-10.932196766900518
 			]
 		},
 		{
-			"id": "zOb3wK0hybzlSrGPD5b02",
 			"type": "freedraw",
-			"x": 15.740408112731075,
-			"y": 167.35980104812938,
-			"width": 1.561716862837443,
-			"height": 13.27480184899639,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 191,
+			"versionNonce": 1494535218,
+			"isDeleted": false,
+			"id": "zOb3wK0hybzlSrGPD5b02",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -21.935297880624262,
+			"y": 139.62415380116053,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1.561716862837443,
+			"height": 13.27480184899639,
+			"seed": 763328498,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 763328498,
-			"version": 13,
-			"versionNonce": 1997992174,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696066921782,
+			"boundElements": [],
+			"updated": 1696067151329,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16134,6 +16032,8 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 					-13.27480184899639
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.099609375,
 				0.22265625,
@@ -16147,19 +16047,88 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 				0.380859375,
 				0.376953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.561716862837443,
-				-13.27480184899639
 			]
 		},
 		{
-			"id": "q1bRpmk7",
 			"type": "text",
-			"x": -191.58069272779147,
-			"y": 201.0348645311371,
+			"version": 142,
+			"versionNonce": 1455353006,
+			"isDeleted": false,
+			"id": "q1bRpmk7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 11.288340314274421,
+			"y": -83.94792827777286,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 226.21978759765625,
+			"height": 25,
+			"seed": 1349185202,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1696067143426,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "The 7 Sleepers (Youth)",
+			"rawText": "The 7 Sleepers (Youth)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "The 7 Sleepers (Youth)",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "i6XLyUhM",
+			"type": "text",
+			"x": 14.430868590940264,
+			"y": -43.777226136118315,
+			"width": 302.1158142089844,
+			"height": 89.42402947336858,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 966175794,
+			"version": 363,
+			"versionNonce": 2123593454,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696067163760,
+			"link": null,
+			"locked": false,
+			"text": "- They were imprisoned due to not bowing \nto idols when commanded to\n- They escaped and took refuge in a cave\n- In Christianity, they are believed to be\nmartyrs",
+			"rawText": "- They were imprisoned due to not bowing \nto idols when commanded to\n- They escaped and took refuge in a cave\n- In Christianity, they are believed to be\nmartyrs",
+			"fontSize": 14.307844715738971,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 84,
+			"containerId": null,
+			"originalText": "- They were imprisoned due to not bowing \nto idols when commanded to\n- They escaped and took refuge in a cave\n- In Christianity, they are believed to be\nmartyrs",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "bmnTo2j7",
+			"type": "text",
+			"x": -60.30641677798019,
+			"y": 128.89739271320195,
+			"width": 10,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -16172,2349 +16141,24 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1349185202,
-			"version": 54,
-			"versionNonce": 1825464050,
-			"isDeleted": false,
+			"seed": 1429529906,
+			"version": 3,
+			"versionNonce": 1574512366,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696066961098,
+			"updated": 1696067143426,
 			"link": null,
 			"locked": false,
-			"text": "The 7 Sleepers (Youth)",
-			"rawText": "The 7 Sleepers (Youth)",
+			"text": "",
+			"rawText": "",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "The 7 Sleepers (Youth)",
+			"originalText": "",
 			"lineHeight": 1.25
-		},
-		{
-			"id": "hef5ffKA_fQqH0WQPH4fF",
-			"type": "freedraw",
-			"x": -187.87151092111338,
-			"y": 177.70633909754605,
-			"width": 225.67154206942013,
-			"height": 103.07486191493757,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 4585518,
-			"version": 181,
-			"versionNonce": 1477306866,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875510,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7808584314187215,
-					0
-				],
-				[
-					2.3425752942561076,
-					0
-				],
-				[
-					3.9043517327730797,
-					-0.7808584314186646
-				],
-				[
-					5.466068595610523,
-					-1.561716862837443
-				],
-				[
-					7.027845034127438,
-					-2.3426348699356367
-				],
-				[
-					9.370420328383602,
-					-3.123493301354415
-				],
-				[
-					11.713055198319239,
-					-4.685210164191744
-				],
-				[
-					13.274772061156682,
-					-5.466068595610523
-				],
-				[
-					14.836548499673597,
-					-6.246986602708716
-				],
-				[
-					16.39826536251104,
-					-7.027845034127495
-				],
-				[
-					17.959982225348483,
-					-8.589561896964824
-				],
-				[
-					20.30261709528412,
-					-10.151338335481796
-				],
-				[
-					22.645251965219757,
-					-11.713055198319239
-				],
-				[
-					24.2069688280572,
-					-12.493913629737904
-				],
-				[
-					26.549603697992836,
-					-14.055690068254876
-				],
-				[
-					28.892178992249,
-					-15.617406931092319
-				],
-				[
-					30.453955430765916,
-					-16.398265362510983
-				],
-				[
-					32.79653072502208,
-					-17.960041801027955
-				],
-				[
-					33.5773891564408,
-					-18.740900232446734
-				],
-				[
-					35.13916559495772,
-					-20.302617095284063
-				],
-				[
-					37.48174088921388,
-					-21.08347552670284
-				],
-				[
-					38.26265889631213,
-					-21.864393533801035
-				],
-				[
-					39.0435173277308,
-					-22.645251965219813
-				],
-				[
-					39.82437575914952,
-					-23.426110396638478
-				],
-				[
-					40.60523419056824,
-					-24.206968828057256
-				],
-				[
-					41.38609262198696,
-					-24.98782725947592
-				],
-				[
-					42.16701062908521,
-					-25.768745266574115
-				],
-				[
-					42.16701062908521,
-					-26.549603697992893
-				],
-				[
-					43.7287274919226,
-					-27.330462129411558
-				],
-				[
-					44.50958592334132,
-					-28.892178992249
-				],
-				[
-					45.29044435476004,
-					-29.673096999347194
-				],
-				[
-					46.07136236185829,
-					-31.234813862184637
-				],
-				[
-					46.85222079327701,
-					-32.015672293603416
-				],
-				[
-					47.63307922469568,
-					-33.577448732120274
-				],
-				[
-					48.4139376561144,
-					-34.35830716353905
-				],
-				[
-					48.4139376561144,
-					-35.920024026376495
-				],
-				[
-					49.19479608753312,
-					-36.70088245779516
-				],
-				[
-					49.19479608753312,
-					-37.481800464893354
-				],
-				[
-					49.97571409463137,
-					-38.26265889631213
-				],
-				[
-					49.97571409463137,
-					-39.0435173277308
-				],
-				[
-					49.97571409463137,
-					-40.60523419056824
-				],
-				[
-					50.75657252605009,
-					-41.38615219766643
-				],
-				[
-					51.53743095746876,
-					-42.947869060503876
-				],
-				[
-					51.53743095746876,
-					-44.50958592334132
-				],
-				[
-					51.53743095746876,
-					-45.29050393043951
-				],
-				[
-					52.31828938888748,
-					-46.852220793276956
-				],
-				[
-					52.31828938888748,
-					-47.63307922469568
-				],
-				[
-					52.31828938888748,
-					-49.19485566321265
-				],
-				[
-					53.0991478203062,
-					-49.97571409463137
-				],
-				[
-					53.0991478203062,
-					-50.75657252605009
-				],
-				[
-					53.0991478203062,
-					-51.53743095746876
-				],
-				[
-					53.88006582740445,
-					-53.09920739598573
-				],
-				[
-					53.88006582740445,
-					-53.88006582740445
-				],
-				[
-					54.66092425882317,
-					-55.44178269024184
-				],
-				[
-					54.66092425882317,
-					-57.00355912875881
-				],
-				[
-					55.441782690241894,
-					-57.78441756017753
-				],
-				[
-					55.441782690241894,
-					-59.34613442301497
-				],
-				[
-					56.22264112166056,
-					-60.12699285443364
-				],
-				[
-					56.22264112166056,
-					-60.90791086153189
-				],
-				[
-					56.22264112166056,
-					-62.46962772436933
-				],
-				[
-					57.00349955307928,
-					-64.03134458720672
-				],
-				[
-					57.78441756017753,
-					-64.81226259430497
-				],
-				[
-					57.78441756017753,
-					-65.59312102572369
-				],
-				[
-					58.56527599159625,
-					-66.37397945714241
-				],
-				[
-					59.34613442301497,
-					-67.15483788856113
-				],
-				[
-					60.12699285443364,
-					-68.71661432707805
-				],
-				[
-					60.90785128585236,
-					-69.49747275849677
-				],
-				[
-					61.68876929295061,
-					-70.27833118991549
-				],
-				[
-					62.46962772436933,
-					-71.05918962133421
-				],
-				[
-					63.25048615578805,
-					-71.84004805275293
-				],
-				[
-					64.03134458720677,
-					-72.62096605985113
-				],
-				[
-					65.59312102572369,
-					-73.40182449126985
-				],
-				[
-					67.15483788856113,
-					-74.96354135410729
-				],
-				[
-					69.49747275849677,
-					-76.52531779262421
-				],
-				[
-					71.05918962133421,
-					-77.30617622404293
-				],
-				[
-					72.6209064841716,
-					-78.08703465546165
-				],
-				[
-					73.40182449126985,
-					-78.86789308688037
-				],
-				[
-					74.18268292268857,
-					-78.86789308688037
-				],
-				[
-					74.96354135410729,
-					-79.6487515182991
-				],
-				[
-					75.74439978552601,
-					-79.6487515182991
-				],
-				[
-					76.52525821694474,
-					-79.6487515182991
-				],
-				[
-					78.08703465546165,
-					-80.42966952539729
-				],
-				[
-					79.6487515182991,
-					-80.42966952539729
-				],
-				[
-					81.99138638823473,
-					-81.21052795681601
-				],
-				[
-					83.55310325107217,
-					-81.99138638823473
-				],
-				[
-					86.67659655242653,
-					-83.55310325107217
-				],
-				[
-					88.23831341526397,
-					-84.33402125817037
-				],
-				[
-					89.80008985378089,
-					-84.33402125817037
-				],
-				[
-					91.36180671661833,
-					-85.11487968958909
-				],
-				[
-					92.14266514803705,
-					-85.11487968958909
-				],
-				[
-					94.48530001797269,
-					-85.89573812100781
-				],
-				[
-					96.04701688081013,
-					-86.67659655242653
-				],
-				[
-					97.60879331932705,
-					-87.45745498384525
-				],
-				[
-					99.17051018216449,
-					-87.45745498384525
-				],
-				[
-					101.51314505210013,
-					-89.01923142236217
-				],
-				[
-					103.07486191493757,
-					-89.80008985378089
-				],
-				[
-					105.41749678487321,
-					-90.58094828519961
-				],
-				[
-					106.97921364771065,
-					-91.36180671661833
-				],
-				[
-					108.54099008622762,
-					-92.14272472371658
-				],
-				[
-					110.10270694906507,
-					-92.92358315513525
-				],
-				[
-					110.88356538048373,
-					-93.70444158655397
-				],
-				[
-					112.4453418190007,
-					-93.70444158655397
-				],
-				[
-					113.22620025041937,
-					-94.48530001797269
-				],
-				[
-					114.00705868183815,
-					-95.26615844939141
-				],
-				[
-					114.78791711325681,
-					-96.04707645648966
-				],
-				[
-					115.56877554467559,
-					-96.04707645648966
-				],
-				[
-					117.13055198319245,
-					-96.82793488790833
-				],
-				[
-					117.91141041461123,
-					-97.60879331932705
-				],
-				[
-					120.25404528454686,
-					-99.17051018216449
-				],
-				[
-					121.8157621473843,
-					-99.95142818926274
-				],
-				[
-					123.37747901022175,
-					-100.7322866206814
-				],
-				[
-					124.9392554487386,
-					-101.51314505210013
-				],
-				[
-					126.50097231157605,
-					-102.29400348351885
-				],
-				[
-					127.28183074299483,
-					-102.29400348351885
-				],
-				[
-					128.06274875009302,
-					-102.29400348351885
-				],
-				[
-					129.62446561293046,
-					-102.29400348351885
-				],
-				[
-					131.1861824757679,
-					-102.29400348351885
-				],
-				[
-					133.52881734570354,
-					-103.07486191493757
-				],
-				[
-					134.3096757771222,
-					-103.07486191493757
-				],
-				[
-					135.87145221563918,
-					-103.07486191493757
-				],
-				[
-					138.99488594131407,
-					-103.07486191493757
-				],
-				[
-					140.55666237983093,
-					-103.07486191493757
-				],
-				[
-					142.11837924266837,
-					-103.07486191493757
-				],
-				[
-					144.46101411260412,
-					-102.29400348351885
-				],
-				[
-					146.02273097544145,
-					-102.29400348351885
-				],
-				[
-					148.3653658453772,
-					-101.51314505210013
-				],
-				[
-					149.92708270821453,
-					-100.7322866206814
-				],
-				[
-					151.4888591467315,
-					-100.7322866206814
-				],
-				[
-					153.8314344409876,
-					-99.95142818926274
-				],
-				[
-					156.95492774234202,
-					-98.38965175074577
-				],
-				[
-					160.07842104369644,
-					-97.60879331932705
-				],
-				[
-					162.42099633795254,
-					-97.60879331932705
-				],
-				[
-					164.76363120788818,
-					-96.82793488790833
-				],
-				[
-					167.10626607782382,
-					-96.82793488790833
-				],
-				[
-					169.44884137208004,
-					-96.04707645648966
-				],
-				[
-					171.79147624201568,
-					-96.04707645648966
-				],
-				[
-					173.35319310485312,
-					-95.26615844939141
-				],
-				[
-					175.69582797478876,
-					-95.26615844939141
-				],
-				[
-					178.81932127614306,
-					-95.26615844939141
-				],
-				[
-					181.16189657039928,
-					-94.48530001797269
-				],
-				[
-					182.72367300891614,
-					-94.48530001797269
-				],
-				[
-					185.06624830317236,
-					-94.48530001797269
-				],
-				[
-					186.62802474168922,
-					-94.48530001797269
-				],
-				[
-					188.18974160452666,
-					-93.70444158655397
-				],
-				[
-					189.7514584673641,
-					-93.70444158655397
-				],
-				[
-					191.31323490588107,
-					-92.92358315513525
-				],
-				[
-					192.87495176871852,
-					-92.92358315513525
-				],
-				[
-					194.43672820723538,
-					-92.92358315513525
-				],
-				[
-					196.7793035014916,
-					-92.14272472371658
-				],
-				[
-					198.34107994000846,
-					-92.14272472371658
-				],
-				[
-					199.9027968028459,
-					-92.14272472371658
-				],
-				[
-					200.68365523426468,
-					-92.14272472371658
-				],
-				[
-					203.0262901042003,
-					-91.36180671661833
-				],
-				[
-					205.36886539845642,
-					-91.36180671661833
-				],
-				[
-					206.14978340555473,
-					-90.58094828519961
-				],
-				[
-					207.71150026839206,
-					-90.58094828519961
-				],
-				[
-					208.49235869981084,
-					-90.58094828519961
-				],
-				[
-					210.83499356974647,
-					-90.58094828519961
-				],
-				[
-					212.39671043258392,
-					-90.58094828519961
-				],
-				[
-					213.9584868711009,
-					-90.58094828519961
-				],
-				[
-					216.301062165357,
-					-90.58094828519961
-				],
-				[
-					218.64369703529263,
-					-90.58094828519961
-				],
-				[
-					220.20541389813008,
-					-91.36180671661833
-				],
-				[
-					221.76719033664705,
-					-91.36180671661833
-				],
-				[
-					223.3289071994845,
-					-92.14272472371658
-				],
-				[
-					224.89062406232182,
-					-92.92358315513525
-				],
-				[
-					225.67154206942013,
-					-92.92358315513525
-				],
-				[
-					224.89062406232182,
-					-93.70444158655397
-				],
-				[
-					224.89062406232182,
-					-93.70444158655397
-				]
-			],
-			"pressures": [
-				0.2236328125,
-				0.3046875,
-				0.34765625,
-				0.37890625,
-				0.40625,
-				0.42578125,
-				0.4443359375,
-				0.46484375,
-				0.4755859375,
-				0.484375,
-				0.4873046875,
-				0.4931640625,
-				0.494140625,
-				0.49609375,
-				0.4970703125,
-				0.498046875,
-				0.5009765625,
-				0.5,
-				0.5009765625,
-				0.5029296875,
-				0.5029296875,
-				0.5029296875,
-				0.50390625,
-				0.50390625,
-				0.50390625,
-				0.5048828125,
-				0.505859375,
-				0.505859375,
-				0.5048828125,
-				0.50390625,
-				0.505859375,
-				0.5048828125,
-				0.5068359375,
-				0.5068359375,
-				0.5048828125,
-				0.5048828125,
-				0.5068359375,
-				0.5087890625,
-				0.5107421875,
-				0.51171875,
-				0.5126953125,
-				0.5146484375,
-				0.5146484375,
-				0.513671875,
-				0.513671875,
-				0.5166015625,
-				0.5166015625,
-				0.517578125,
-				0.517578125,
-				0.517578125,
-				0.5166015625,
-				0.51953125,
-				0.517578125,
-				0.51953125,
-				0.5205078125,
-				0.51953125,
-				0.51953125,
-				0.51953125,
-				0.5205078125,
-				0.5205078125,
-				0.5205078125,
-				0.517578125,
-				0.517578125,
-				0.51953125,
-				0.51953125,
-				0.517578125,
-				0.51953125,
-				0.51953125,
-				0.517578125,
-				0.51953125,
-				0.5185546875,
-				0.51953125,
-				0.517578125,
-				0.5166015625,
-				0.51953125,
-				0.51953125,
-				0.5205078125,
-				0.5224609375,
-				0.5244140625,
-				0.5263671875,
-				0.5283203125,
-				0.5283203125,
-				0.5302734375,
-				0.5322265625,
-				0.5322265625,
-				0.5341796875,
-				0.5380859375,
-				0.5390625,
-				0.5390625,
-				0.541015625,
-				0.541015625,
-				0.54296875,
-				0.5439453125,
-				0.5458984375,
-				0.5458984375,
-				0.55078125,
-				0.5517578125,
-				0.5517578125,
-				0.5517578125,
-				0.5537109375,
-				0.5537109375,
-				0.5546875,
-				0.5556640625,
-				0.556640625,
-				0.5576171875,
-				0.55859375,
-				0.5595703125,
-				0.5595703125,
-				0.5595703125,
-				0.5615234375,
-				0.5615234375,
-				0.5615234375,
-				0.5615234375,
-				0.5625,
-				0.5615234375,
-				0.5625,
-				0.5625,
-				0.5634765625,
-				0.564453125,
-				0.564453125,
-				0.564453125,
-				0.5673828125,
-				0.5673828125,
-				0.56640625,
-				0.5693359375,
-				0.5693359375,
-				0.572265625,
-				0.576171875,
-				0.5771484375,
-				0.5810546875,
-				0.58203125,
-				0.5830078125,
-				0.5849609375,
-				0.587890625,
-				0.5888671875,
-				0.59375,
-				0.5986328125,
-				0.5986328125,
-				0.6005859375,
-				0.603515625,
-				0.6064453125,
-				0.607421875,
-				0.611328125,
-				0.61328125,
-				0.6142578125,
-				0.6162109375,
-				0.6162109375,
-				0.619140625,
-				0.6181640625,
-				0.62109375,
-				0.6220703125,
-				0.6220703125,
-				0.6220703125,
-				0.6240234375,
-				0.6240234375,
-				0.6240234375,
-				0.625,
-				0.625,
-				0.6240234375,
-				0.6220703125,
-				0.62109375,
-				0.6220703125,
-				0.6220703125,
-				0.6220703125,
-				0.6220703125,
-				0.6220703125,
-				0.6298828125,
-				0.640625,
-				0.3310546875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				224.89062406232182,
-				-93.70444158655397
-			]
-		},
-		{
-			"id": "0Bt9TUgbStXuR1sVNom53",
-			"type": "freedraw",
-			"x": -148.8279935933826,
-			"y": -15.168642459012176,
-			"width": 44.50964549902085,
-			"height": 46.85222079327701,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 757983410,
-			"version": 81,
-			"versionNonce": 551710830,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875510,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-3.9043517327730797,
-					0
-				],
-				[
-					-5.466128171289995,
-					0
-				],
-				[
-					-6.246986602708716,
-					0
-				],
-				[
-					-8.58956189696488,
-					0
-				],
-				[
-					-10.932196766900518,
-					0.7808584314187215
-				],
-				[
-					-13.274831636836154,
-					2.342605082095872
-				],
-				[
-					-14.836548499673597,
-					3.9043517327730797
-				],
-				[
-					-17.179183369609234,
-					6.246956814868952
-				],
-				[
-					-18.740900232446677,
-					9.37045011622331
-				],
-				[
-					-21.083535102382314,
-					14.836548499673597
-				],
-				[
-					-22.645251965219757,
-					17.96001201318819
-				],
-				[
-					-23.426110396638478,
-					21.86436374596127
-				],
-				[
-					-24.2069688280572,
-					24.987857047315686
-				],
-				[
-					-24.987886835155393,
-					29.673067211507487
-				],
-				[
-					-24.987886835155393,
-					32.01567229360336
-				],
-				[
-					-24.2069688280572,
-					33.577418944280566
-				],
-				[
-					-22.645251965219757,
-					35.92002402637644
-				],
-				[
-					-21.864393533801035,
-					37.481770677053646
-				],
-				[
-					-19.5217586638654,
-					40.605263978408004
-				],
-				[
-					-17.960041801027955,
-					42.16701062908521
-				],
-				[
-					-16.39826536251104,
-					43.7287274919226
-				],
-				[
-					-14.836548499673597,
-					44.509615711181084
-				],
-				[
-					-11.713055198319239,
-					46.07136236185829
-				],
-				[
-					-10.151338335481796,
-					46.07136236185829
-				],
-				[
-					-7.808703465546159,
-					46.07136236185829
-				],
-				[
-					-5.466128171289995,
-					46.07136236185829
-				],
-				[
-					-3.9043517327730797,
-					46.07136236185829
-				],
-				[
-					-0.7808584314186646,
-					46.07136236185829
-				],
-				[
-					0.7808584314187215,
-					45.290474142599805
-				],
-				[
-					2.3425752942561644,
-					44.509615711181084
-				],
-				[
-					4.685210164191801,
-					44.509615711181084
-				],
-				[
-					8.58956189696488,
-					42.947869060503876
-				],
-				[
-					10.932196766900574,
-					42.16701062908521
-				],
-				[
-					13.274772061156682,
-					40.605263978408004
-				],
-				[
-					15.617406931092376,
-					39.82437575914952
-				],
-				[
-					17.17912379392976,
-					38.262658896312075
-				],
-				[
-					17.959982225348483,
-					37.481770677053646
-				],
-				[
-					18.740900232446734,
-					36.700912245634925
-				],
-				[
-					18.740900232446734,
-					35.13916559495772
-				],
-				[
-					18.740900232446734,
-					34.358307163538996
-				],
-				[
-					18.740900232446734,
-					32.01567229360336
-				],
-				[
-					19.521758663865455,
-					30.453955430765916
-				],
-				[
-					19.521758663865455,
-					28.11132056083028
-				],
-				[
-					19.521758663865455,
-					25.768715478734407
-				],
-				[
-					19.521758663865455,
-					24.987857047315686
-				],
-				[
-					19.521758663865455,
-					22.645251965219757
-				],
-				[
-					19.521758663865455,
-					21.86436374596127
-				],
-				[
-					19.521758663865455,
-					20.30261709528412
-				],
-				[
-					18.740900232446734,
-					19.5217586638654
-				],
-				[
-					17.959982225348483,
-					17.96001201318819
-				],
-				[
-					17.17912379392976,
-					16.39826536251104
-				],
-				[
-					16.398265362511097,
-					14.836548499673597
-				],
-				[
-					15.617406931092376,
-					13.274801848996447
-				],
-				[
-					14.836548499673654,
-					11.713055198319239
-				],
-				[
-					13.274772061156682,
-					10.151308547642031
-				],
-				[
-					12.49391362973796,
-					9.37045011622331
-				],
-				[
-					11.713055198319296,
-					8.58956189696488
-				],
-				[
-					10.932196766900574,
-					7.808703465546159
-				],
-				[
-					8.58956189696488,
-					6.246956814868952
-				],
-				[
-					7.027845034127495,
-					5.46609838345023
-				],
-				[
-					5.466068595610523,
-					3.9043517327730797
-				],
-				[
-					3.123493301354415,
-					3.123493301354358
-				],
-				[
-					0.7808584314187215,
-					2.342605082095872
-				],
-				[
-					-1.5617764385169153,
-					0.7808584314187215
-				],
-				[
-					-3.123493301354358,
-					0
-				],
-				[
-					-4.685210164191744,
-					-0.7808584314187215
-				],
-				[
-					-6.246986602708716,
-					-0.7808584314187215
-				],
-				[
-					-7.027845034127438,
-					-0.7808584314187215
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0.1005859375,
-				0.244140625,
-				0.287109375,
-				0.30859375,
-				0.3466796875,
-				0.3623046875,
-				0.380859375,
-				0.4306640625,
-				0.4326171875,
-				0.4345703125,
-				0.4345703125,
-				0.435546875,
-				0.4375,
-				0.4384765625,
-				0.4384765625,
-				0.4384765625,
-				0.4375,
-				0.4375,
-				0.4375,
-				0.4365234375,
-				0.4345703125,
-				0.43359375,
-				0.4326171875,
-				0.4287109375,
-				0.4267578125,
-				0.42578125,
-				0.423828125,
-				0.42578125,
-				0.42578125,
-				0.4248046875,
-				0.4248046875,
-				0.42578125,
-				0.4248046875,
-				0.4248046875,
-				0.4248046875,
-				0.42578125,
-				0.4248046875,
-				0.42578125,
-				0.4267578125,
-				0.4287109375,
-				0.4287109375,
-				0.4306640625,
-				0.4306640625,
-				0.431640625,
-				0.4326171875,
-				0.4326171875,
-				0.43359375,
-				0.43359375,
-				0.4345703125,
-				0.4345703125,
-				0.4375,
-				0.4375,
-				0.4384765625,
-				0.4375,
-				0.4384765625,
-				0.439453125,
-				0.443359375,
-				0.4453125,
-				0.4462890625,
-				0.447265625,
-				0.4482421875,
-				0.44921875,
-				0.44921875,
-				0.44921875,
-				0.44921875,
-				0.44921875,
-				0.4345703125,
-				0.3388671875,
-				0.1181640625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-7.027845034127438,
-				-0.7808584314187215
-			]
-		},
-		{
-			"id": "FVg8L4GawFOVfjdpP5Kqc",
-			"type": "freedraw",
-			"x": -152.73234532615567,
-			"y": 15.28531297175374,
-			"width": 2.3425752942561644,
-			"height": 13.274772061156682,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 705749618,
-			"version": 17,
-			"versionNonce": 1750479534,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875510,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7808584314187215,
-					1.561716862837443
-				],
-				[
-					0.7808584314187215,
-					5.466068595610523
-				],
-				[
-					0.7808584314187215,
-					7.808703465546159
-				],
-				[
-					1.561716862837443,
-					10.151308547642088
-				],
-				[
-					1.561716862837443,
-					11.713055198319296
-				],
-				[
-					2.3425752942561644,
-					13.274772061156682
-				],
-				[
-					2.3425752942561644,
-					13.274772061156682
-				]
-			],
-			"pressures": [
-				0.177734375,
-				0.3056640625,
-				0.3232421875,
-				0.3232421875,
-				0.3173828125,
-				0.2763671875,
-				0.220703125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.3425752942561644,
-				13.274772061156682
-			]
-		},
-		{
-			"id": "AS693H6QRXYK6gVe_W6JO",
-			"type": "freedraw",
-			"x": -141.01929012783637,
-			"y": 9.038326369045024,
-			"width": 8.58956189696488,
-			"height": 10.151338335481796,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1646457394,
-			"version": 17,
-			"versionNonce": 358487858,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875510,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.7808584314187215,
-					0
-				],
-				[
-					-0.7808584314187215,
-					0.7808882192584861
-				],
-				[
-					0,
-					2.3426348699356367
-				],
-				[
-					1.561716862837386,
-					4.685239952031566
-				],
-				[
-					4.685210164191744,
-					8.589591684804645
-				],
-				[
-					7.027845034127438,
-					10.151338335481796
-				],
-				[
-					7.808703465546159,
-					10.151338335481796
-				],
-				[
-					7.808703465546159,
-					10.151338335481796
-				]
-			],
-			"pressures": [
-				0.0849609375,
-				0.28515625,
-				0.3203125,
-				0.3232421875,
-				0.32421875,
-				0.3203125,
-				0.2529296875,
-				0.16015625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.808703465546159,
-				10.151338335481796
-			]
-		},
-		{
-			"id": "hebvkpmr_Nz5Fn2LC-gsI",
-			"type": "freedraw",
-			"x": -134.77236310080718,
-			"y": -4.2364456921116584,
-			"width": 9.370479904063131,
-			"height": 4.685239952031566,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 157236146,
-			"version": 16,
-			"versionNonce": 144157934,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.7808584314187215,
-					0
-				],
-				[
-					0,
-					0
-				],
-				[
-					0.7809180070982507,
-					-0.7808882192584861
-				],
-				[
-					3.123493301354358,
-					-1.5617466506772075
-				],
-				[
-					5.466128171290052,
-					-3.123493301354358
-				],
-				[
-					7.808703465546159,
-					-3.9043517327730797
-				],
-				[
-					8.58962147264441,
-					-4.685239952031566
-				],
-				[
-					8.58962147264441,
-					-4.685239952031566
-				]
-			],
-			"pressures": [
-				0.1171875,
-				0.2763671875,
-				0.2998046875,
-				0.3076171875,
-				0.3212890625,
-				0.3251953125,
-				0.30078125,
-				0.234375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.58962147264441,
-				-4.685239952031566
-			]
-		},
-		{
-			"id": "B4tLx0iEdkmVvuUVnd6ON",
-			"type": "freedraw",
-			"x": -147.26627673054514,
-			"y": -13.606895808335025,
-			"width": 3.9043517327730797,
-			"height": 10.932196766900518,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2090181938,
-			"version": 13,
-			"versionNonce": 800612594,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.3426348699356936,
-					-5.46609838345023
-				],
-				[
-					3.123493301354358,
-					-7.808703465546159
-				],
-				[
-					3.9043517327730797,
-					-9.37045011622331
-				],
-				[
-					3.9043517327730797,
-					-10.151308547642031
-				],
-				[
-					3.9043517327730797,
-					-10.932196766900518
-				],
-				[
-					3.9043517327730797,
-					-10.932196766900518
-				]
-			],
-			"pressures": [
-				0.17578125,
-				0.2900390625,
-				0.30078125,
-				0.30078125,
-				0.279296875,
-				0.0390625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.9043517327730797,
-				-10.932196766900518
-			]
-		},
-		{
-			"id": "hGxE1gfr68s5dNgwKjcEK",
-			"type": "freedraw",
-			"x": -160.54104879170183,
-			"y": -15.168642459012176,
-			"width": 6.246986602708716,
-			"height": 8.58956189696488,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1335350066,
-			"version": 13,
-			"versionNonce": 254795566,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.3426348699356367,
-					-1.5617466506772075
-				],
-				[
-					-3.123493301354358,
-					-3.123493301354358
-				],
-				[
-					-3.9043517327730797,
-					-4.685210164191801
-				],
-				[
-					-4.685210164191801,
-					-6.246956814869009
-				],
-				[
-					-5.466128171289995,
-					-7.808703465546159
-				],
-				[
-					-6.246986602708716,
-					-8.58956189696488
-				],
-				[
-					-6.246986602708716,
-					-8.58956189696488
-				]
-			],
-			"pressures": [
-				0.09765625,
-				0.30859375,
-				0.3603515625,
-				0.36328125,
-				0.3525390625,
-				0.28125,
-				0.1328125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-6.246986602708716,
-				-8.58956189696488
-			]
-		},
-		{
-			"id": "yXRR5fUsB8raLeftr6oAb",
-			"type": "freedraw",
-			"x": -167.56889382582926,
-			"y": 3.572257773434501,
-			"width": 7.027845034127438,
-			"height": 3.9043517327730797,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1008274162,
-			"version": 11,
-			"versionNonce": 597914290,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.561716862837443,
-					0
-				],
-				[
-					-2.3426348699356367,
-					0
-				],
-				[
-					-4.685210164191801,
-					1.561716862837443
-				],
-				[
-					-6.246986602708716,
-					3.1234635135145936
-				],
-				[
-					-7.027845034127438,
-					3.9043517327730797
-				],
-				[
-					-7.027845034127438,
-					3.9043517327730797
-				]
-			],
-			"pressures": [
-				0.130859375,
-				0.333984375,
-				0.357421875,
-				0.353515625,
-				0.2744140625,
-				0.09765625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-7.027845034127438,
-				3.9043517327730797
-			]
-		},
-		{
-			"id": "nz6nj4SGMgcJDxx-YfWBP",
-			"type": "freedraw",
-			"x": -162.88368366163746,
-			"y": 12.161819670399382,
-			"width": 4.685210164191801,
-			"height": 7.808703465546159,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 755595506,
-			"version": 10,
-			"versionNonce": 1887947118,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.7808584314187215,
-					0.7808584314187215
-				],
-				[
-					-1.561716862837443,
-					1.5617466506772075
-				],
-				[
-					-3.123493301354358,
-					3.9043517327730797
-				],
-				[
-					-3.9043517327730797,
-					6.246956814869009
-				],
-				[
-					-4.685210164191801,
-					7.808703465546159
-				],
-				[
-					-4.685210164191801,
-					7.808703465546159
-				]
-			],
-			"pressures": [
-				0.0478515625,
-				0.2470703125,
-				0.2548828125,
-				0.279296875,
-				0.28125,
-				0.1826171875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4.685210164191801,
-				7.808703465546159
-			]
-		},
-		{
-			"id": "pqy2eRms22EGLAxjdszd5",
-			"type": "freedraw",
-			"x": -117.00755080155375,
-			"y": 165.79805439745223,
-			"width": 76.52531779262426,
-			"height": 27.330462129411615,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 503201518,
-			"version": 100,
-			"versionNonce": 1290503026,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696066875511,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.7808584314187215,
-					0
-				],
-				[
-					1.5617764385169721,
-					0
-				],
-				[
-					3.9043517327730797,
-					0
-				],
-				[
-					5.466128171290052,
-					-0.7808584314187215
-				],
-				[
-					8.58956189696488,
-					-1.5617466506772075
-				],
-				[
-					10.932196766900574,
-					-2.342605082095929
-				],
-				[
-					12.49391362973796,
-					-2.342605082095929
-				],
-				[
-					14.836548499673654,
-					-3.1234635135145936
-				],
-				[
-					16.39826536251104,
-					-3.1234635135145936
-				],
-				[
-					19.521758663865455,
-					-3.1234635135145936
-				],
-				[
-					21.864393533801092,
-					-3.1234635135145936
-				],
-				[
-					24.2069688280572,
-					-3.9043517327730797
-				],
-				[
-					26.549603697992893,
-					-3.9043517327730797
-				],
-				[
-					29.67309699934725,
-					-4.685210164191801
-				],
-				[
-					32.015672293603416,
-					-5.466098383450287
-				],
-				[
-					33.57744873212033,
-					-5.466098383450287
-				],
-				[
-					35.139165594957774,
-					-6.246956814869009
-				],
-				[
-					36.70094203347469,
-					-6.246956814869009
-				],
-				[
-					39.824375759149575,
-					-7.808703465546159
-				],
-				[
-					41.38615219766649,
-					-7.808703465546159
-				],
-				[
-					43.728727491922655,
-					-8.58956189696488
-				],
-				[
-					45.29050393043957,
-					-8.58956189696488
-				],
-				[
-					47.633079224695734,
-					-9.370450116223367
-				],
-				[
-					50.75657252605009,
-					-10.151308547642088
-				],
-				[
-					52.31834896456701,
-					-10.151308547642088
-				],
-				[
-					53.88006582740445,
-					-10.151308547642088
-				],
-				[
-					55.441782690241894,
-					-10.93216697906081
-				],
-				[
-					57.00355912875881,
-					-10.93216697906081
-				],
-				[
-					57.78441756017753,
-					-10.93216697906081
-				],
-				[
-					58.56527599159625,
-					-10.151308547642088
-				],
-				[
-					60.127052430113224,
-					-10.151308547642088
-				],
-				[
-					60.90791086153189,
-					-9.370450116223367
-				],
-				[
-					62.46962772436933,
-					-9.370450116223367
-				],
-				[
-					63.25048615578805,
-					-9.370450116223367
-				],
-				[
-					64.0314041628863,
-					-9.370450116223367
-				],
-				[
-					65.59312102572369,
-					-8.58956189696488
-				],
-				[
-					66.37397945714241,
-					-8.58956189696488
-				],
-				[
-					67.15483788856113,
-					-7.808703465546159
-				],
-				[
-					69.49747275849677,
-					-7.027815246287673
-				],
-				[
-					70.27833118991549,
-					-6.246956814869009
-				],
-				[
-					71.05918962133421,
-					-6.246956814869009
-				],
-				[
-					71.84010762843246,
-					-5.466098383450287
-				],
-				[
-					72.62096605985118,
-					-5.466098383450287
-				],
-				[
-					72.62096605985118,
-					-4.685210164191801
-				],
-				[
-					73.40182449126985,
-					-3.9043517327730797
-				],
-				[
-					74.18268292268857,
-					-3.1234635135145936
-				],
-				[
-					74.18268292268857,
-					-2.342605082095929
-				],
-				[
-					74.96354135410729,
-					-1.5617466506772075
-				],
-				[
-					74.96354135410729,
-					-0.7808584314187215
-				],
-				[
-					75.74445936120554,
-					-0.7808584314187215
-				],
-				[
-					75.74445936120554,
-					0
-				],
-				[
-					75.74445936120554,
-					0.7808882192584861
-				],
-				[
-					76.52531779262426,
-					1.5617466506771507
-				],
-				[
-					76.52531779262426,
-					2.342605082095872
-				],
-				[
-					76.52531779262426,
-					3.123493301354358
-				],
-				[
-					76.52531779262426,
-					3.9043517327730797
-				],
-				[
-					76.52531779262426,
-					4.685239952031566
-				],
-				[
-					76.52531779262426,
-					5.466098383450287
-				],
-				[
-					76.52531779262426,
-					6.246956814868952
-				],
-				[
-					76.52531779262426,
-					7.027845034127438
-				],
-				[
-					75.74445936120554,
-					7.808703465546159
-				],
-				[
-					74.96354135410729,
-					10.151308547642031
-				],
-				[
-					74.18268292268857,
-					10.932196766900518
-				],
-				[
-					73.40182449126985,
-					11.713055198319239
-				],
-				[
-					72.62096605985118,
-					12.493943417577725
-				],
-				[
-					71.84010762843246,
-					13.274801848996447
-				],
-				[
-					70.27833118991549,
-					14.055660280415168
-				],
-				[
-					69.49747275849677,
-					14.836548499673597
-				],
-				[
-					68.7166143270781,
-					15.617406931092319
-				],
-				[
-					67.93575589565938,
-					16.398295150350805
-				],
-				[
-					67.15483788856113,
-					16.398295150350805
-				],
-				[
-					66.37397945714241,
-					16.398295150350805
-				],
-				[
-					65.59312102572369,
-					16.398295150350805
-				],
-				[
-					64.81226259430503,
-					16.398295150350805
-				],
-				[
-					64.0314041628863,
-					16.398295150350805
-				],
-				[
-					63.25048615578805,
-					16.398295150350805
-				],
-				[
-					62.46962772436933,
-					16.398295150350805
-				],
-				[
-					61.68876929295061,
-					16.398295150350805
-				],
-				[
-					60.90791086153189,
-					16.398295150350805
-				],
-				[
-					60.127052430113224,
-					16.398295150350805
-				],
-				[
-					59.34613442301497,
-					16.398295150350805
-				],
-				[
-					57.78441756017753,
-					16.398295150350805
-				],
-				[
-					57.00355912875881,
-					15.617406931092319
-				],
-				[
-					56.222700697340144,
-					15.617406931092319
-				],
-				[
-					56.222700697340144,
-					14.836548499673597
-				],
-				[
-					55.441782690241894,
-					14.836548499673597
-				],
-				[
-					55.441782690241894,
-					14.055660280415168
-				],
-				[
-					54.66092425882317,
-					14.055660280415168
-				],
-				[
-					54.66092425882317,
-					13.274801848996447
-				],
-				[
-					53.88006582740445,
-					12.493943417577725
-				],
-				[
-					53.88006582740445,
-					11.713055198319239
-				],
-				[
-					53.09920739598573,
-					11.713055198319239
-				],
-				[
-					53.09920739598573,
-					10.932196766900518
-				],
-				[
-					53.09920739598573,
-					10.151308547642031
-				],
-				[
-					52.31834896456701,
-					10.151308547642031
-				],
-				[
-					52.31834896456701,
-					9.370450116223367
-				],
-				[
-					52.31834896456701,
-					9.370450116223367
-				]
-			],
-			"pressures": [
-				0.0537109375,
-				0.2958984375,
-				0.306640625,
-				0.3193359375,
-				0.3330078125,
-				0.3525390625,
-				0.357421875,
-				0.3603515625,
-				0.36328125,
-				0.365234375,
-				0.369140625,
-				0.3701171875,
-				0.3720703125,
-				0.375,
-				0.3779296875,
-				0.37890625,
-				0.37890625,
-				0.380859375,
-				0.380859375,
-				0.380859375,
-				0.3837890625,
-				0.3837890625,
-				0.3837890625,
-				0.3837890625,
-				0.384765625,
-				0.38671875,
-				0.38671875,
-				0.38671875,
-				0.3876953125,
-				0.388671875,
-				0.390625,
-				0.3916015625,
-				0.3916015625,
-				0.3916015625,
-				0.392578125,
-				0.39453125,
-				0.3955078125,
-				0.3974609375,
-				0.396484375,
-				0.400390625,
-				0.400390625,
-				0.400390625,
-				0.400390625,
-				0.4013671875,
-				0.40234375,
-				0.40234375,
-				0.4013671875,
-				0.4013671875,
-				0.4033203125,
-				0.404296875,
-				0.404296875,
-				0.404296875,
-				0.4052734375,
-				0.4052734375,
-				0.40625,
-				0.4072265625,
-				0.408203125,
-				0.408203125,
-				0.4111328125,
-				0.412109375,
-				0.4140625,
-				0.4169921875,
-				0.4248046875,
-				0.4267578125,
-				0.4296875,
-				0.43359375,
-				0.4345703125,
-				0.4345703125,
-				0.4345703125,
-				0.43359375,
-				0.43359375,
-				0.43359375,
-				0.4345703125,
-				0.4375,
-				0.4384765625,
-				0.4384765625,
-				0.4375,
-				0.435546875,
-				0.4384765625,
-				0.4384765625,
-				0.4384765625,
-				0.4375,
-				0.435546875,
-				0.4375,
-				0.4365234375,
-				0.4375,
-				0.4375,
-				0.435546875,
-				0.43359375,
-				0.4306640625,
-				0.4326171875,
-				0.43359375,
-				0.43359375,
-				0.4345703125,
-				0.4345703125,
-				0.4345703125,
-				0.4365234375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				52.31834896456701,
-				9.370450116223367
-			]
 		}
 	],
 	"appState": {
@@ -18532,10 +16176,10 @@ The 7 Sleepers (Youth) ^q1bRpmk7
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 438.1404808221398,
-		"scrollY": 267.0237329105978,
+		"scrollX": 582.9068403139719,
+		"scrollY": 616.3789864750516,
 		"zoom": {
-			"value": 1.0244978613028244
+			"value": 0.790158564518671
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
