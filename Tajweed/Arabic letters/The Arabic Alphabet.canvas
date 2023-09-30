@@ -1,17 +1,15 @@
 {
 	"nodes":[
-		{"id":"e627a2b418f719c5","type":"file","file":"github-backup/Tajweed/Arabic letters/Group 1 of Arabic letters.md","x":40,"y":-100,"width":400,"height":400},
 		{"id":"acc8bafd3a185ef9","type":"text","text":"Arabic letters have 4 variations","x":-460,"y":-100,"width":280,"height":60,"color":"1"},
 		{"id":"d7cba2a49b9dacd8","type":"text","text":"The end of the word","x":-280,"y":-229,"width":250,"height":60},
 		{"id":"86ee69643ab9e3fd","type":"text","text":"The beginning of a word,","x":-581,"y":20,"width":243,"height":60},
 		{"id":"a362407797f23c6e","type":"text","text":"Or if the letter is separate","x":-588,"y":-229,"width":250,"height":60},
-		{"id":"896307cb1ddba95b","type":"text","text":"The middle of the word","x":-430,"y":120,"width":250,"height":60}
+		{"id":"896307cb1ddba95b","type":"text","text":"The middle of the word","x":-280,"y":20,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3aeae08524309583","fromNode":"acc8bafd3a185ef9","fromSide":"bottom","toNode":"86ee69643ab9e3fd","toSide":"top"},
 		{"id":"e5eda6d2c6d22919","fromNode":"acc8bafd3a185ef9","fromSide":"bottom","toNode":"896307cb1ddba95b","toSide":"top"},
 		{"id":"06bb908fe32f4536","fromNode":"acc8bafd3a185ef9","fromSide":"top","toNode":"d7cba2a49b9dacd8","toSide":"bottom"},
-		{"id":"f98489f2e1faca0e","fromNode":"acc8bafd3a185ef9","fromSide":"top","toNode":"a362407797f23c6e","toSide":"bottom"},
-		{"id":"096fc4d37accc7c2","fromNode":"acc8bafd3a185ef9","fromSide":"right","toNode":"e627a2b418f719c5","toSide":"left"}
+		{"id":"f98489f2e1faca0e","fromNode":"acc8bafd3a185ef9","fromSide":"top","toNode":"a362407797f23c6e","toSide":"bottom"}
 	]
 }
