@@ -39,8 +39,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 	"elements": [
 		{
 			"type": "text",
-			"version": 390,
-			"versionNonce": 230657808,
+			"version": 394,
+			"versionNonce": 1147006448,
 			"isDeleted": false,
 			"id": "Vh6NooVI",
 			"fillStyle": "hachure",
@@ -85,7 +85,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -101,8 +101,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 475,
-			"versionNonce": 1527818736,
+			"version": 511,
+			"versionNonce": 724838672,
 			"isDeleted": false,
 			"id": "LywLTk3w",
 			"fillStyle": "hachure",
@@ -111,12 +111,12 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1042.9509673003888,
-			"y": -161.31281918043152,
+			"x": -1090.2436991899854,
+			"y": -174.53446085784884,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 137.49990844726562,
-			"height": 25,
+			"width": 210.21888925396303,
+			"height": 38.22164167741733,
 			"seed": 684110608,
 			"groupIds": [],
 			"frameId": null,
@@ -127,10 +127,10 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 30.577313341933856,
 			"fontFamily": 1,
 			"text": "Natural Madd",
 			"rawText": "Natural Madd",
@@ -139,12 +139,12 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"containerId": null,
 			"originalText": "Natural Madd",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 26.000000000000014
 		},
 		{
 			"type": "text",
-			"version": 373,
-			"versionNonce": 454765840,
+			"version": 377,
+			"versionNonce": 1883942896,
 			"isDeleted": false,
 			"id": "J9aoxa1z",
 			"fillStyle": "hachure",
@@ -169,7 +169,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -185,8 +185,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 264,
-			"versionNonce": 424012784,
+			"version": 268,
+			"versionNonce": 317490960,
 			"isDeleted": false,
 			"id": "3aXsXyZJ",
 			"fillStyle": "hachure",
@@ -211,7 +211,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -227,8 +227,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 482,
-			"versionNonce": 2001931024,
+			"version": 486,
+			"versionNonce": 1162818032,
 			"isDeleted": false,
 			"id": "zwDRUkZl",
 			"fillStyle": "hachure",
@@ -253,7 +253,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -269,8 +269,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 369,
-			"versionNonce": 595783152,
+			"version": 373,
+			"versionNonce": 1609114896,
 			"isDeleted": false,
 			"id": "YZXwoqin",
 			"fillStyle": "hachure",
@@ -295,7 +295,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -311,8 +311,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 2094999824,
+			"version": 246,
+			"versionNonce": 1249080304,
 			"isDeleted": false,
 			"id": "rmY2PcSH",
 			"fillStyle": "hachure",
@@ -337,7 +337,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					"type": "arrow"
 				}
 			],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -353,8 +353,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "arrow",
-			"version": 617,
-			"versionNonce": 584036336,
+			"version": 621,
+			"versionNonce": 1604453136,
 			"isDeleted": false,
 			"id": "g1IDOlaDajmWgw5z2mjMB",
 			"fillStyle": "hachure",
@@ -376,7 +376,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -405,8 +405,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "arrow",
-			"version": 806,
-			"versionNonce": 2000127760,
+			"version": 926,
+			"versionNonce": 1707046384,
 			"isDeleted": false,
 			"id": "eGt5CINm5yEHWl3gCTphH",
 			"fillStyle": "hachure",
@@ -415,12 +415,12 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -229.2317939652765,
-			"y": 7.7607864652794945,
+			"x": -229.23179396527655,
+			"y": 6.732020543987147,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 663.1700643007239,
-			"height": 167.30174934587356,
+			"width": 637.743815383623,
+			"height": 180.06714291945647,
 			"seed": 1509016848,
 			"groupIds": [],
 			"frameId": null,
@@ -428,7 +428,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -450,15 +450,15 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 					0
 				],
 				[
-					-663.1700643007239,
-					-167.30174934587356
+					-637.743815383623,
+					-180.06714291945647
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 393,
-			"versionNonce": 1597256176,
+			"version": 397,
+			"versionNonce": 1888428304,
 			"isDeleted": false,
 			"id": "osSc966FYo6-NVTV7M4U-",
 			"fillStyle": "hachure",
@@ -480,7 +480,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -509,8 +509,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "arrow",
-			"version": 705,
-			"versionNonce": 47457552,
+			"version": 709,
+			"versionNonce": 2084255728,
 			"isDeleted": false,
 			"id": "yA5HDlTqmrkd9MKtXMGU0",
 			"fillStyle": "hachure",
@@ -532,7 +532,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -561,8 +561,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "arrow",
-			"version": 567,
-			"versionNonce": 1605923824,
+			"version": 571,
+			"versionNonce": 1646821136,
 			"isDeleted": false,
 			"id": "XxwQcudh6mtQGIS8xjX1c",
 			"fillStyle": "hachure",
@@ -584,7 +584,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -613,8 +613,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "arrow",
-			"version": 422,
-			"versionNonce": 1831666448,
+			"version": 426,
+			"versionNonce": 300857840,
 			"isDeleted": false,
 			"id": "haqliS5wZyu4rh1Es595Q",
 			"fillStyle": "hachure",
@@ -636,7 +636,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -665,8 +665,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 360,
-			"versionNonce": 174355952,
+			"version": 364,
+			"versionNonce": 1424366864,
 			"isDeleted": false,
 			"id": "VBppfIQsquY0GfulVCOPO",
 			"fillStyle": "hachure",
@@ -686,7 +686,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1038,8 +1038,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 456,
-			"versionNonce": 347742480,
+			"version": 460,
+			"versionNonce": 1776417776,
 			"isDeleted": false,
 			"id": "q7qSiSvCGgzpvs3JOsezB",
 			"fillStyle": "hachure",
@@ -1059,7 +1059,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1691,8 +1691,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 448,
-			"versionNonce": 1145059312,
+			"version": 452,
+			"versionNonce": 440400656,
 			"isDeleted": false,
 			"id": "8gegA7nG0j4XJ3XKbRPxz",
 			"fillStyle": "hachure",
@@ -1712,7 +1712,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2504,8 +2504,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 305,
-			"versionNonce": 1223917328,
+			"version": 309,
+			"versionNonce": 639434224,
 			"isDeleted": false,
 			"id": "hOQPawfFhYqtTaxVW5e5e",
 			"fillStyle": "hachure",
@@ -2525,7 +2525,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2597,8 +2597,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 292,
-			"versionNonce": 290699760,
+			"version": 296,
+			"versionNonce": 346954000,
 			"isDeleted": false,
 			"id": "xa220WM_EGWG566v29JRs",
 			"fillStyle": "hachure",
@@ -2618,7 +2618,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2640,8 +2640,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 295,
-			"versionNonce": 709958928,
+			"version": 299,
+			"versionNonce": 1739046896,
 			"isDeleted": false,
 			"id": "kzzUjsAvFyAy739TW-PGj",
 			"fillStyle": "hachure",
@@ -2661,7 +2661,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2693,8 +2693,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 288,
-			"versionNonce": 883358704,
+			"version": 292,
+			"versionNonce": 396916496,
 			"isDeleted": false,
 			"id": "GGovryWAWBB-OU4yz6LFx",
 			"fillStyle": "hachure",
@@ -2714,7 +2714,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912490,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2936,8 +2936,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 200,
-			"versionNonce": 172686096,
+			"version": 204,
+			"versionNonce": 1854554608,
 			"isDeleted": false,
 			"id": "YF3RvAPdgv_-7pQ4Taz_f",
 			"fillStyle": "hachure",
@@ -2957,7 +2957,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3029,8 +3029,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 262,
-			"versionNonce": 1346502128,
+			"version": 266,
+			"versionNonce": 1202132240,
 			"isDeleted": false,
 			"id": "UDrfK5URf_EduCkObHR1b",
 			"fillStyle": "hachure",
@@ -3050,7 +3050,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3142,8 +3142,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 418,
-			"versionNonce": 1264130320,
+			"version": 422,
+			"versionNonce": 969704432,
 			"isDeleted": false,
 			"id": "1gYQkWngzsOO5RlYfp6Kq",
 			"fillStyle": "hachure",
@@ -3163,7 +3163,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4040,8 +4040,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 354,
-			"versionNonce": 86818800,
+			"version": 358,
+			"versionNonce": 2049045264,
 			"isDeleted": false,
 			"id": "NtvhaV2mW4TLHR-WRNO2-",
 			"fillStyle": "hachure",
@@ -4061,7 +4061,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4618,8 +4618,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 1089697552,
+			"version": 261,
+			"versionNonce": 662078960,
 			"isDeleted": false,
 			"id": "PsJqkrYQTK7grkr27XaFS",
 			"fillStyle": "hachure",
@@ -4639,7 +4639,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4706,8 +4706,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 266,
-			"versionNonce": 326058480,
+			"version": 270,
+			"versionNonce": 361828624,
 			"isDeleted": false,
 			"id": "8RGRtH3qDLtU-M6GWhgEY",
 			"fillStyle": "hachure",
@@ -4727,7 +4727,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4839,8 +4839,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 261231888,
+			"version": 305,
+			"versionNonce": 344999920,
 			"isDeleted": false,
 			"id": "5l98krOV4242XqFObv1PY",
 			"fillStyle": "hachure",
@@ -4860,7 +4860,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5147,8 +5147,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 287,
-			"versionNonce": 2047968240,
+			"version": 291,
+			"versionNonce": 1902931728,
 			"isDeleted": false,
 			"id": "tfmzoOQx52Yf1ZZbb1eVh",
 			"fillStyle": "hachure",
@@ -5168,7 +5168,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5390,8 +5390,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 334,
-			"versionNonce": 212661008,
+			"version": 338,
+			"versionNonce": 2099366384,
 			"isDeleted": false,
 			"id": "V7dGOKiVoAhl_m59Q-Mzm",
 			"fillStyle": "hachure",
@@ -5411,7 +5411,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5868,8 +5868,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 185,
-			"versionNonce": 387679728,
+			"version": 189,
+			"versionNonce": 908856592,
 			"isDeleted": false,
 			"id": "IhSHOPWo",
 			"fillStyle": "hachure",
@@ -5889,7 +5889,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5905,8 +5905,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 111,
-			"versionNonce": 515641616,
+			"version": 115,
+			"versionNonce": 473107440,
 			"isDeleted": false,
 			"id": "UMgkyUzL2Yr76-CiHXGxf",
 			"fillStyle": "hachure",
@@ -5926,7 +5926,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6233,8 +6233,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 110,
-			"versionNonce": 1200965616,
+			"version": 114,
+			"versionNonce": 1028123408,
 			"isDeleted": false,
 			"id": "Ee0kdUxfNT15AAvBLH2o2",
 			"fillStyle": "hachure",
@@ -6254,7 +6254,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6556,8 +6556,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 97,
-			"versionNonce": 490172176,
+			"version": 101,
+			"versionNonce": 197922288,
 			"isDeleted": false,
 			"id": "VBKGL7y4RAvuQ4vRwgQIl",
 			"fillStyle": "hachure",
@@ -6577,7 +6577,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005247,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6824,8 +6824,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 106,
-			"versionNonce": 126274032,
+			"version": 110,
+			"versionNonce": 1899497744,
 			"isDeleted": false,
 			"id": "z7EnvIJXpIbSY4HQMim9F",
 			"fillStyle": "hachure",
@@ -6845,7 +6845,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7147,8 +7147,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 101,
-			"versionNonce": 815205648,
+			"version": 105,
+			"versionNonce": 1693765616,
 			"isDeleted": false,
 			"id": "GYUesey_QVMIZsuAFh_Tk",
 			"fillStyle": "hachure",
@@ -7168,7 +7168,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7445,8 +7445,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 91,
-			"versionNonce": 301468656,
+			"version": 95,
+			"versionNonce": 762603280,
 			"isDeleted": false,
 			"id": "S8mwYtUKs3lwYTK1dqQeT",
 			"fillStyle": "hachure",
@@ -7466,7 +7466,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7693,8 +7693,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 103,
-			"versionNonce": 844294928,
+			"version": 107,
+			"versionNonce": 1605718512,
 			"isDeleted": false,
 			"id": "71e3FCW1j8vUCz2Z5HhFt",
 			"fillStyle": "hachure",
@@ -7714,7 +7714,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8006,8 +8006,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 64,
-			"versionNonce": 15797744,
+			"version": 68,
+			"versionNonce": 510985488,
 			"isDeleted": false,
 			"id": "h4FzWH3XxMg_h0gc7B0-f",
 			"fillStyle": "hachure",
@@ -8027,7 +8027,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8124,8 +8124,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 63,
-			"versionNonce": 216205584,
+			"version": 67,
+			"versionNonce": 1930793968,
 			"isDeleted": false,
 			"id": "S91xiWDDMhW0FzUrVidBG",
 			"fillStyle": "hachure",
@@ -8145,7 +8145,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8237,8 +8237,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "freedraw",
-			"version": 69,
-			"versionNonce": 1836699632,
+			"version": 73,
+			"versionNonce": 565306128,
 			"isDeleted": false,
 			"id": "mrYC48DA3vLJHKsWWAoDS",
 			"fillStyle": "hachure",
@@ -8258,7 +8258,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8385,8 +8385,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		},
 		{
 			"type": "text",
-			"version": 317,
-			"versionNonce": 465528592,
+			"version": 321,
+			"versionNonce": 1964873200,
 			"isDeleted": false,
 			"id": "o9PMk3ka",
 			"fillStyle": "hachure",
@@ -8406,7 +8406,7 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8439,11 +8439,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2122976016,
-			"version": 127,
-			"versionNonce": 1582994416,
+			"version": 131,
+			"versionNonce": 163602192,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"text": "Natural Madd letters have smaller version: ",
@@ -8476,11 +8476,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 155655440,
-			"version": 125,
-			"versionNonce": 801281520,
+			"version": 129,
+			"versionNonce": 2122448144,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8712,11 +8712,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 122202896,
-			"version": 107,
-			"versionNonce": 332267792,
+			"version": 111,
+			"versionNonce": 544480240,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8858,11 +8858,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1362533648,
-			"version": 168,
-			"versionNonce": 1490704368,
+			"version": 172,
+			"versionNonce": 1700780816,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9309,11 +9309,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1699420432,
-			"version": 155,
-			"versionNonce": 1600838416,
+			"version": 159,
+			"versionNonce": 684745200,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9715,11 +9715,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1220473104,
-			"version": 157,
-			"versionNonce": 1672831472,
+			"version": 161,
+			"versionNonce": 281342224,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10151,11 +10151,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2014999312,
-			"version": 135,
-			"versionNonce": 479437808,
+			"version": 139,
+			"versionNonce": 455364368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10466,8 +10466,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "x-byqOxNCMVbq8O53jBRY",
 			"type": "freedraw",
-			"x": -1061.3986094729112,
-			"y": 140.9106831886121,
+			"x": -1054.279290814024,
+			"y": 136.8424678429251,
 			"width": 10.546869823280531,
 			"height": 17.371317787353746,
 			"angle": 0,
@@ -10482,11 +10482,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 318112016,
-			"version": 71,
-			"versionNonce": 135227376,
+			"version": 90,
+			"versionNonce": 42453776,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10692,8 +10692,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "spQhdfx6kXge3bncQ2G05",
 			"type": "freedraw",
-			"x": -1066.653964112694,
-			"y": 157.0435811520698,
+			"x": -1059.534645453807,
+			"y": 152.9753658063828,
 			"width": 10.801860850574258,
 			"height": 1.5885082357105489,
 			"angle": 0,
@@ -10708,11 +10708,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 422162192,
-			"version": 60,
-			"versionNonce": 773795312,
+			"version": 79,
+			"versionNonce": 1497425168,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10888,8 +10888,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "SpWoZod1NWZv98vdS3s8y",
 			"type": "freedraw",
-			"x": -1097.471014189994,
-			"y": 157.67897475086917,
+			"x": -1090.351695531107,
+			"y": 153.61075940518216,
 			"width": 18.744377790415,
 			"height": 16.520500194617142,
 			"angle": 0,
@@ -10904,11 +10904,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2063142160,
-			"version": 134,
-			"versionNonce": 690415888,
+			"version": 153,
+			"versionNonce": 58176496,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11449,8 +11449,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "z2xIzZkMtRJ_wVla-Ebr-",
 			"type": "freedraw",
-			"x": -1096.2002269923953,
-			"y": 158.31439258838066,
+			"x": -1089.0809083335082,
+			"y": 154.24617724269365,
 			"width": 28.275427204678408,
 			"height": 28.275451443390494,
 			"angle": 0,
@@ -11465,11 +11465,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 208443152,
-			"version": 146,
-			"versionNonce": 266596336,
+			"version": 165,
+			"versionNonce": 1476510480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12075,8 +12075,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "MfEmP0dInXR8ACwlVCHYy",
 			"type": "freedraw",
-			"x": -1128.605785305406,
-			"y": 148.78334317411728,
+			"x": -1121.486466646519,
+			"y": 144.71512782843027,
 			"width": 49.56145210642717,
 			"height": 35.58259902314393,
 			"angle": 0,
@@ -12091,11 +12091,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1429948688,
-			"version": 163,
-			"versionNonce": 1149716240,
+			"version": 182,
+			"versionNonce": 1950070256,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12786,8 +12786,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "OadfgVGl5n9LK8qJNqG8S",
 			"type": "freedraw",
-			"x": -1065.0654558769834,
-			"y": 166.89232736573288,
+			"x": -1057.9461372180963,
+			"y": 162.82411202004587,
 			"width": 0.953114636911323,
 			"height": 0.9530903981990946,
 			"angle": 0,
@@ -12802,11 +12802,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 330578192,
-			"version": 39,
-			"versionNonce": 532705776,
+			"version": 58,
+			"versionNonce": 1190584592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12872,8 +12872,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "8paq2zypoavv7rz4ocTlM",
 			"type": "freedraw",
-			"x": -1057.7583082972299,
-			"y": 167.52772096453228,
+			"x": -1050.6389896383428,
+			"y": 163.45950561884527,
 			"width": 0.6353935987992827,
 			"height": 0.31772103811178454,
 			"angle": 0,
@@ -12888,11 +12888,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1886986512,
-			"version": 39,
-			"versionNonce": 271312144,
+			"version": 58,
+			"versionNonce": 1898936304,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12958,8 +12958,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "S3KMq0lZKzdQAaIip2g7n",
 			"type": "freedraw",
-			"x": -1065.7008494757827,
-			"y": 167.52772096453228,
+			"x": -1058.5815308168956,
+			"y": 163.45950561884527,
 			"width": 0.31769679939975504,
 			"height": 0.3176967993996982,
 			"angle": 0,
@@ -12974,11 +12974,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 572655888,
-			"version": 33,
-			"versionNonce": 1153217520,
+			"version": 52,
+			"versionNonce": 362299152,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13014,8 +13014,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "jyoHKCDEYRe_vqUgRxv8q",
 			"type": "freedraw",
-			"x": -1065.383152676383,
-			"y": 134.16904801461038,
+			"x": -1058.2638340174958,
+			"y": 130.10083266892337,
 			"width": 9.848746213662935,
 			"height": 6.671729742241951,
 			"angle": 0,
@@ -13030,11 +13030,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2011954448,
-			"version": 44,
-			"versionNonce": 2039268112,
+			"version": 63,
+			"versionNonce": 1583020528,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13130,8 +13130,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "m3XX_xZbOEtYHMPNr4scy",
 			"type": "freedraw",
-			"x": -1084.7629483043095,
-			"y": 131.94514618010044,
+			"x": -1077.6436296454224,
+			"y": 127.87693083441343,
 			"width": 16.202803395217416,
 			"height": 13.978877321995412,
 			"angle": 0,
@@ -13146,11 +13146,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 753515280,
-			"version": 89,
-			"versionNonce": 1155577328,
+			"version": 108,
+			"versionNonce": 73260304,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13471,8 +13471,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "MuUHcLcLxqorAo9kPss4R",
 			"type": "freedraw",
-			"x": -1141.94924478989,
-			"y": 132.5805397788998,
+			"x": -1134.8299261310028,
+			"y": 128.5123244332128,
 			"width": 8.260237977952556,
 			"height": 7.94254117855283,
 			"angle": 0,
@@ -13487,11 +13487,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 706854672,
-			"version": 42,
-			"versionNonce": 2132926736,
+			"version": 61,
+			"versionNonce": 1590049776,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13577,8 +13577,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "CsgYkaJhtLHtkyXcr83tB",
 			"type": "freedraw",
-			"x": -1073.0079970555362,
-			"y": 136.07527728843274,
+			"x": -1065.888678396649,
+			"y": 132.00706194274574,
 			"width": 1.2708114363108507,
 			"height": 12.072672286885137,
 			"angle": 0,
@@ -13593,11 +13593,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 484972528,
-			"version": 51,
-			"versionNonce": 1697937392,
+			"version": 70,
+			"versionNonce": 79674128,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13728,8 +13728,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "kDRYOf6HZ0Uxc3CBTVcNO",
 			"type": "freedraw",
-			"x": -1161.6467614559283,
-			"y": 130.35663794438986,
+			"x": -1154.5274427970412,
+			"y": 126.28842259870285,
 			"width": 2.2239260732221737,
 			"height": 13.661180522595714,
 			"angle": 0,
@@ -13744,11 +13744,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 177996784,
-			"version": 50,
-			"versionNonce": 163576304,
+			"version": 69,
+			"versionNonce": 422959376,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13879,8 +13879,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "JLMigiKSGn1deDCwQi6Zr",
 			"type": "freedraw",
-			"x": -929.0300686261733,
-			"y": 143.3825889680275,
+			"x": -921.9107499672862,
+			"y": 139.3143736223405,
 			"width": 25.84496855318571,
 			"height": 25.84501664624304,
 			"angle": 0,
@@ -13895,11 +13895,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1063309584,
-			"version": 80,
-			"versionNonce": 1435188208,
+			"version": 99,
+			"versionNonce": 892876560,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14185,8 +14185,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "XlvYZUWLm-rNZwjPwZvw1",
 			"type": "freedraw",
-			"x": -951.7232105730421,
-			"y": 134.5574648517292,
+			"x": -944.603891914155,
+			"y": 130.4892495060422,
 			"width": 23.9538533521727,
 			"height": 35.30044837213586,
 			"angle": 0,
@@ -14201,11 +14201,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1877558032,
-			"version": 122,
-			"versionNonce": 147503888,
+			"version": 141,
+			"versionNonce": 47612400,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14701,8 +14701,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "2onubuj-UA9XUZckh-Tyi",
 			"type": "freedraw",
-			"x": -995.2184273588244,
-			"y": 149.68624218066094,
+			"x": -988.0991086999373,
+			"y": 145.61802683497393,
 			"width": 20.802074838913313,
 			"height": 20.171671043204128,
 			"angle": 0,
@@ -14717,11 +14717,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 922061808,
-			"version": 80,
-			"versionNonce": 1778450416,
+			"version": 99,
+			"versionNonce": 1187099408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15017,8 +15017,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "TpvGKjjfp3i1cT-OBf-er",
 			"type": "freedraw",
-			"x": -1003.4131476794134,
-			"y": 152.20766499126847,
+			"x": -996.2938290205263,
+			"y": 148.13944964558146,
 			"width": 1.8911152010130081,
 			"height": 3.1518266063167175,
 			"angle": 0,
@@ -15033,11 +15033,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 657213424,
-			"version": 49,
-			"versionNonce": 2032784656,
+			"version": 68,
+			"versionNonce": 558139376,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15183,8 +15183,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "gC7P6-Cj_5BdzOC5obw7g",
 			"type": "freedraw",
-			"x": -933.2582715416738,
-			"y": 164.28999109026344,
+			"x": -926.1389528827867,
+			"y": 160.22177574457643,
 			"width": 1.9703391320911123,
 			"height": 2.2987498659575465,
 			"angle": 0,
@@ -15199,11 +15199,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 216120080,
-			"version": 42,
-			"versionNonce": 4818928,
+			"version": 61,
+			"versionNonce": 1544006416,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15334,8 +15334,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "f_gOqyntpmohZpoqhmEEH",
 			"type": "freedraw",
-			"x": -927.6756398250452,
-			"y": 162.6480376378172,
+			"x": -920.5563211661581,
+			"y": 158.5798222921302,
 			"width": 1.9703391320911123,
 			"height": 2.6271355456025276,
 			"angle": 0,
@@ -15350,11 +15350,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 983935248,
-			"version": 42,
-			"versionNonce": 686239504,
+			"version": 61,
+			"versionNonce": 166219248,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15485,8 +15485,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "wNx0wTdyT-NESl2AX5WjU",
 			"type": "freedraw",
-			"x": -936.2137927669213,
-			"y": 138.6755197375244,
+			"x": -929.0944741080342,
+			"y": 134.6073043918374,
 			"width": 9.194924301165997,
 			"height": 5.582631716628612,
 			"angle": 0,
@@ -15501,11 +15501,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2098321168,
-			"version": 30,
-			"versionNonce": 531827184,
+			"version": 49,
+			"versionNonce": 570411280,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15581,8 +15581,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "zIG_jprCUqnyLGph2sIrt",
 			"type": "freedraw",
-			"x": -953.9468950641849,
-			"y": 119.6288621945703,
+			"x": -946.8275764052978,
+			"y": 115.5606468488833,
 			"width": 6.56781380978498,
 			"height": 6.567813809784894,
 			"angle": 0,
@@ -15597,11 +15597,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 947886864,
-			"version": 67,
-			"versionNonce": 1695722256,
+			"version": 86,
+			"versionNonce": 868323824,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15867,8 +15867,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "CvT8sLlj3oHWXIRnyIHb5",
 			"type": "freedraw",
-			"x": -978.2478111712333,
-			"y": 168.5590800883122,
+			"x": -971.1284925123462,
+			"y": 164.49086474262518,
 			"width": 6.567813809784866,
 			"height": 0.3283856796449527,
 			"angle": 0,
@@ -15883,11 +15883,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1126249232,
-			"version": 31,
-			"versionNonce": 722292208,
+			"version": 50,
+			"versionNonce": 273466640,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15978,8 +15978,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "wrwrb6fr-M_TdsijJakNu",
 			"type": "freedraw",
-			"x": -1008.4597446745554,
-			"y": 141.95942664241687,
+			"x": -1001.3404260156683,
+			"y": 137.89121129672986,
 			"width": 7.881381582586187,
 			"height": 5.254246036983659,
 			"angle": 0,
@@ -15994,11 +15994,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 147919632,
-			"version": 28,
-			"versionNonce": 1370147088,
+			"version": 47,
+			"versionNonce": 2073678832,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16074,8 +16074,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "22M-NW19A-jCzbSsUK22Z",
 			"type": "freedraw",
-			"x": -983.8304428878619,
-			"y": 157.72217728047852,
+			"x": -976.7111242289748,
+			"y": 153.6539619347915,
 			"width": 5.582656770850008,
 			"height": 12.807216885703497,
 			"angle": 0,
@@ -16090,11 +16090,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 367561200,
-			"version": 78,
-			"versionNonce": 262574576,
+			"version": 97,
+			"versionNonce": 1418379536,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16430,8 +16430,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "A04uJ5xqKg-ggvNljkZYx",
 			"type": "freedraw",
-			"x": -788.7458483190959,
-			"y": 122.58438341981781,
+			"x": -781.6265296602088,
+			"y": 118.5161680741308,
 			"width": 2.6271355456025276,
 			"height": 31.19711559647834,
 			"angle": 0,
@@ -16446,11 +16446,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1529129744,
-			"version": 39,
-			"versionNonce": 288867600,
+			"version": 58,
+			"versionNonce": 524916720,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16591,8 +16591,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "qQkD9yGXFU9cOUXSAghtO",
 			"type": "freedraw",
-			"x": -787.4322805462946,
-			"y": 157.06540592118859,
+			"x": -780.3129618874075,
+			"y": 152.99719057550158,
 			"width": 9.52333503503246,
 			"height": 11.16528848747862,
 			"angle": 0,
@@ -16607,11 +16607,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 950335248,
-			"version": 50,
-			"versionNonce": 316593136,
+			"version": 69,
+			"versionNonce": 95428368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16807,8 +16807,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "9ECpB1ykSz93Ho1NfkUHC",
 			"type": "freedraw",
-			"x": -827.4959598185154,
-			"y": 128.49541334320207,
+			"x": -820.3766411596283,
+			"y": 124.42719799751507,
 			"width": 22.002191295312286,
 			"height": 27.584823011940898,
 			"angle": 0,
@@ -16823,11 +16823,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1797976560,
-			"version": 156,
-			"versionNonce": 175841040,
+			"version": 175,
+			"versionNonce": 1934056944,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17568,8 +17568,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "DJbJiDj1MZy7OvHWuvlBO",
 			"type": "freedraw",
-			"x": -844.5722657022677,
-			"y": 152.46793124349486,
+			"x": -837.4529470433806,
+			"y": 148.39971589780785,
 			"width": 23.9725304274034,
 			"height": 20.360225315755372,
 			"angle": 0,
@@ -17584,11 +17584,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 794546672,
-			"version": 147,
-			"versionNonce": 1652865296,
+			"version": 166,
+			"versionNonce": 378725360,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18309,8 +18309,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "0VF2lm6RK9NVNGaY34kaI",
 			"type": "freedraw",
-			"x": -865.9176605840686,
-			"y": 154.1098846959411,
+			"x": -858.7983419251815,
+			"y": 150.0416693502541,
 			"width": 11.822059846768639,
 			"height": 0.9851820931562827,
 			"angle": 0,
@@ -18325,11 +18325,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 498183664,
-			"version": 33,
-			"versionNonce": 729072,
+			"version": 52,
+			"versionNonce": 2071040784,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18480,8 +18480,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "GQSpkvhVDZgNNu2ogIolv",
 			"type": "freedraw",
-			"x": -886.9346697862246,
-			"y": 155.42345246874234,
+			"x": -879.8153511273375,
+			"y": 151.35523712305533,
 			"width": 13.464013299214798,
 			"height": 21.345394881800956,
 			"angle": 0,
@@ -18496,11 +18496,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1357407728,
-			"version": 93,
-			"versionNonce": 833296144,
+			"version": 112,
+			"versionNonce": 1550902768,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18951,8 +18951,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "_jG533LGJIVuRzWzuXUt-",
 			"type": "freedraw",
-			"x": -844.9006513819127,
-			"y": 133.0928880208958,
+			"x": -837.7813327230256,
+			"y": 129.0246726752088,
 			"width": 1.6419534524461596,
 			"height": 1.3135552456905657,
 			"angle": 0,
@@ -18967,11 +18967,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1694345712,
-			"version": 23,
-			"versionNonce": 1490543600,
+			"version": 42,
+			"versionNonce": 1532235536,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19077,8 +19077,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "WeOdE3HBQlbnBkiCal8HP",
 			"type": "freedraw",
-			"x": -850.8116938324076,
-			"y": 162.6480376378172,
+			"x": -843.6923751735205,
+			"y": 158.5798222921302,
 			"width": 9.52333503503246,
 			"height": 3.940703318403763,
 			"angle": 0,
@@ -19093,11 +19093,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 514295792,
-			"version": 15,
-			"versionNonce": 1930932496,
+			"version": 34,
+			"versionNonce": 852061168,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19178,8 +19178,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "-_7DuQdioR0QuH-z3eWj0",
 			"type": "freedraw",
-			"x": -864.9325035451337,
-			"y": 173.15655476600588,
+			"x": -857.8131848862466,
+			"y": 169.08833942031887,
 			"width": 7.224610223296281,
 			"height": 3.2839069048924614,
 			"angle": 0,
@@ -19194,11 +19194,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1521869808,
-			"version": 14,
-			"versionNonce": 809740272,
+			"version": 33,
+			"versionNonce": 1237814032,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19274,8 +19274,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "GowFjCP68RY_WSxe0dsbH",
 			"type": "freedraw",
-			"x": -831.4366380826978,
-			"y": 120.94242996737157,
+			"x": -824.3173194238107,
+			"y": 116.87421462168456,
 			"width": 9.194949355387394,
 			"height": 5.254258564094329,
 			"angle": 0,
@@ -19290,11 +19290,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 488144368,
-			"version": 23,
-			"versionNonce": 622792464,
+			"version": 42,
+			"versionNonce": 1083600368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19415,8 +19415,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "1_vAXr67SGxc2pw_1Bk9X",
 			"type": "freedraw",
-			"x": -882.6655807881758,
-			"y": 133.74965938018573,
+			"x": -875.5462621292887,
+			"y": 129.68144403449872,
 			"width": 5.582656770850008,
 			"height": 6.896199489429904,
 			"angle": 0,
@@ -19431,11 +19431,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1353935344,
-			"version": 47,
-			"versionNonce": 191441392,
+			"version": 66,
+			"versionNonce": 214149392,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912493,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19671,8 +19671,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "mbcbTfGsqVdNBfv_tbelo",
 			"type": "freedraw",
-			"x": -806.1505649367144,
-			"y": 142.94460873557315,
+			"x": -799.0312462778273,
+			"y": 138.87639338988615,
 			"width": 14.777581072016119,
 			"height": 10.508517128188686,
 			"angle": 0,
@@ -19687,11 +19687,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 773656848,
-			"version": 85,
-			"versionNonce": 445295888,
+			"version": 104,
+			"versionNonce": 1366503408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167912493,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20122,8 +20122,8 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		{
 			"id": "oekd1X2fhtYj6FlurXCo4",
 			"type": "freedraw",
-			"x": -836.3624984400365,
-			"y": 134.40644326658636,
+			"x": -829.2431797811494,
+			"y": 130.33822792089936,
 			"width": 1.6419534524461596,
 			"height": 12.807229412814166,
 			"angle": 0,
@@ -20138,11 +20138,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 2008772080,
-			"version": 28,
-			"versionNonce": 460158224,
+			"version": 47,
+			"versionNonce": 1835512304,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696167913780,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20309,11 +20309,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 374100240,
-			"version": 47,
-			"versionNonce": 261771760,
+			"version": 51,
+			"versionNonce": 631439632,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -20346,11 +20346,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 563421968,
-			"version": 71,
-			"versionNonce": 190842128,
+			"version": 75,
+			"versionNonce": 987060208,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -20383,11 +20383,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 413227792,
-			"version": 69,
-			"versionNonce": 960291600,
+			"version": 73,
+			"versionNonce": 944036336,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20534,11 +20534,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1016263952,
-			"version": 102,
-			"versionNonce": 2055954192,
+			"version": 106,
+			"versionNonce": 90906096,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20870,11 +20870,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1322207504,
-			"version": 114,
-			"versionNonce": 1302977008,
+			"version": 118,
+			"versionNonce": 819067152,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21266,11 +21266,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 281249040,
-			"version": 88,
-			"versionNonce": 502070544,
+			"version": 92,
+			"versionNonce": 2016534512,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21532,11 +21532,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 156300560,
-			"version": 126,
-			"versionNonce": 1094261744,
+			"version": 130,
+			"versionNonce": 1146115856,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -21988,11 +21988,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1496212240,
-			"version": 105,
-			"versionNonce": 1167072752,
+			"version": 109,
+			"versionNonce": 1414722832,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22349,11 +22349,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1358716688,
-			"version": 79,
-			"versionNonce": 830273808,
+			"version": 83,
+			"versionNonce": 105817072,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22585,11 +22585,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1133353456,
-			"version": 103,
-			"versionNonce": 1807146992,
+			"version": 107,
+			"versionNonce": 1179767568,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22941,11 +22941,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 107830256,
-			"version": 82,
-			"versionNonce": 2006669072,
+			"version": 86,
+			"versionNonce": 1588897264,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23197,11 +23197,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 808824592,
-			"version": 100,
-			"versionNonce": 1715336464,
+			"version": 104,
+			"versionNonce": 2131388400,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23548,11 +23548,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 137790448,
-			"version": 96,
-			"versionNonce": 1658639120,
+			"version": 100,
+			"versionNonce": 1398270448,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23889,11 +23889,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1765425136,
-			"version": 166,
-			"versionNonce": 1683596784,
+			"version": 170,
+			"versionNonce": 501738768,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24585,11 +24585,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1430589712,
-			"version": 138,
-			"versionNonce": 1676669200,
+			"version": 142,
+			"versionNonce": 111487984,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25141,11 +25141,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 673485584,
-			"version": 101,
-			"versionNonce": 1357860624,
+			"version": 105,
+			"versionNonce": 586821104,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -25527,11 +25527,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1105781008,
-			"version": 230,
-			"versionNonce": 1941760496,
+			"version": 234,
+			"versionNonce": 1132194064,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26563,11 +26563,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1726787344,
-			"version": 146,
-			"versionNonce": 1649601808,
+			"version": 150,
+			"versionNonce": 828305392,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27184,11 +27184,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 845995280,
-			"version": 51,
-			"versionNonce": 1382689776,
+			"version": 55,
+			"versionNonce": 1279018768,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27330,11 +27330,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1281781008,
-			"version": 138,
-			"versionNonce": 26397456,
+			"version": 142,
+			"versionNonce": 1507553776,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912491,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27911,11 +27911,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1461143536,
-			"version": 48,
-			"versionNonce": 274939664,
+			"version": 52,
+			"versionNonce": 1954102768,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28047,11 +28047,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 499594224,
-			"version": 57,
-			"versionNonce": 1841880336,
+			"version": 61,
+			"versionNonce": 544997360,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28233,11 +28233,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1696964880,
-			"version": 71,
-			"versionNonce": 1251884528,
+			"version": 75,
+			"versionNonce": 490657040,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28494,11 +28494,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1233339664,
-			"version": 29,
-			"versionNonce": 1675680016,
+			"version": 33,
+			"versionNonce": 2056307696,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28545,11 +28545,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1187511792,
-			"version": 32,
-			"versionNonce": 1921201936,
+			"version": 36,
+			"versionNonce": 1169343984,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28621,11 +28621,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1876192240,
-			"version": 55,
-			"versionNonce": 1404797424,
+			"version": 59,
+			"versionNonce": 943247632,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005248,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28812,11 +28812,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1897398256,
-			"version": 32,
-			"versionNonce": 1725285360,
+			"version": 36,
+			"versionNonce": 1763454736,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28903,11 +28903,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 501564176,
-			"version": 34,
-			"versionNonce": 1833743120,
+			"version": 38,
+			"versionNonce": 1766722032,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28999,11 +28999,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 956802832,
-			"version": 38,
-			"versionNonce": 1633142256,
+			"version": 42,
+			"versionNonce": 568577296,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29120,11 +29120,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1574052112,
-			"version": 39,
-			"versionNonce": 1432604944,
+			"version": 43,
+			"versionNonce": 953633776,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29251,11 +29251,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 179264784,
-			"version": 71,
-			"versionNonce": 810470672,
+			"version": 75,
+			"versionNonce": 1435045872,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29557,11 +29557,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1390963472,
-			"version": 70,
-			"versionNonce": 1520192496,
+			"version": 74,
+			"versionNonce": 1866737424,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29858,11 +29858,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1524154352,
-			"version": 73,
-			"versionNonce": 168693744,
+			"version": 77,
+			"versionNonce": 43098896,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30184,11 +30184,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1026046224,
-			"version": 79,
-			"versionNonce": 1905207056,
+			"version": 83,
+			"versionNonce": 1662637552,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30540,11 +30540,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1125141776,
-			"version": 91,
-			"versionNonce": 773628688,
+			"version": 95,
+			"versionNonce": 70326768,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30966,11 +30966,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 670449936,
-			"version": 64,
-			"versionNonce": 1237243376,
+			"version": 68,
+			"versionNonce": 1719254288,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31257,11 +31257,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1495419664,
-			"version": 97,
-			"versionNonce": 1454752016,
+			"version": 101,
+			"versionNonce": 618159088,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31708,11 +31708,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1403757328,
-			"version": 129,
-			"versionNonce": 1766758384,
+			"version": 133,
+			"versionNonce": 2019531536,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32329,11 +32329,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 762992112,
-			"version": 42,
-			"versionNonce": 1167464944,
+			"version": 46,
+			"versionNonce": 1306114320,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32520,11 +32520,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 947295728,
-			"version": 166,
-			"versionNonce": 434421008,
+			"version": 170,
+			"versionNonce": 1619402736,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33346,11 +33346,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 901187568,
-			"version": 59,
-			"versionNonce": 1906138096,
+			"version": 63,
+			"versionNonce": 1784682256,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33637,11 +33637,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1701979120,
-			"version": 127,
-			"versionNonce": 107649808,
+			"version": 131,
+			"versionNonce": 2090639856,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34268,11 +34268,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1909068784,
-			"version": 86,
-			"versionNonce": 1600937456,
+			"version": 90,
+			"versionNonce": 577418512,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34699,11 +34699,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1896224240,
-			"version": 18,
-			"versionNonce": 1669439984,
+			"version": 22,
+			"versionNonce": 200061200,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34795,11 +34795,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1435945744,
-			"version": 23,
-			"versionNonce": 1213576464,
+			"version": 27,
+			"versionNonce": 2067703792,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34916,11 +34916,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1090998768,
-			"version": 12,
-			"versionNonce": 737973008,
+			"version": 16,
+			"versionNonce": 1057237488,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34997,11 +34997,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 1793663984,
-			"version": 21,
-			"versionNonce": 236316144,
+			"version": 25,
+			"versionNonce": 1109372176,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912492,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35123,11 +35123,11 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 			"frameId": null,
 			"roundness": null,
 			"seed": 26700048,
-			"version": 30,
-			"versionNonce": 713976816,
+			"version": 34,
+			"versionNonce": 378275600,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696167912493,
+			"updated": 1696168005249,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35279,6 +35279,2422 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 				-0.3284107338663489,
 				9.194936828276752
 			]
+		},
+		{
+			"id": "gNjoOpgxMWzApg68TRV8r",
+			"type": "freedraw",
+			"x": -965.9519519317895,
+			"y": -145.74154386272994,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 859795728,
+			"version": 7,
+			"versionNonce": 1134077200,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168005249,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "gfla-XoyYrQaHJIXF7Q5f",
+			"type": "freedraw",
+			"x": -916.3718354323153,
+			"y": 228.324553479524,
+			"width": 45.845941361107634,
+			"height": 34.104880027762306,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 858554128,
+			"version": 123,
+			"versionNonce": 1884863760,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0
+				],
+				[
+					-1.6773066635294072,
+					0
+				],
+				[
+					-2.7954826687621335,
+					0.5590880026163632
+				],
+				[
+					-5.031877334907904,
+					1.6772640078490326
+				],
+				[
+					-6.709183998437311,
+					1.6772640078490326
+				],
+				[
+					-8.3864480062864,
+					2.236352010465396
+				],
+				[
+					-11.181930675048534,
+					2.236352010465396
+				],
+				[
+					-12.859237338578055,
+					1.6772640078490326
+				],
+				[
+					-13.977413343810781,
+					1.1181760052327263
+				],
+				[
+					-15.654720007340302,
+					0.5590880026163632
+				],
+				[
+					-16.772896012572915,
+					0.5590880026163632
+				],
+				[
+					-17.891114673486072,
+					0
+				],
+				[
+					-18.450202676102435,
+					-0.5591306582967377
+				],
+				[
+					-19.0092906787188,
+					-1.1182186609131008
+				],
+				[
+					-19.56837868133516,
+					-1.677306663529464
+				],
+				[
+					-19.56837868133516,
+					-3.354613327058928
+				],
+				[
+					-20.127466683951525,
+					-4.4727893322915975
+				],
+				[
+					-20.127466683951525,
+					-6.1500959958210615
+				],
+				[
+					-20.127466683951525,
+					-7.268272001053788
+				],
+				[
+					-20.127466683951525,
+					-8.945578664583252
+				],
+				[
+					-20.127466683951525,
+					-10.622842672432284
+				],
+				[
+					-20.127466683951525,
+					-12.300149335961748
+				],
+				[
+					-20.127466683951525,
+					-13.418325341194475
+				],
+				[
+					-20.127466683951525,
+					-14.536544002107576
+				],
+				[
+					-20.127466683951525,
+					-15.654720007340302
+				],
+				[
+					-20.127466683951525,
+					-16.77289601257297
+				],
+				[
+					-20.686597342248206,
+					-17.33202667086971
+				],
+				[
+					-20.686597342248206,
+					-17.891114673486072
+				],
+				[
+					-20.686597342248206,
+					-18.450202676102435
+				],
+				[
+					-20.686597342248206,
+					-17.891114673486072
+				],
+				[
+					-20.686597342248206,
+					-17.33202667086971
+				],
+				[
+					-20.686597342248206,
+					-16.77289601257297
+				],
+				[
+					-20.686597342248206,
+					-15.654720007340302
+				],
+				[
+					-20.686597342248206,
+					-15.095632004723939
+				],
+				[
+					-20.686597342248206,
+					-13.418325341194475
+				],
+				[
+					-20.686597342248206,
+					-12.300149335961748
+				],
+				[
+					-20.686597342248206,
+					-11.181930675048648
+				],
+				[
+					-20.686597342248206,
+					-10.063754669815978
+				],
+				[
+					-20.686597342248206,
+					-8.386448006286514
+				],
+				[
+					-21.24568534486457,
+					-7.268272001053788
+				],
+				[
+					-21.24568534486457,
+					-5.590965337524324
+				],
+				[
+					-21.24568534486457,
+					-5.031877334907961
+				],
+				[
+					-21.24568534486457,
+					-4.4727893322915975
+				],
+				[
+					-21.24568534486457,
+					-3.913701329675291
+				],
+				[
+					-21.24568534486457,
+					-2.7954826687621903
+				],
+				[
+					-21.24568534486457,
+					-2.236394666145827
+				],
+				[
+					-21.804773347480932,
+					-1.677306663529464
+				],
+				[
+					-22.363861350097295,
+					-0.5591306582967377
+				],
+				[
+					-22.92294935271366,
+					0
+				],
+				[
+					-23.48208001101034,
+					1.1181760052327263
+				],
+				[
+					-24.041168013626702,
+					1.6772640078490326
+				],
+				[
+					-24.600256016243065,
+					2.7954826687621335
+				],
+				[
+					-26.277562679772473,
+					3.91365867399486
+				],
+				[
+					-26.836650682388836,
+					5.031834679227586
+				],
+				[
+					-28.513914690237925,
+					5.590965337524324
+				],
+				[
+					-29.073045348534606,
+					6.70914134275705
+				],
+				[
+					-30.191221353767332,
+					6.70914134275705
+				],
+				[
+					-30.750309356383696,
+					7.268229345373356
+				],
+				[
+					-31.868528017296853,
+					7.268229345373356
+				],
+				[
+					-32.427616019913216,
+					7.268229345373356
+				],
+				[
+					-33.54579202514583,
+					7.82731734798972
+				],
+				[
+					-34.66401068605899,
+					7.82731734798972
+				],
+				[
+					-35.78218669129171,
+					7.82731734798972
+				],
+				[
+					-36.341274693908076,
+					7.82731734798972
+				],
+				[
+					-36.90036269652444,
+					7.268229345373356
+				],
+				[
+					-38.0185813574376,
+					7.268229345373356
+				],
+				[
+					-38.57766936005396,
+					6.70914134275705
+				],
+				[
+					-39.13675736267021,
+					6.150053340140687
+				],
+				[
+					-39.69584536528657,
+					5.590965337524324
+				],
+				[
+					-39.69584536528657,
+					5.031834679227586
+				],
+				[
+					-40.25497602358337,
+					3.3545706713784966
+				],
+				[
+					-40.25497602358337,
+					2.236352010465396
+				],
+				[
+					-40.25497602358337,
+					1.1181760052327263
+				],
+				[
+					-40.25497602358337,
+					0.5590880026163632
+				],
+				[
+					-40.25497602358337,
+					-0.5591306582967377
+				],
+				[
+					-39.69584536528657,
+					-0.5591306582967377
+				],
+				[
+					-39.13675736267021,
+					-1.677306663529464
+				],
+				[
+					-38.57766936005396,
+					-2.236394666145827
+				],
+				[
+					-38.0185813574376,
+					-2.236394666145827
+				],
+				[
+					-37.459493354821234,
+					-2.7954826687621903
+				],
+				[
+					-36.341274693908076,
+					-2.7954826687621903
+				],
+				[
+					-35.78218669129171,
+					-2.7954826687621903
+				],
+				[
+					-35.22309868867535,
+					-2.7954826687621903
+				],
+				[
+					-34.66401068605899,
+					-2.236394666145827
+				],
+				[
+					-34.10488002776219,
+					-1.677306663529464
+				],
+				[
+					-33.54579202514583,
+					-1.1182186609131008
+				],
+				[
+					-32.98670402252958,
+					0
+				],
+				[
+					-32.98670402252958,
+					1.1181760052327263
+				],
+				[
+					-32.98670402252958,
+					2.236352010465396
+				],
+				[
+					-32.98670402252958,
+					3.91365867399486
+				],
+				[
+					-32.98670402252958,
+					5.031834679227586
+				],
+				[
+					-32.98670402252958,
+					6.150053340140687
+				],
+				[
+					-32.98670402252958,
+					7.268229345373356
+				],
+				[
+					-32.98670402252958,
+					8.386448006286457
+				],
+				[
+					-34.10488002776219,
+					10.063712014135547
+				],
+				[
+					-34.66401068605899,
+					11.181930675048648
+				],
+				[
+					-35.22309868867535,
+					11.74101867766501
+				],
+				[
+					-35.78218669129171,
+					12.300106680281374
+				],
+				[
+					-36.90036269652444,
+					12.859194682897737
+				],
+				[
+					-37.459493354821234,
+					12.859194682897737
+				],
+				[
+					-38.0185813574376,
+					13.418282685514043
+				],
+				[
+					-39.13675736267021,
+					13.418282685514043
+				],
+				[
+					-39.69584536528657,
+					13.977413343810781
+				],
+				[
+					-40.81406402619973,
+					14.536501346427144
+				],
+				[
+					-40.81406402619973,
+					15.095589349043507
+				],
+				[
+					-41.373152028816094,
+					15.095589349043507
+				],
+				[
+					-41.93224003143246,
+					15.095589349043507
+				],
+				[
+					-42.49132803404882,
+					15.095589349043507
+				],
+				[
+					-43.0504586923455,
+					15.095589349043507
+				],
+				[
+					-44.16863469757823,
+					15.095589349043507
+				],
+				[
+					-44.72772270019459,
+					15.65467735165987
+				],
+				[
+					-45.28681070281095,
+					15.65467735165987
+				],
+				[
+					-45.845941361107634,
+					15.65467735165987
+				],
+				[
+					-45.28681070281095,
+					15.65467735165987
+				],
+				[
+					-44.72772270019459,
+					15.65467735165987
+				],
+				[
+					-44.72772270019459,
+					15.65467735165987
+				]
+			],
+			"pressures": [
+				0.119140625,
+				0.498046875,
+				0.5107421875,
+				0.515625,
+				0.53125,
+				0.54296875,
+				0.544921875,
+				0.546875,
+				0.546875,
+				0.546875,
+				0.5478515625,
+				0.5478515625,
+				0.5498046875,
+				0.548828125,
+				0.5439453125,
+				0.5439453125,
+				0.5380859375,
+				0.5400390625,
+				0.537109375,
+				0.529296875,
+				0.5283203125,
+				0.5166015625,
+				0.515625,
+				0.513671875,
+				0.5126953125,
+				0.513671875,
+				0.5126953125,
+				0.5126953125,
+				0.513671875,
+				0.5146484375,
+				0.5146484375,
+				0.5166015625,
+				0.517578125,
+				0.515625,
+				0.5146484375,
+				0.5185546875,
+				0.517578125,
+				0.517578125,
+				0.51953125,
+				0.51953125,
+				0.517578125,
+				0.5166015625,
+				0.51953125,
+				0.51953125,
+				0.517578125,
+				0.51953125,
+				0.51953125,
+				0.5185546875,
+				0.51953125,
+				0.521484375,
+				0.521484375,
+				0.5205078125,
+				0.5205078125,
+				0.5224609375,
+				0.521484375,
+				0.521484375,
+				0.5224609375,
+				0.5224609375,
+				0.5224609375,
+				0.5244140625,
+				0.5263671875,
+				0.5263671875,
+				0.525390625,
+				0.5263671875,
+				0.52734375,
+				0.5224609375,
+				0.521484375,
+				0.5224609375,
+				0.5234375,
+				0.51953125,
+				0.51953125,
+				0.5087890625,
+				0.5107421875,
+				0.5107421875,
+				0.5107421875,
+				0.51171875,
+				0.51171875,
+				0.509765625,
+				0.509765625,
+				0.509765625,
+				0.5068359375,
+				0.5107421875,
+				0.5078125,
+				0.509765625,
+				0.509765625,
+				0.5146484375,
+				0.513671875,
+				0.5166015625,
+				0.5166015625,
+				0.5205078125,
+				0.521484375,
+				0.5244140625,
+				0.5283203125,
+				0.529296875,
+				0.53125,
+				0.5361328125,
+				0.5400390625,
+				0.5439453125,
+				0.54296875,
+				0.5517578125,
+				0.560546875,
+				0.5625,
+				0.57421875,
+				0.57421875,
+				0.580078125,
+				0.5810546875,
+				0.5810546875,
+				0.5859375,
+				0.5849609375,
+				0.587890625,
+				0.5908203125,
+				0.5888671875,
+				0.587890625,
+				0.5908203125,
+				0.4375,
+				0.1171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-44.72772270019459,
+				15.65467735165987
+			]
+		},
+		{
+			"id": "U0_isxNGOwuy8_2DpYJbt",
+			"type": "freedraw",
+			"x": -916.3718354323153,
+			"y": 219.37897481494076,
+			"width": 5.031877334907904,
+			"height": 11.74101867766501,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1588925200,
+			"version": 30,
+			"versionNonce": 1818844144,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.5590880026163632
+				],
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.5591306582967377
+				],
+				[
+					0,
+					1.1182186609131008
+				],
+				[
+					0,
+					2.236394666145827
+				],
+				[
+					0,
+					3.354613327058928
+				],
+				[
+					0,
+					3.913701329675291
+				],
+				[
+					0,
+					4.472789332291654
+				],
+				[
+					0,
+					5.590965337524324
+				],
+				[
+					0,
+					6.1500959958210615
+				],
+				[
+					0,
+					6.709183998437425
+				],
+				[
+					0,
+					7.268272001053788
+				],
+				[
+					-0.5590880026163632,
+					7.268272001053788
+				],
+				[
+					-1.118218660913044,
+					8.386448006286514
+				],
+				[
+					-1.6773066635294072,
+					8.945578664583252
+				],
+				[
+					-2.2363946661457703,
+					9.504666667199615
+				],
+				[
+					-2.7954826687621335,
+					10.063754669815978
+				],
+				[
+					-3.3545706713784966,
+					10.063754669815978
+				],
+				[
+					-3.3545706713784966,
+					10.622842672432284
+				],
+				[
+					-3.9137013296751775,
+					10.622842672432284
+				],
+				[
+					-4.472789332291541,
+					11.181930675048648
+				],
+				[
+					-5.031877334907904,
+					11.181930675048648
+				],
+				[
+					-5.031877334907904,
+					11.181930675048648
+				]
+			],
+			"pressures": [
+				0.0751953125,
+				0.2939453125,
+				0.40625,
+				0.4169921875,
+				0.41796875,
+				0.4208984375,
+				0.4306640625,
+				0.431640625,
+				0.4345703125,
+				0.4423828125,
+				0.447265625,
+				0.44921875,
+				0.4541015625,
+				0.4541015625,
+				0.45703125,
+				0.46484375,
+				0.4716796875,
+				0.4833984375,
+				0.4853515625,
+				0.4912109375,
+				0.4912109375,
+				0.4892578125,
+				0.4736328125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-5.031877334907904,
+				11.181930675048648
+			]
+		},
+		{
+			"id": "fnbCBXXgDRWBlqINfhjsU",
+			"type": "freedraw",
+			"x": -970.6042247997094,
+			"y": 231.12003614828615,
+			"width": 6.150095995821175,
+			"height": 12.300106680281374,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1623589136,
+			"version": 46,
+			"versionNonce": 1851693840,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					-1.1181760052327263,
+					0.5590880026163632
+				],
+				[
+					-1.6772640078490895,
+					0
+				],
+				[
+					-2.7954826687621335,
+					-0.5591306582967377
+				],
+				[
+					-3.91365867399486,
+					-0.5591306582967377
+				],
+				[
+					-4.472746676611223,
+					-1.1182186609131008
+				],
+				[
+					-5.031834679227586,
+					-1.6773066635294072
+				],
+				[
+					-5.031834679227586,
+					-2.2363946661457703
+				],
+				[
+					-5.031834679227586,
+					-2.7954826687621335
+				],
+				[
+					-5.031834679227586,
+					-3.354613327058871
+				],
+				[
+					-4.472746676611223,
+					-3.9137013296752343
+				],
+				[
+					-3.3545706713784966,
+					-4.4727893322915975
+				],
+				[
+					-2.7954826687621335,
+					-5.031877334907961
+				],
+				[
+					-2.236352010465339,
+					-5.031877334907961
+				],
+				[
+					-1.6772640078490895,
+					-5.031877334907961
+				],
+				[
+					-1.1181760052327263,
+					-5.031877334907961
+				],
+				[
+					-0.5590880026163632,
+					-5.031877334907961
+				],
+				[
+					-0.5590880026163632,
+					-4.4727893322915975
+				],
+				[
+					0,
+					-3.9137013296752343
+				],
+				[
+					0,
+					-3.354613327058871
+				],
+				[
+					0,
+					-2.2363946661457703
+				],
+				[
+					0.5591306582967945,
+					-1.6773066635294072
+				],
+				[
+					0.5591306582967945,
+					-0.5591306582967377
+				],
+				[
+					0.5591306582967945,
+					0
+				],
+				[
+					0.5591306582967945,
+					0.5590880026163632
+				],
+				[
+					0.5591306582967945,
+					1.1181760052327263
+				],
+				[
+					0.5591306582967945,
+					1.6772640078490895
+				],
+				[
+					0,
+					2.7954826687621903
+				],
+				[
+					-0.5590880026163632,
+					3.9136586739949166
+				],
+				[
+					-0.5590880026163632,
+					4.472746676611223
+				],
+				[
+					-1.1181760052327263,
+					4.472746676611223
+				],
+				[
+					-1.6772640078490895,
+					5.590965337524324
+				],
+				[
+					-2.236352010465339,
+					6.150053340140687
+				],
+				[
+					-3.3545706713784966,
+					6.70914134275705
+				],
+				[
+					-3.91365867399486,
+					7.268229345373413
+				],
+				[
+					-4.472746676611223,
+					7.268229345373413
+				],
+				[
+					-5.031834679227586,
+					7.268229345373413
+				],
+				[
+					-5.590965337524381,
+					7.268229345373413
+				],
+				[
+					-5.590965337524381,
+					7.268229345373413
+				]
+			],
+			"pressures": [
+				0.193359375,
+				0.44140625,
+				0.4736328125,
+				0.4931640625,
+				0.5048828125,
+				0.5087890625,
+				0.509765625,
+				0.509765625,
+				0.5078125,
+				0.5068359375,
+				0.5048828125,
+				0.50390625,
+				0.501953125,
+				0.5,
+				0.5,
+				0.498046875,
+				0.4951171875,
+				0.486328125,
+				0.486328125,
+				0.48828125,
+				0.490234375,
+				0.4912109375,
+				0.4921875,
+				0.4921875,
+				0.4951171875,
+				0.49609375,
+				0.5009765625,
+				0.5009765625,
+				0.5029296875,
+				0.5078125,
+				0.509765625,
+				0.5126953125,
+				0.517578125,
+				0.5224609375,
+				0.5234375,
+				0.5263671875,
+				0.5400390625,
+				0.552734375,
+				0.5576171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-5.590965337524381,
+				7.268229345373413
+			]
+		},
+		{
+			"id": "ICmCbHlMb4XsaaXl2a1Pc",
+			"type": "freedraw",
+			"x": -1002.472710161326,
+			"y": 223.85176414723242,
+			"width": 16.772896012573028,
+			"height": 17.891072017805698,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 991366928,
+			"version": 36,
+			"versionNonce": 548953584,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.6773066635294072,
+					1.6773066635294072
+				],
+				[
+					-2.2363946661457703,
+					2.2363946661457703
+				],
+				[
+					-2.2363946661457703,
+					3.91365867399486
+				],
+				[
+					-2.2363946661457703,
+					5.590965337524324
+				],
+				[
+					-2.2363946661457703,
+					7.268272001053731
+				],
+				[
+					-2.2363946661457703,
+					10.063754669815921
+				],
+				[
+					-2.2363946661457703,
+					13.418325341194418
+				],
+				[
+					-1.6773066635294072,
+					15.095589349043507
+				],
+				[
+					-0.5590880026163632,
+					16.213808009956608
+				],
+				[
+					1.1181760052327263,
+					16.77289601257297
+				],
+				[
+					2.236394666145884,
+					17.331984015189335
+				],
+				[
+					5.0318773349080175,
+					16.213808009956608
+				],
+				[
+					6.709141342757107,
+					15.654720007340245
+				],
+				[
+					8.386448006286514,
+					14.536501346427144
+				],
+				[
+					9.50462401151924,
+					13.977413343810781
+				],
+				[
+					10.622842672432398,
+					13.418325341194418
+				],
+				[
+					12.300106680281488,
+					12.300106680281317
+				],
+				[
+					12.859237338578168,
+					11.181930675048648
+				],
+				[
+					13.418325341194532,
+					10.622842672432284
+				],
+				[
+					13.977413343810895,
+					8.94553600890282
+				],
+				[
+					14.536501346427258,
+					6.15005334014063
+				],
+				[
+					14.536501346427258,
+					4.4727893322915975
+				],
+				[
+					14.536501346427258,
+					2.2363946661457703
+				],
+				[
+					14.536501346427258,
+					0.5590880026163063
+				],
+				[
+					14.536501346427258,
+					-0.5590880026163632
+				],
+				[
+					13.977413343810895,
+					-0.5590880026163632
+				],
+				[
+					13.418325341194532,
+					-0.5590880026163632
+				],
+				[
+					12.859237338578168,
+					-0.5590880026163632
+				],
+				[
+					12.859237338578168,
+					-0.5590880026163632
+				]
+			],
+			"pressures": [
+				0.18359375,
+				0.4033203125,
+				0.47265625,
+				0.5029296875,
+				0.5048828125,
+				0.5107421875,
+				0.5146484375,
+				0.513671875,
+				0.51171875,
+				0.5087890625,
+				0.50390625,
+				0.5009765625,
+				0.5029296875,
+				0.505859375,
+				0.5087890625,
+				0.5087890625,
+				0.5107421875,
+				0.51171875,
+				0.5126953125,
+				0.515625,
+				0.5166015625,
+				0.5244140625,
+				0.52734375,
+				0.5380859375,
+				0.5478515625,
+				0.5625,
+				0.583984375,
+				0.5732421875,
+				0.1787109375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				12.859237338578168,
+				-0.5590880026163632
+			]
+		},
+		{
+			"id": "wsxaC74bz-zaeV5EQ1T5p",
+			"type": "freedraw",
+			"x": -995.2044381602722,
+			"y": 228.88364148214038,
+			"width": 0.5591306582966808,
+			"height": 1.1182186609131008,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1211592976,
+			"version": 12,
+			"versionNonce": 737720592,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5591306582966808,
+					-0.5590880026163632
+				],
+				[
+					-0.5591306582966808,
+					-1.1182186609131008
+				],
+				[
+					0,
+					-1.1182186609131008
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.1904296875,
+				0.6572265625,
+				0.6533203125,
+				0.4326171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0,
+				-1.1182186609131008
+			]
+		},
+		{
+			"id": "LTQ4ttrdVH-mr-0a0GFhi",
+			"type": "freedraw",
+			"x": -997.4408328264179,
+			"y": 214.90622813832954,
+			"width": 8.945578664583309,
+			"height": 2.236394666145827,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1631863568,
+			"version": 18,
+			"versionNonce": 936845296,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.1182186609131577,
+					0.5590880026163632
+				],
+				[
+					-0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					1.6772640078490895,
+					-0.5590880026163632
+				],
+				[
+					3.3545706713784966,
+					-1.1182186609131008
+				],
+				[
+					5.0318773349080175,
+					-1.1182186609131008
+				],
+				[
+					6.709141342757107,
+					-1.677306663529464
+				],
+				[
+					7.26822934537347,
+					-1.677306663529464
+				],
+				[
+					7.827360003670151,
+					-1.677306663529464
+				],
+				[
+					7.827360003670151,
+					-1.1182186609131008
+				],
+				[
+					7.827360003670151,
+					-1.1182186609131008
+				]
+			],
+			"pressures": [
+				0.1123046875,
+				0.3974609375,
+				0.509765625,
+				0.5107421875,
+				0.515625,
+				0.521484375,
+				0.5263671875,
+				0.5341796875,
+				0.5341796875,
+				0.53515625,
+				0.40625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				7.827360003670151,
+				-1.1182186609131008
+			]
+		},
+		{
+			"id": "gBfdsSLcNUGQOH1Cc7ofl",
+			"type": "freedraw",
+			"x": -923.6401074333689,
+			"y": 236.71100148581047,
+			"width": 1.1181760052327263,
+			"height": 1.1182186609131008,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1462913296,
+			"version": 17,
+			"versionNonce": 748623632,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.5591306582967377
+				],
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0
+				],
+				[
+					-0.5590880026163632,
+					-0.5591306582967377
+				],
+				[
+					-0.5590880026163632,
+					-1.1182186609131008
+				],
+				[
+					0,
+					-1.1182186609131008
+				],
+				[
+					0.5590880026163632,
+					-1.1182186609131008
+				],
+				[
+					0.5590880026163632,
+					-0.5591306582967377
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.1572265625,
+				0.2890625,
+				0.3388671875,
+				0.423828125,
+				0.42578125,
+				0.4228515625,
+				0.4228515625,
+				0.421875,
+				0.423828125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.5590880026163632,
+				-0.5591306582967377
+			]
+		},
+		{
+			"id": "GJdq-IbsVBX2HaXRR0i4x",
+			"type": "freedraw",
+			"x": -915.8127474296989,
+			"y": 235.59278282489737,
+			"width": 1.1181760052327263,
+			"height": 1.6772640078490326,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1499410704,
+			"version": 20,
+			"versionNonce": 1103995376,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					-0.5590880026163063
+				],
+				[
+					0,
+					-1.1181760052326695
+				],
+				[
+					0.5590880026163632,
+					-1.1181760052326695
+				],
+				[
+					0.5590880026163632,
+					-0.5590880026163063
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					0,
+					0.5590880026163632
+				],
+				[
+					-0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					-0.5590880026163632,
+					0
+				],
+				[
+					0,
+					0
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.1162109375,
+				0.27734375,
+				0.2958984375,
+				0.3046875,
+				0.314453125,
+				0.32421875,
+				0.3583984375,
+				0.4033203125,
+				0.4189453125,
+				0.4208984375,
+				0.4248046875,
+				0.2041015625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.5590880026163632,
+				0
+			]
+		},
+		{
+			"id": "Onwpv_h3C1P-zB4NV7U8D",
+			"type": "freedraw",
+			"x": -924.7582834386017,
+			"y": 212.6698334721837,
+			"width": 11.741018677664897,
+			"height": 6.15005334014063,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2032399120,
+			"version": 18,
+			"versionNonce": 1154069776,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					1.6772640078490895,
+					0
+				],
+				[
+					2.7954826687621335,
+					-0.5590880026163063
+				],
+				[
+					5.031877334907904,
+					-2.2363946661457703
+				],
+				[
+					6.15005334014063,
+					-2.7954826687621335
+				],
+				[
+					7.827360003670037,
+					-3.91365867399486
+				],
+				[
+					8.945536008902764,
+					-5.031877334907961
+				],
+				[
+					10.62284267243217,
+					-5.590965337524324
+				],
+				[
+					11.741018677664897,
+					-6.15005334014063
+				],
+				[
+					11.741018677664897,
+					-5.590965337524324
+				],
+				[
+					11.741018677664897,
+					-5.590965337524324
+				]
+			],
+			"pressures": [
+				0.1875,
+				0.4619140625,
+				0.4736328125,
+				0.490234375,
+				0.51171875,
+				0.521484375,
+				0.52734375,
+				0.53125,
+				0.53125,
+				0.5302734375,
+				0.3251953125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				11.741018677664897,
+				-5.590965337524324
+			]
+		},
+		{
+			"id": "aBuX6e0fjeJSdZmTyLKZK",
+			"type": "freedraw",
+			"x": -937.6175207771798,
+			"y": 194.2196521239215,
+			"width": 7.82731734798972,
+			"height": 5.590965337524324,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 747895056,
+			"version": 34,
+			"versionNonce": 1722981872,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168002470,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0
+				],
+				[
+					-1.1181760052327263,
+					0
+				],
+				[
+					-1.6772640078490895,
+					0
+				],
+				[
+					-2.2363946661457703,
+					0
+				],
+				[
+					-2.7954826687621335,
+					0
+				],
+				[
+					-3.3545706713784966,
+					0.5590880026163632
+				],
+				[
+					-3.91365867399486,
+					1.1181760052327263
+				],
+				[
+					-3.91365867399486,
+					2.2363733383056115
+				],
+				[
+					-3.91365867399486,
+					2.7954826687621903
+				],
+				[
+					-4.472746676611223,
+					3.3545706713785535
+				],
+				[
+					-4.472746676611223,
+					3.91365867399486
+				],
+				[
+					-4.472746676611223,
+					4.472768004451439
+				],
+				[
+					-4.472746676611223,
+					5.031856007067802
+				],
+				[
+					-4.472746676611223,
+					5.590965337524324
+				],
+				[
+					-3.91365867399486,
+					5.590965337524324
+				],
+				[
+					-3.3545706713784966,
+					5.590965337524324
+				],
+				[
+					-2.7954826687621335,
+					5.590965337524324
+				],
+				[
+					-2.2363946661457703,
+					5.590965337524324
+				],
+				[
+					-1.6772640078490895,
+					5.590965337524324
+				],
+				[
+					-1.1181760052327263,
+					5.590965337524324
+				],
+				[
+					-0.5590880026163632,
+					5.590965337524324
+				],
+				[
+					0,
+					5.590965337524324
+				],
+				[
+					0.5590880026163632,
+					5.590965337524324
+				],
+				[
+					1.118218660913044,
+					5.031856007067802
+				],
+				[
+					1.6773066635294072,
+					5.031856007067802
+				],
+				[
+					2.2363946661457703,
+					5.031856007067802
+				],
+				[
+					2.7954826687621335,
+					5.031856007067802
+				],
+				[
+					3.3545706713784966,
+					5.031856007067802
+				],
+				[
+					3.3545706713784966,
+					5.590965337524324
+				],
+				[
+					3.3545706713784966,
+					5.590965337524324
+				]
+			],
+			"pressures": [
+				0.1181640625,
+				0.4033203125,
+				0.4111328125,
+				0.412109375,
+				0.421875,
+				0.4287109375,
+				0.43359375,
+				0.435546875,
+				0.43359375,
+				0.4296875,
+				0.431640625,
+				0.43359375,
+				0.4375,
+				0.4384765625,
+				0.439453125,
+				0.439453125,
+				0.4404296875,
+				0.4453125,
+				0.453125,
+				0.4599609375,
+				0.46875,
+				0.47265625,
+				0.4775390625,
+				0.478515625,
+				0.48046875,
+				0.48828125,
+				0.50390625,
+				0.5166015625,
+				0.568359375,
+				0.173828125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.3545706713784966,
+				5.590965337524324
+			]
+		},
+		{
+			"id": "HJIeyKq1BmF7inv0u9gN3",
+			"type": "freedraw",
+			"x": -938.7356967824126,
+			"y": 193.1014547908486,
+			"width": 4.472746676611223,
+			"height": 1.1181973330728852,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1100724496,
+			"version": 16,
+			"versionNonce": 1816718096,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168001900,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0
+				],
+				[
+					-0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					0,
+					0.5590880026163632
+				],
+				[
+					0.5590880026163632,
+					0.5590880026163632
+				],
+				[
+					1.1181760052327263,
+					0.5590880026163632
+				],
+				[
+					1.6772640078490895,
+					0.5590880026163632
+				],
+				[
+					2.2363946661457703,
+					0.5590880026163632
+				],
+				[
+					2.7954826687621335,
+					0.5590880026163632
+				],
+				[
+					3.3545706713784966,
+					0.5590880026163632
+				],
+				[
+					3.3545706713784966,
+					1.1181973330728852
+				],
+				[
+					3.91365867399486,
+					1.1181973330728852
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.02734375,
+				0.1552734375,
+				0.2509765625,
+				0.4091796875,
+				0.4267578125,
+				0.43359375,
+				0.443359375,
+				0.458984375,
+				0.4697265625,
+				0.4775390625,
+				0.482421875,
+				0.4833984375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				3.91365867399486,
+				1.1181973330728852
+			]
+		},
+		{
+			"id": "4J-WdzOau_oYxqkor6lMX",
+			"type": "freedraw",
+			"x": -942.0902674537911,
+			"y": 198.13331079791635,
+			"width": 9.504624011519127,
+			"height": 5.0318773349080175,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1149853680,
+			"version": 40,
+			"versionNonce": 1077902096,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168005249,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					1.1181760052327263,
+					0
+				],
+				[
+					1.6772640078490895,
+					0
+				],
+				[
+					2.2363520104654526,
+					0
+				],
+				[
+					2.7954826687621335,
+					0
+				],
+				[
+					3.3545706713784966,
+					0
+				],
+				[
+					3.91365867399486,
+					0
+				],
+				[
+					4.472746676611223,
+					0
+				],
+				[
+					4.472746676611223,
+					0.5591093304565788
+				],
+				[
+					5.031834679227586,
+					1.118197333072942
+				],
+				[
+					5.590965337524267,
+					1.118197333072942
+				],
+				[
+					5.590965337524267,
+					1.677306663529464
+				],
+				[
+					6.15005334014063,
+					1.677306663529464
+				],
+				[
+					6.15005334014063,
+					2.236394666145827
+				],
+				[
+					6.709141342756993,
+					2.7954826687621903
+				],
+				[
+					6.709141342756993,
+					3.3545919992187123
+				],
+				[
+					6.709141342756993,
+					3.9136800018350755
+				],
+				[
+					6.15005334014063,
+					4.472789332291654
+				],
+				[
+					5.590965337524267,
+					4.472789332291654
+				],
+				[
+					5.031834679227586,
+					4.472789332291654
+				],
+				[
+					4.472746676611223,
+					4.472789332291654
+				],
+				[
+					3.91365867399486,
+					5.0318773349080175
+				],
+				[
+					3.3545706713784966,
+					5.0318773349080175
+				],
+				[
+					2.7954826687621335,
+					5.0318773349080175
+				],
+				[
+					2.2363520104654526,
+					5.0318773349080175
+				],
+				[
+					1.6772640078490895,
+					5.0318773349080175
+				],
+				[
+					1.1181760052327263,
+					5.0318773349080175
+				],
+				[
+					0.5590880026163632,
+					5.0318773349080175
+				],
+				[
+					0,
+					5.0318773349080175
+				],
+				[
+					-0.5591306582966808,
+					5.0318773349080175
+				],
+				[
+					-1.118218660913044,
+					5.0318773349080175
+				],
+				[
+					-1.6773066635294072,
+					5.0318773349080175
+				],
+				[
+					-2.2363946661457703,
+					5.0318773349080175
+				],
+				[
+					-2.7954826687621335,
+					5.0318773349080175
+				],
+				[
+					-2.2363946661457703,
+					5.0318773349080175
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [
+				0.1318359375,
+				0.4208984375,
+				0.4208984375,
+				0.423828125,
+				0.423828125,
+				0.4287109375,
+				0.4287109375,
+				0.4384765625,
+				0.453125,
+				0.45703125,
+				0.466796875,
+				0.4697265625,
+				0.4716796875,
+				0.4775390625,
+				0.490234375,
+				0.4921875,
+				0.498046875,
+				0.50390625,
+				0.509765625,
+				0.5224609375,
+				0.5234375,
+				0.521484375,
+				0.5244140625,
+				0.525390625,
+				0.5263671875,
+				0.5283203125,
+				0.52734375,
+				0.5234375,
+				0.52734375,
+				0.529296875,
+				0.5263671875,
+				0.5244140625,
+				0.5283203125,
+				0.529296875,
+				0.5302734375,
+				0.4951171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-2.2363946661457703,
+				5.0318773349080175
+			]
+		},
+		{
+			"id": "g63AkI3Im63UTK2ytjHgV",
+			"type": "freedraw",
+			"x": -941.5311794511747,
+			"y": 197.57422279530005,
+			"width": 10.06371201413549,
+			"height": 6.150053340140687,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1321048336,
+			"version": 40,
+			"versionNonce": 228844528,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696168175922,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5590880026163632,
+					0
+				],
+				[
+					1.1181760052327263,
+					0
+				],
+				[
+					2.2363946661457703,
+					0
+				],
+				[
+					2.7954826687621335,
+					-0.5590880026163632
+				],
+				[
+					3.3545706713784966,
+					-0.5590880026163632
+				],
+				[
+					3.91365867399486,
+					-0.5590880026163632
+				],
+				[
+					5.031877334907904,
+					-0.5590880026163632
+				],
+				[
+					5.590965337524267,
+					-0.5590880026163632
+				],
+				[
+					5.590965337524267,
+					0
+				],
+				[
+					6.15005334014063,
+					0
+				],
+				[
+					6.15005334014063,
+					0.5590880026163063
+				],
+				[
+					6.709141342756993,
+					1.1181973330728852
+				],
+				[
+					6.709141342756993,
+					1.6772853356892483
+				],
+				[
+					6.709141342756993,
+					2.2363946661457703
+				],
+				[
+					6.709141342756993,
+					2.7954826687621335
+				],
+				[
+					6.709141342756993,
+					3.3545706713784966
+				],
+				[
+					6.15005334014063,
+					3.3545706713784966
+				],
+				[
+					6.15005334014063,
+					3.9136800018350186
+				],
+				[
+					5.590965337524267,
+					3.9136800018350186
+				],
+				[
+					5.031877334907904,
+					4.472768004451382
+				],
+				[
+					4.472746676611223,
+					4.472768004451382
+				],
+				[
+					3.91365867399486,
+					4.472768004451382
+				],
+				[
+					3.3545706713784966,
+					4.472768004451382
+				],
+				[
+					2.2363946661457703,
+					5.031877334907961
+				],
+				[
+					1.6772640078490895,
+					5.031877334907961
+				],
+				[
+					1.1181760052327263,
+					5.031877334907961
+				],
+				[
+					0.5590880026163632,
+					5.031877334907961
+				],
+				[
+					0,
+					5.031877334907961
+				],
+				[
+					-0.5590880026163632,
+					5.031877334907961
+				],
+				[
+					-1.118218660913044,
+					5.031877334907961
+				],
+				[
+					-2.2363946661457703,
+					5.031877334907961
+				],
+				[
+					-2.7954826687621335,
+					5.031877334907961
+				],
+				[
+					-2.7954826687621335,
+					5.590965337524324
+				],
+				[
+					-3.3545706713784966,
+					5.590965337524324
+				],
+				[
+					-2.7954826687621335,
+					5.590965337524324
+				],
+				[
+					-2.7954826687621335,
+					5.590965337524324
+				]
+			],
+			"pressures": [
+				0.119140625,
+				0.462890625,
+				0.4638671875,
+				0.4716796875,
+				0.4716796875,
+				0.474609375,
+				0.474609375,
+				0.474609375,
+				0.4765625,
+				0.4765625,
+				0.48046875,
+				0.48046875,
+				0.4833984375,
+				0.4853515625,
+				0.490234375,
+				0.4873046875,
+				0.490234375,
+				0.4921875,
+				0.4921875,
+				0.494140625,
+				0.4951171875,
+				0.4931640625,
+				0.49609375,
+				0.4951171875,
+				0.4990234375,
+				0.4990234375,
+				0.49609375,
+				0.4951171875,
+				0.4970703125,
+				0.4970703125,
+				0.4970703125,
+				0.5078125,
+				0.509765625,
+				0.5126953125,
+				0.5205078125,
+				0.4853515625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-2.7954826687621335,
+				5.590965337524324
+			]
 		}
 	],
 	"appState": {
@@ -35296,10 +37712,10 @@ Natural Madd letters have smaller version:  ^aaHyL11r
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1052.033094440537,
-		"scrollY": 28.93713674551332,
+		"scrollX": 1654.7917762171726,
+		"scrollY": 354.10267393476795,
 		"zoom": {
-			"value": 2.4361226525884088
+			"value": 0.7609078010570646
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
