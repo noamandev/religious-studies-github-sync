@@ -51,8 +51,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 	"elements": [
 		{
 			"type": "text",
-			"version": 517,
-			"versionNonce": 692524304,
+			"version": 532,
+			"versionNonce": 311388144,
 			"isDeleted": false,
 			"id": "Vh6NooVI",
 			"fillStyle": "hachure",
@@ -97,7 +97,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889393,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 36.822011789362705,
@@ -113,8 +113,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 719,
-			"versionNonce": 1110213616,
+			"version": 734,
+			"versionNonce": 779046672,
 			"isDeleted": false,
 			"id": "J9aoxa1z",
 			"fillStyle": "hachure",
@@ -139,7 +139,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.093181405264634,
@@ -155,8 +155,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 441,
-			"versionNonce": 667022096,
+			"version": 456,
+			"versionNonce": 775743984,
 			"isDeleted": false,
 			"id": "3aXsXyZJ",
 			"fillStyle": "hachure",
@@ -181,7 +181,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -197,8 +197,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 629,
-			"versionNonce": 601261552,
+			"version": 644,
+			"versionNonce": 265481488,
 			"isDeleted": false,
 			"id": "zwDRUkZl",
 			"fillStyle": "hachure",
@@ -223,7 +223,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -239,8 +239,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 507,
-			"versionNonce": 254873872,
+			"version": 522,
+			"versionNonce": 1021979632,
 			"isDeleted": false,
 			"id": "YZXwoqin",
 			"fillStyle": "hachure",
@@ -265,7 +265,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -281,8 +281,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 376,
-			"versionNonce": 82855920,
+			"version": 391,
+			"versionNonce": 2131938064,
 			"isDeleted": false,
 			"id": "rmY2PcSH",
 			"fillStyle": "hachure",
@@ -307,7 +307,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -323,8 +323,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 840,
-			"versionNonce": 923561744,
+			"version": 855,
+			"versionNonce": 1218391536,
 			"isDeleted": false,
 			"id": "g1IDOlaDajmWgw5z2mjMB",
 			"fillStyle": "hachure",
@@ -346,7 +346,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -375,8 +375,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 694,
-			"versionNonce": 1635895792,
+			"version": 709,
+			"versionNonce": 1990650128,
 			"isDeleted": false,
 			"id": "osSc966FYo6-NVTV7M4U-",
 			"fillStyle": "hachure",
@@ -398,7 +398,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -427,8 +427,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 2138,
-			"versionNonce": 1204555024,
+			"version": 2153,
+			"versionNonce": 1516498928,
 			"isDeleted": false,
 			"id": "eGt5CINm5yEHWl3gCTphH",
 			"fillStyle": "hachure",
@@ -450,7 +450,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -479,8 +479,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 994,
-			"versionNonce": 1955793904,
+			"version": 1009,
+			"versionNonce": 1644644112,
 			"isDeleted": false,
 			"id": "yA5HDlTqmrkd9MKtXMGU0",
 			"fillStyle": "hachure",
@@ -502,7 +502,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -531,8 +531,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 1270,
-			"versionNonce": 451406608,
+			"version": 1285,
+			"versionNonce": 440431088,
 			"isDeleted": false,
 			"id": "XxwQcudh6mtQGIS8xjX1c",
 			"fillStyle": "hachure",
@@ -554,7 +554,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -583,8 +583,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "arrow",
-			"version": 637,
-			"versionNonce": 1479282160,
+			"version": 652,
+			"versionNonce": 2108417296,
 			"isDeleted": false,
 			"id": "haqliS5wZyu4rh1Es595Q",
 			"fillStyle": "hachure",
@@ -606,7 +606,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -635,8 +635,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 1169,
-			"versionNonce": 450365712,
+			"version": 1184,
+			"versionNonce": 1866249200,
 			"isDeleted": false,
 			"id": "LywLTk3w",
 			"fillStyle": "hachure",
@@ -661,7 +661,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.577313341933856,
@@ -677,8 +677,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 1020,
-			"versionNonce": 626315248,
+			"version": 1035,
+			"versionNonce": 923583248,
 			"isDeleted": false,
 			"id": "VBppfIQsquY0GfulVCOPO",
 			"fillStyle": "hachure",
@@ -698,7 +698,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1050,8 +1050,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 1116,
-			"versionNonce": 588539664,
+			"version": 1131,
+			"versionNonce": 526431728,
 			"isDeleted": false,
 			"id": "q7qSiSvCGgzpvs3JOsezB",
 			"fillStyle": "hachure",
@@ -1071,7 +1071,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1703,8 +1703,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 1108,
-			"versionNonce": 336941552,
+			"version": 1123,
+			"versionNonce": 211935504,
 			"isDeleted": false,
 			"id": "8gegA7nG0j4XJ3XKbRPxz",
 			"fillStyle": "hachure",
@@ -1724,7 +1724,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2516,8 +2516,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 965,
-			"versionNonce": 1611990288,
+			"version": 980,
+			"versionNonce": 1874098160,
 			"isDeleted": false,
 			"id": "hOQPawfFhYqtTaxVW5e5e",
 			"fillStyle": "hachure",
@@ -2537,7 +2537,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2609,8 +2609,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 952,
-			"versionNonce": 460690416,
+			"version": 967,
+			"versionNonce": 1843609360,
 			"isDeleted": false,
 			"id": "xa220WM_EGWG566v29JRs",
 			"fillStyle": "hachure",
@@ -2630,7 +2630,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2652,8 +2652,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 955,
-			"versionNonce": 793895696,
+			"version": 970,
+			"versionNonce": 1145043440,
 			"isDeleted": false,
 			"id": "kzzUjsAvFyAy739TW-PGj",
 			"fillStyle": "hachure",
@@ -2673,7 +2673,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2705,8 +2705,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 948,
-			"versionNonce": 293443056,
+			"version": 963,
+			"versionNonce": 457760016,
 			"isDeleted": false,
 			"id": "GGovryWAWBB-OU4yz6LFx",
 			"fillStyle": "hachure",
@@ -2726,7 +2726,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2948,8 +2948,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 860,
-			"versionNonce": 2135097616,
+			"version": 875,
+			"versionNonce": 1074478064,
 			"isDeleted": false,
 			"id": "YF3RvAPdgv_-7pQ4Taz_f",
 			"fillStyle": "hachure",
@@ -2969,7 +2969,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3041,8 +3041,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 922,
-			"versionNonce": 1261787120,
+			"version": 937,
+			"versionNonce": 105560848,
 			"isDeleted": false,
 			"id": "UDrfK5URf_EduCkObHR1b",
 			"fillStyle": "hachure",
@@ -3062,7 +3062,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3154,8 +3154,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 1078,
-			"versionNonce": 794844944,
+			"version": 1093,
+			"versionNonce": 1696480752,
 			"isDeleted": false,
 			"id": "1gYQkWngzsOO5RlYfp6Kq",
 			"fillStyle": "hachure",
@@ -3175,7 +3175,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4052,8 +4052,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 1014,
-			"versionNonce": 1017436656,
+			"version": 1029,
+			"versionNonce": 828430608,
 			"isDeleted": false,
 			"id": "NtvhaV2mW4TLHR-WRNO2-",
 			"fillStyle": "hachure",
@@ -4073,7 +4073,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4630,8 +4630,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 917,
-			"versionNonce": 1881275664,
+			"version": 932,
+			"versionNonce": 880869360,
 			"isDeleted": false,
 			"id": "PsJqkrYQTK7grkr27XaFS",
 			"fillStyle": "hachure",
@@ -4651,7 +4651,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4718,8 +4718,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 926,
-			"versionNonce": 416553968,
+			"version": 941,
+			"versionNonce": 268646160,
 			"isDeleted": false,
 			"id": "8RGRtH3qDLtU-M6GWhgEY",
 			"fillStyle": "hachure",
@@ -4739,7 +4739,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995855,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4851,8 +4851,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 961,
-			"versionNonce": 587193104,
+			"version": 976,
+			"versionNonce": 1312522736,
 			"isDeleted": false,
 			"id": "5l98krOV4242XqFObv1PY",
 			"fillStyle": "hachure",
@@ -4872,7 +4872,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5159,8 +5159,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 947,
-			"versionNonce": 1909136880,
+			"version": 962,
+			"versionNonce": 1722406160,
 			"isDeleted": false,
 			"id": "tfmzoOQx52Yf1ZZbb1eVh",
 			"fillStyle": "hachure",
@@ -5180,7 +5180,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5402,8 +5402,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 994,
-			"versionNonce": 980547856,
+			"version": 1009,
+			"versionNonce": 290833392,
 			"isDeleted": false,
 			"id": "V7dGOKiVoAhl_m59Q-Mzm",
 			"fillStyle": "hachure",
@@ -5423,7 +5423,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5880,8 +5880,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 848,
-			"versionNonce": 1485955056,
+			"version": 863,
+			"versionNonce": 718058256,
 			"isDeleted": false,
 			"id": "IhSHOPWo",
 			"fillStyle": "hachure",
@@ -5906,7 +5906,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5922,8 +5922,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 771,
-			"versionNonce": 435181328,
+			"version": 786,
+			"versionNonce": 1003996656,
 			"isDeleted": false,
 			"id": "UMgkyUzL2Yr76-CiHXGxf",
 			"fillStyle": "hachure",
@@ -5943,7 +5943,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6250,8 +6250,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 770,
-			"versionNonce": 2100322800,
+			"version": 785,
+			"versionNonce": 1659097360,
 			"isDeleted": false,
 			"id": "Ee0kdUxfNT15AAvBLH2o2",
 			"fillStyle": "hachure",
@@ -6271,7 +6271,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6573,8 +6573,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 757,
-			"versionNonce": 1978856720,
+			"version": 772,
+			"versionNonce": 180979696,
 			"isDeleted": false,
 			"id": "VBKGL7y4RAvuQ4vRwgQIl",
 			"fillStyle": "hachure",
@@ -6594,7 +6594,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6841,8 +6841,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 766,
-			"versionNonce": 1320068080,
+			"version": 781,
+			"versionNonce": 107425552,
 			"isDeleted": false,
 			"id": "z7EnvIJXpIbSY4HQMim9F",
 			"fillStyle": "hachure",
@@ -6862,7 +6862,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7164,8 +7164,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 761,
-			"versionNonce": 871486224,
+			"version": 776,
+			"versionNonce": 1513294320,
 			"isDeleted": false,
 			"id": "GYUesey_QVMIZsuAFh_Tk",
 			"fillStyle": "hachure",
@@ -7185,7 +7185,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7462,8 +7462,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 751,
-			"versionNonce": 454338032,
+			"version": 766,
+			"versionNonce": 1573834000,
 			"isDeleted": false,
 			"id": "S8mwYtUKs3lwYTK1dqQeT",
 			"fillStyle": "hachure",
@@ -7483,7 +7483,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7710,8 +7710,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 763,
-			"versionNonce": 1248129296,
+			"version": 778,
+			"versionNonce": 1159482352,
 			"isDeleted": false,
 			"id": "71e3FCW1j8vUCz2Z5HhFt",
 			"fillStyle": "hachure",
@@ -7731,7 +7731,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8023,8 +8023,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 724,
-			"versionNonce": 795502576,
+			"version": 739,
+			"versionNonce": 1653779216,
 			"isDeleted": false,
 			"id": "h4FzWH3XxMg_h0gc7B0-f",
 			"fillStyle": "hachure",
@@ -8044,7 +8044,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8141,8 +8141,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 723,
-			"versionNonce": 549736208,
+			"version": 738,
+			"versionNonce": 1166888432,
 			"isDeleted": false,
 			"id": "S91xiWDDMhW0FzUrVidBG",
 			"fillStyle": "hachure",
@@ -8162,7 +8162,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8254,8 +8254,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 729,
-			"versionNonce": 2008541680,
+			"version": 744,
+			"versionNonce": 522897680,
 			"isDeleted": false,
 			"id": "mrYC48DA3vLJHKsWWAoDS",
 			"fillStyle": "hachure",
@@ -8275,7 +8275,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8402,8 +8402,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "text",
-			"version": 977,
-			"versionNonce": 1871179024,
+			"version": 992,
+			"versionNonce": 1418596336,
 			"isDeleted": false,
 			"id": "o9PMk3ka",
 			"fillStyle": "hachure",
@@ -8423,7 +8423,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8456,11 +8456,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2122976016,
-			"version": 819,
-			"versionNonce": 520432624,
+			"version": 834,
+			"versionNonce": 252651280,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"text": "Natural Madd letters have smaller version: ",
@@ -8493,11 +8493,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 155655440,
-			"version": 785,
-			"versionNonce": 539478800,
+			"version": 800,
+			"versionNonce": 170299888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8729,11 +8729,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 122202896,
-			"version": 767,
-			"versionNonce": 794439152,
+			"version": 782,
+			"versionNonce": 2125972752,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8875,11 +8875,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1362533648,
-			"version": 828,
-			"versionNonce": 756803856,
+			"version": 843,
+			"versionNonce": 1029624816,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9326,11 +9326,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1699420432,
-			"version": 815,
-			"versionNonce": 834596848,
+			"version": 830,
+			"versionNonce": 1805427472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9732,11 +9732,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1220473104,
-			"version": 817,
-			"versionNonce": 31213328,
+			"version": 832,
+			"versionNonce": 608097776,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10168,11 +10168,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2014999312,
-			"version": 795,
-			"versionNonce": 1312518640,
+			"version": 810,
+			"versionNonce": 1681244432,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10499,11 +10499,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 318112016,
-			"version": 746,
-			"versionNonce": 1524688144,
+			"version": 761,
+			"versionNonce": 1942919152,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10725,11 +10725,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 422162192,
-			"version": 735,
-			"versionNonce": 1809298416,
+			"version": 750,
+			"versionNonce": 1744510736,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10921,11 +10921,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2063142160,
-			"version": 809,
-			"versionNonce": 631358224,
+			"version": 824,
+			"versionNonce": 1448432,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11482,11 +11482,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 208443152,
-			"version": 821,
-			"versionNonce": 1352381936,
+			"version": 836,
+			"versionNonce": 1197784336,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12108,11 +12108,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1429948688,
-			"version": 838,
-			"versionNonce": 1620500752,
+			"version": 853,
+			"versionNonce": 1545427952,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12819,11 +12819,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 330578192,
-			"version": 714,
-			"versionNonce": 1099921392,
+			"version": 729,
+			"versionNonce": 65706768,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12905,11 +12905,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1886986512,
-			"version": 714,
-			"versionNonce": 2067283728,
+			"version": 729,
+			"versionNonce": 2045533680,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12991,11 +12991,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 572655888,
-			"version": 708,
-			"versionNonce": 582679024,
+			"version": 723,
+			"versionNonce": 805615888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889394,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13047,11 +13047,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2011954448,
-			"version": 719,
-			"versionNonce": 905829648,
+			"version": 734,
+			"versionNonce": 1250631664,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13163,11 +13163,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 753515280,
-			"version": 764,
-			"versionNonce": 388381680,
+			"version": 779,
+			"versionNonce": 1328224016,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13504,11 +13504,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 706854672,
-			"version": 717,
-			"versionNonce": 39828240,
+			"version": 732,
+			"versionNonce": 1577165296,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13610,11 +13610,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 484972528,
-			"version": 726,
-			"versionNonce": 551108080,
+			"version": 741,
+			"versionNonce": 903197968,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13761,11 +13761,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 177996784,
-			"version": 725,
-			"versionNonce": 1658181904,
+			"version": 740,
+			"versionNonce": 56091632,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13912,11 +13912,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1063309584,
-			"version": 755,
-			"versionNonce": 1088159728,
+			"version": 770,
+			"versionNonce": 1769771792,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14218,11 +14218,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1877558032,
-			"version": 797,
-			"versionNonce": 1255683856,
+			"version": 812,
+			"versionNonce": 1754654192,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -14734,11 +14734,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 922061808,
-			"version": 755,
-			"versionNonce": 389448176,
+			"version": 770,
+			"versionNonce": 9941264,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15050,11 +15050,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 657213424,
-			"version": 724,
-			"versionNonce": 2128532752,
+			"version": 739,
+			"versionNonce": 985901040,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15216,11 +15216,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 216120080,
-			"version": 717,
-			"versionNonce": 49333232,
+			"version": 732,
+			"versionNonce": 43978512,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15367,11 +15367,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 983935248,
-			"version": 717,
-			"versionNonce": 1952559888,
+			"version": 732,
+			"versionNonce": 1172908528,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15518,11 +15518,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2098321168,
-			"version": 705,
-			"versionNonce": 1108526576,
+			"version": 720,
+			"versionNonce": 1208659216,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15614,11 +15614,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 947886864,
-			"version": 742,
-			"versionNonce": 836292880,
+			"version": 757,
+			"versionNonce": 353266672,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -15900,11 +15900,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1126249232,
-			"version": 706,
-			"versionNonce": 295995376,
+			"version": 721,
+			"versionNonce": 1515358992,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16011,11 +16011,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 147919632,
-			"version": 703,
-			"versionNonce": 784084752,
+			"version": 718,
+			"versionNonce": 305884656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16107,11 +16107,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 367561200,
-			"version": 753,
-			"versionNonce": 1303251440,
+			"version": 768,
+			"versionNonce": 1408149776,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16463,11 +16463,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1529129744,
-			"version": 714,
-			"versionNonce": 864275728,
+			"version": 729,
+			"versionNonce": 645410800,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16624,11 +16624,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 950335248,
-			"version": 725,
-			"versionNonce": 288836592,
+			"version": 740,
+			"versionNonce": 1079445264,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -16840,11 +16840,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1797976560,
-			"version": 831,
-			"versionNonce": 967289616,
+			"version": 846,
+			"versionNonce": 1506587120,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -17601,11 +17601,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 794546672,
-			"version": 822,
-			"versionNonce": 1447579120,
+			"version": 837,
+			"versionNonce": 2080613648,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18342,11 +18342,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 498183664,
-			"version": 708,
-			"versionNonce": 1268762896,
+			"version": 723,
+			"versionNonce": 1933636592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18513,11 +18513,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1357407728,
-			"version": 768,
-			"versionNonce": 367595504,
+			"version": 783,
+			"versionNonce": 342655760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -18984,11 +18984,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1694345712,
-			"version": 698,
-			"versionNonce": 1692673808,
+			"version": 713,
+			"versionNonce": 417134064,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19110,11 +19110,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 514295792,
-			"version": 690,
-			"versionNonce": 1747030512,
+			"version": 705,
+			"versionNonce": 671719696,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19211,11 +19211,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1521869808,
-			"version": 689,
-			"versionNonce": 1374471440,
+			"version": 704,
+			"versionNonce": 1873328112,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19307,11 +19307,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 488144368,
-			"version": 698,
-			"versionNonce": 603575280,
+			"version": 713,
+			"versionNonce": 1179844368,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19448,11 +19448,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1353935344,
-			"version": 722,
-			"versionNonce": 271688464,
+			"version": 737,
+			"versionNonce": 1001142768,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -19704,11 +19704,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 773656848,
-			"version": 760,
-			"versionNonce": 2138691056,
+			"version": 775,
+			"versionNonce": 1338023184,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20155,11 +20155,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2008772080,
-			"version": 703,
-			"versionNonce": 774553872,
+			"version": 718,
+			"versionNonce": 2146401264,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995856,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20326,11 +20326,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 460146960,
-			"version": 546,
-			"versionNonce": 799643632,
+			"version": 561,
+			"versionNonce": 1439333136,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -20892,11 +20892,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1739477776,
-			"version": 723,
-			"versionNonce": 726671120,
+			"version": 738,
+			"versionNonce": 511344112,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22343,11 +22343,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 733022480,
-			"version": 457,
-			"versionNonce": 143727088,
+			"version": 472,
+			"versionNonce": 2062063888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22474,11 +22474,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1163106800,
-			"version": 455,
-			"versionNonce": 1478081808,
+			"version": 470,
+			"versionNonce": 2018852848,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22615,11 +22615,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1894467568,
-			"version": 449,
-			"versionNonce": 490232816,
+			"version": 464,
+			"versionNonce": 1385363216,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22726,11 +22726,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 374532592,
-			"version": 446,
-			"versionNonce": 905943824,
+			"version": 461,
+			"versionNonce": 227000816,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22827,11 +22827,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 627951088,
-			"version": 444,
-			"versionNonce": 1604804080,
+			"version": 459,
+			"versionNonce": 1094817040,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -22918,11 +22918,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1921146352,
-			"version": 473,
-			"versionNonce": 1467595024,
+			"version": 488,
+			"versionNonce": 488244208,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23154,11 +23154,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 962752496,
-			"version": 441,
-			"versionNonce": 1088823280,
+			"version": 456,
+			"versionNonce": 1550611216,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23230,11 +23230,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1391067632,
-			"version": 461,
-			"versionNonce": 1073747728,
+			"version": 476,
+			"versionNonce": 1158940144,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -23406,11 +23406,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 336460784,
-			"version": 491,
-			"versionNonce": 1358733808,
+			"version": 506,
+			"versionNonce": 1250660624,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"text": "Connected Madd",
@@ -23427,8 +23427,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "p_X7YhZSpu1cjijvTArtZ",
 			"type": "freedraw",
-			"x": -673.0950786077493,
-			"y": 450.6393072660485,
+			"x": -804.482788034001,
+			"y": 439.7600425260181,
 			"width": 44.78863164942766,
 			"height": 16.795741722375112,
 			"angle": 0,
@@ -23443,11 +23443,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1365829904,
-			"version": 362,
-			"versionNonce": 1141552400,
+			"version": 414,
+			"versionNonce": 578668528,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24098,8 +24098,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "0RkfchlT1DNi2VrlkDSpr",
 			"type": "freedraw",
-			"x": -704.1417521122803,
-			"y": 426.2091163076567,
+			"x": -835.529461538532,
+			"y": 415.3298515676263,
 			"width": 10.68819398277708,
 			"height": 6.616501961498216,
 			"angle": 0,
@@ -24114,11 +24114,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 434111760,
-			"version": 263,
-			"versionNonce": 1592976368,
+			"version": 315,
+			"versionNonce": 588705552,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24279,8 +24279,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "GsUHITqAdPYvZ1GqbrGNZ",
 			"type": "freedraw",
-			"x": -675.1309343260683,
-			"y": 432.3166640472547,
+			"x": -806.51864375232,
+			"y": 421.43739930722427,
 			"width": 11.197148204677433,
 			"height": 7.125456183398455,
 			"angle": 0,
@@ -24295,11 +24295,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2803984,
-			"version": 248,
-			"versionNonce": 1762759440,
+			"version": 300,
+			"versionNonce": 1902070256,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24385,8 +24385,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "QNTJu85ULskBAkj30wZan",
 			"type": "freedraw",
-			"x": -750.7117817844357,
-			"y": 450.92558673510774,
+			"x": -882.0994912106875,
+			"y": 440.04632199507734,
 			"width": 18.322623803434794,
 			"height": 11.706141257295712,
 			"angle": 0,
@@ -24401,11 +24401,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1660514800,
-			"version": 297,
-			"versionNonce": 416343536,
+			"version": 349,
+			"versionNonce": 1317440784,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -24766,8 +24766,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "9HWy7Is-c8b6V1ozXb5rK",
 			"type": "freedraw",
-			"x": -754.7834932210737,
-			"y": 451.94351459426724,
+			"x": -886.1712026473255,
+			"y": 441.06424985423683,
 			"width": 84.996636471035,
 			"height": 33.59150286010919,
 			"angle": 0,
@@ -24782,11 +24782,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2026880496,
-			"version": 595,
-			"versionNonce": 1166848272,
+			"version": 647,
+			"versionNonce": 750816240,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26637,8 +26637,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "rtZHcNsSapPjA8QG7-cVM",
 			"type": "freedraw",
-			"x": -736.9698236395392,
-			"y": 433.11191715357313,
+			"x": -868.3575330657909,
+			"y": 422.2326524135427,
 			"width": 15.777813863215556,
 			"height": 7.634429820657715,
 			"angle": 0,
@@ -26653,11 +26653,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1930730992,
-			"version": 278,
-			"versionNonce": 731817968,
+			"version": 330,
+			"versionNonce": 1716677392,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -26923,8 +26923,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "hiltPPsmDfbJtmu-TlnnD",
 			"type": "freedraw",
-			"x": -766.4895956476513,
-			"y": 431.5850350725134,
+			"x": -897.877305073903,
+			"y": 420.705770332483,
 			"width": 2.0358557183189987,
 			"height": 2.5448099402192383,
 			"angle": 0,
@@ -26939,11 +26939,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 777263088,
-			"version": 254,
-			"versionNonce": 1626607376,
+			"version": 306,
+			"versionNonce": 782863856,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27089,8 +27089,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "z9sA-AV4rhZOoehYBTxSy",
 			"type": "freedraw",
-			"x": -783.2853567853855,
-			"y": 433.6208907908324,
+			"x": -914.6730662116372,
+			"y": 422.741626050802,
 			"width": 2.0358557183189987,
 			"height": 2.5448099402192383,
 			"angle": 0,
@@ -27105,11 +27105,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 594006000,
-			"version": 250,
-			"versionNonce": 1667508720,
+			"version": 302,
+			"versionNonce": 351439120,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27235,8 +27235,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "X4k4G69PpzPwBVYfJeqf-",
 			"type": "freedraw",
-			"x": -787.8660224439237,
-			"y": 427.00436941397516,
+			"x": -919.2537318701754,
+			"y": 416.12510467394475,
 			"width": 6.616521376857236,
 			"height": 7.125475598757475,
 			"angle": 0,
@@ -27251,11 +27251,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 904855536,
-			"version": 239,
-			"versionNonce": 331328784,
+			"version": 291,
+			"versionNonce": 1344425968,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27331,8 +27331,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "ITPVeqwAfqesb9GddYjby",
 			"type": "freedraw",
-			"x": -766.4895956476513,
-			"y": 410.2086276916001,
+			"x": -897.877305073903,
+			"y": 399.3293629515697,
 			"width": 7.634429820657601,
 			"height": 8.143403457916918,
 			"angle": 0,
@@ -27347,11 +27347,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1521349904,
-			"version": 270,
-			"versionNonce": 1261005808,
+			"version": 322,
+			"versionNonce": 1977542416,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27587,8 +27587,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "s1r7rML3kGPadtOmOaZhq",
 			"type": "freedraw",
-			"x": -808.7334561875778,
-			"y": 471.7930398941208,
+			"x": -940.1211656138295,
+			"y": 460.9137751540904,
 			"width": 10.17923976087684,
 			"height": 7.1254755987574185,
 			"angle": 0,
@@ -27603,11 +27603,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1574476048,
-			"version": 239,
-			"versionNonce": 1734839056,
+			"version": 291,
+			"versionNonce": 154325488,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27693,8 +27693,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		{
 			"id": "D6Je1JwF",
 			"type": "text",
-			"x": -849.4504152310855,
-			"y": 483.4991423206984,
+			"x": -980.8381246573372,
+			"y": 472.619877580668,
 			"width": 186.65985107421875,
 			"height": 25,
 			"angle": 0,
@@ -27709,11 +27709,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 484072208,
-			"version": 295,
-			"versionNonce": 1291218416,
+			"version": 347,
+			"versionNonce": 1972339984,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"text": "Disconnected Madd",
@@ -27746,11 +27746,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 10570000,
-			"version": 170,
-			"versionNonce": 1986242832,
+			"version": 185,
+			"versionNonce": 283317232,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28042,11 +28042,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1986044688,
-			"version": 148,
-			"versionNonce": 1372794864,
+			"version": 163,
+			"versionNonce": 830235408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28238,11 +28238,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1516339472,
-			"version": 127,
-			"versionNonce": 1277953808,
+			"version": 142,
+			"versionNonce": 2101024240,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28329,11 +28329,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 511338768,
-			"version": 124,
-			"versionNonce": 1640477168,
+			"version": 139,
+			"versionNonce": 1478328592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28405,11 +28405,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 375475472,
-			"version": 145,
-			"versionNonce": 1161340176,
+			"version": 160,
+			"versionNonce": 1665325040,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28591,11 +28591,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2037585168,
-			"version": 140,
-			"versionNonce": 1138488304,
+			"version": 155,
+			"versionNonce": 149610256,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28757,11 +28757,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1726234384,
-			"version": 148,
-			"versionNonce": 1862370064,
+			"version": 163,
+			"versionNonce": 1996642800,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -28963,11 +28963,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1669962000,
-			"version": 125,
-			"versionNonce": 504886768,
+			"version": 140,
+			"versionNonce": 878476560,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889395,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29054,11 +29054,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2000584976,
-			"version": 122,
-			"versionNonce": 1744740624,
+			"version": 137,
+			"versionNonce": 729914352,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29130,11 +29130,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 701484816,
-			"version": 148,
-			"versionNonce": 360953840,
+			"version": 163,
+			"versionNonce": 2078956304,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29336,11 +29336,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1931421968,
-			"version": 175,
-			"versionNonce": 1067974416,
+			"version": 190,
+			"versionNonce": 1388879344,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29677,11 +29677,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 550153488,
-			"version": 157,
-			"versionNonce": 1848064496,
+			"version": 172,
+			"versionNonce": 302807312,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -29928,11 +29928,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1167676688,
-			"version": 126,
-			"versionNonce": 1450548496,
+			"version": 141,
+			"versionNonce": 1038049264,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30024,11 +30024,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1168775952,
-			"version": 122,
-			"versionNonce": 722107376,
+			"version": 137,
+			"versionNonce": 440063760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30100,11 +30100,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1245587728,
-			"version": 146,
-			"versionNonce": 1038056208,
+			"version": 161,
+			"versionNonce": 1556996592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -30278,715 +30278,6 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			]
 		},
 		{
-			"id": "R0YM31c4P3nOeAqnUPwZy",
-			"type": "freedraw",
-			"x": -742.656790339119,
-			"y": 335.87095805469284,
-			"width": 34.3519183243734,
-			"height": 32.59027545635945,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1163985680,
-			"version": 81,
-			"versionNonce": 775257584,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696169889396,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.7616092674709307,
-					0
-				],
-				[
-					-2.6424139012065098,
-					0
-				],
-				[
-					-3.5232857360281287,
-					0
-				],
-				[
-					-5.284895003499059,
-					0
-				],
-				[
-					-7.927376105791609,
-					0.8808046337355222
-				],
-				[
-					-9.688985373262767,
-					1.7616428680140643
-				],
-				[
-					-12.331466475555317,
-					2.6424475017495865
-				],
-				[
-					-14.973880376761826,
-					4.404090369763651
-				],
-				[
-					-18.497166112789955,
-					6.165733237777715
-				],
-				[
-					-21.139647215082505,
-					7.927376105791723
-				],
-				[
-					-25.543737584846212,
-					11.450628241276831
-				],
-				[
-					-27.305346852317257,
-					13.212271109290896
-				],
-				[
-					-29.0669561197883,
-					15.854718611040482
-				],
-				[
-					-30.828632588345386,
-					19.37800434706861
-				],
-				[
-					-31.70943722208085,
-					22.02045184881814
-				],
-				[
-					-32.59024185581643,
-					24.662899350567727
-				],
-				[
-					-33.47104648955201,
-					27.305346852317314
-				],
-				[
-					-33.47104648955201,
-					29.066989720331378
-				],
-				[
-					-34.3519183243734,
-					30.828632588345442
-				],
-				[
-					-34.3519183243734,
-					31.709437222080965
-				],
-				[
-					-34.3519183243734,
-					32.59027545635945
-				],
-				[
-					-34.3519183243734,
-					32.59027545635945
-				]
-			],
-			"pressures": [
-				0.1005859375,
-				0.3798828125,
-				0.4345703125,
-				0.4912109375,
-				0.521484375,
-				0.537109375,
-				0.5390625,
-				0.55078125,
-				0.556640625,
-				0.568359375,
-				0.568359375,
-				0.572265625,
-				0.5732421875,
-				0.57421875,
-				0.5732421875,
-				0.5732421875,
-				0.5771484375,
-				0.5771484375,
-				0.5751953125,
-				0.5751953125,
-				0.57421875,
-				0.5693359375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-34.3519183243734,
-				32.59027545635945
-			]
-		},
-		{
-			"id": "f_kwboqrHfeud_Kwrk4Gd",
-			"type": "freedraw",
-			"x": -786.6976940367553,
-			"y": 369.34203814478786,
-			"width": 17.61636147905449,
-			"height": 15.854718611040482,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1594938128,
-			"version": 83,
-			"versionNonce": 408787216,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696169889396,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					0.8808382342784853
-				],
-				[
-					0,
-					1.7616428680140075
-				],
-				[
-					1.7616764685570843,
-					3.523285736028072
-				],
-				[
-					2.6424811022926633,
-					5.284928604042136
-				],
-				[
-					3.5232857360281287,
-					6.165733237777658
-				],
-				[
-					4.404090369763594,
-					7.927376105791723
-				],
-				[
-					4.404090369763594,
-					9.689018973805787
-				],
-				[
-					5.284895003499173,
-					11.450628241276831
-				],
-				[
-					6.165766838320678,
-					13.212271109290896
-				],
-				[
-					7.046571472056144,
-					14.093109343569381
-				],
-				[
-					7.927376105791723,
-					14.973913977304903
-				],
-				[
-					8.808180739527302,
-					15.854718611040482
-				],
-				[
-					9.68898537326288,
-					15.854718611040482
-				],
-				[
-					10.569857208084272,
-					15.854718611040482
-				],
-				[
-					11.450661841819851,
-					14.973913977304903
-				],
-				[
-					12.33146647555543,
-					12.331466475555317
-				],
-				[
-					14.093075743026475,
-					10.56982360754131
-				],
-				[
-					14.97394757784798,
-					8.808180739527245
-				],
-				[
-					15.854752211583559,
-					7.046537871513181
-				],
-				[
-					16.735556845319024,
-					6.165733237777658
-				],
-				[
-					17.61636147905449,
-					5.284928604042136
-				],
-				[
-					17.61636147905449,
-					4.404090369763594
-				],
-				[
-					17.61636147905449,
-					5.284928604042136
-				],
-				[
-					17.61636147905449,
-					5.284928604042136
-				]
-			],
-			"pressures": [
-				0.1669921875,
-				0.57421875,
-				0.580078125,
-				0.5859375,
-				0.5859375,
-				0.5908203125,
-				0.5908203125,
-				0.5908203125,
-				0.5908203125,
-				0.5908203125,
-				0.591796875,
-				0.58984375,
-				0.5908203125,
-				0.58984375,
-				0.583984375,
-				0.5927734375,
-				0.6015625,
-				0.603515625,
-				0.6103515625,
-				0.6103515625,
-				0.6123046875,
-				0.6123046875,
-				0.6220703125,
-				0.453125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.61636147905449,
-				5.284928604042136
-			]
-		},
-		{
-			"id": "A5ixopRwjvg9o73Y2PDke",
-			"type": "freedraw",
-			"x": -410.5883361382896,
-			"y": 338.5134055564424,
-			"width": 39.63681332787269,
-			"height": 33.47108009009497,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 766451472,
-			"version": 92,
-			"versionNonce": 1487945712,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696169889396,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.8808718348215052,
-					0
-				],
-				[
-					0,
-					0
-				],
-				[
-					0.880804633735579,
-					-0.8808046337355222
-				],
-				[
-					2.6424139012066234,
-					-0.8808046337355222
-				],
-				[
-					4.404090369763708,
-					-0.8808046337355222
-				],
-				[
-					7.0465042709702175,
-					-0.8808046337355222
-				],
-				[
-					8.808180739527302,
-					-0.8808046337355222
-				],
-				[
-					10.569790006998346,
-					-0.8808046337355222
-				],
-				[
-					13.212271109290896,
-					-0.8808046337355222
-				],
-				[
-					15.85468501049752,
-					0
-				],
-				[
-					17.616361479054603,
-					0.8808382342785421
-				],
-				[
-					19.377970746525648,
-					1.7616428680140643
-				],
-				[
-					22.020451848818198,
-					2.6424475017495865
-				],
-				[
-					23.782061116289242,
-					3.5232857360281287
-				],
-				[
-					25.543670383760286,
-					4.404090369763651
-				],
-				[
-					27.30534685231737,
-					5.284928604042136
-				],
-				[
-					28.186151486052836,
-					7.046537871513237
-				],
-				[
-					29.947760753523994,
-					7.927376105791723
-				],
-				[
-					30.8286325883455,
-					10.56982360754131
-				],
-				[
-					31.709437222080965,
-					12.331466475555374
-				],
-				[
-					33.47104648955201,
-					14.093109343569438
-				],
-				[
-					34.35185112328759,
-					16.735556845319024
-				],
-				[
-					36.11352759184456,
-					19.378004347068554
-				],
-				[
-					36.11352759184456,
-					21.13964721508262
-				],
-				[
-					36.99433222558014,
-					22.901290083096683
-				],
-				[
-					36.99433222558014,
-					25.54373758484627
-				],
-				[
-					36.99433222558014,
-					28.186185086595856
-				],
-				[
-					36.99433222558014,
-					30.828632588345442
-				],
-				[
-					36.99433222558014,
-					32.59027545635945
-				],
-				[
-					37.87513685931572,
-					32.59027545635945
-				],
-				[
-					38.75594149305118,
-					30.828632588345442
-				],
-				[
-					38.75594149305118,
-					29.947827954609863
-				],
-				[
-					38.75594149305118,
-					29.947827954609863
-				]
-			],
-			"pressures": [
-				0.1826171875,
-				0.4853515625,
-				0.5126953125,
-				0.513671875,
-				0.5224609375,
-				0.5322265625,
-				0.5576171875,
-				0.564453125,
-				0.57421875,
-				0.5859375,
-				0.591796875,
-				0.6015625,
-				0.607421875,
-				0.6103515625,
-				0.6181640625,
-				0.6220703125,
-				0.6279296875,
-				0.630859375,
-				0.6318359375,
-				0.642578125,
-				0.646484375,
-				0.65234375,
-				0.65625,
-				0.6611328125,
-				0.6630859375,
-				0.6630859375,
-				0.6669921875,
-				0.6669921875,
-				0.66796875,
-				0.6669921875,
-				0.65234375,
-				0.455078125,
-				0.1025390625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				38.75594149305118,
-				29.947827954609863
-			]
-		},
-		{
-			"id": "YnsiqggdV5VQ7bjNoVvEB",
-			"type": "freedraw",
-			"x": -385.0446657545293,
-			"y": 373.74612851455146,
-			"width": 28.186218687138876,
-			"height": 18.49716611279007,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1950382352,
-			"version": 89,
-			"versionNonce": 2036856592,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1696169889396,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.8808718348215052,
-					0
-				],
-				[
-					2.6424811022925496,
-					1.7616428680140643
-				],
-				[
-					4.404090369763708,
-					3.5232857360281287
-				],
-				[
-					5.284962204585213,
-					4.404090369763651
-				],
-				[
-					6.165766838320678,
-					6.165733237777715
-				],
-				[
-					7.927376105791723,
-					7.927376105791723
-				],
-				[
-					8.808180739527302,
-					9.689018973805787
-				],
-				[
-					9.689052574348807,
-					10.56982360754131
-				],
-				[
-					10.569857208084272,
-					11.450628241276888
-				],
-				[
-					11.450661841819851,
-					12.331466475555374
-				],
-				[
-					12.33146647555543,
-					13.212271109290896
-				],
-				[
-					12.33146647555543,
-					14.093109343569438
-				],
-				[
-					13.212271109290896,
-					14.093109343569438
-				],
-				[
-					13.212271109290896,
-					14.97391397730496
-				],
-				[
-					14.093142944112401,
-					14.97391397730496
-				],
-				[
-					14.093142944112401,
-					15.854718611040482
-				],
-				[
-					14.97394757784798,
-					15.854718611040482
-				],
-				[
-					15.854752211583445,
-					14.97391397730496
-				],
-				[
-					17.616361479054603,
-					13.212271109290896
-				],
-				[
-					18.49723331387611,
-					11.450628241276888
-				],
-				[
-					20.258842581347153,
-					8.808180739527302
-				],
-				[
-					22.020451848818198,
-					6.165733237777715
-				],
-				[
-					23.782128317375168,
-					3.5232857360281287
-				],
-				[
-					24.662932951110747,
-					1.7616428680140643
-				],
-				[
-					25.543737584846326,
-					0.8808382342785421
-				],
-				[
-					26.42454221858179,
-					-0.8808046337355222
-				],
-				[
-					27.305414053403297,
-					-1.7616428680140075
-				],
-				[
-					27.305414053403297,
-					-2.6424475017495865
-				],
-				[
-					28.186218687138876,
-					-2.6424475017495865
-				],
-				[
-					28.186218687138876,
-					-2.6424475017495865
-				]
-			],
-			"pressures": [
-				0.1904296875,
-				0.4404296875,
-				0.5205078125,
-				0.5400390625,
-				0.552734375,
-				0.5634765625,
-				0.5693359375,
-				0.5751953125,
-				0.5771484375,
-				0.580078125,
-				0.5810546875,
-				0.5791015625,
-				0.5830078125,
-				0.5830078125,
-				0.58203125,
-				0.5810546875,
-				0.580078125,
-				0.580078125,
-				0.5849609375,
-				0.58984375,
-				0.591796875,
-				0.5927734375,
-				0.5927734375,
-				0.59765625,
-				0.6025390625,
-				0.603515625,
-				0.6064453125,
-				0.6064453125,
-				0.609375,
-				0.6083984375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28.186218687138876,
-				-2.6424475017495865
-			]
-		},
-		{
 			"id": "YCdG80ZB",
 			"type": "text",
 			"x": -555.3011531418726,
@@ -31005,11 +30296,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 927480080,
-			"version": 270,
-			"versionNonce": 713212400,
+			"version": 285,
+			"versionNonce": 1086288144,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"text": "When the Madd is in the middle of the word (beginning or end doesn't count), \nyou must extend for 5 Harakat (or 2.5 second)",
@@ -31042,11 +30333,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1920082416,
-			"version": 220,
-			"versionNonce": 1165399312,
+			"version": 235,
+			"versionNonce": 1106765808,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31323,11 +30614,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 271918864,
-			"version": 192,
-			"versionNonce": 1656030192,
+			"version": 207,
+			"versionNonce": 1741606672,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31469,11 +30760,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1456380176,
-			"version": 221,
-			"versionNonce": 302084880,
+			"version": 236,
+			"versionNonce": 1553295856,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31760,11 +31051,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1187852560,
-			"version": 199,
-			"versionNonce": 525272560,
+			"version": 214,
+			"versionNonce": 1900178704,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -31891,11 +31182,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1614491120,
-			"version": 193,
-			"versionNonce": 92311824,
+			"version": 208,
+			"versionNonce": 204647408,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32047,11 +31338,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2057773040,
-			"version": 181,
-			"versionNonce": 2102970352,
+			"version": 196,
+			"versionNonce": 110250768,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32143,11 +31434,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2118662640,
-			"version": 179,
-			"versionNonce": 929820432,
+			"version": 194,
+			"versionNonce": 450342384,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32229,11 +31520,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1816023024,
-			"version": 241,
-			"versionNonce": 953829872,
+			"version": 256,
+			"versionNonce": 1647733008,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32460,11 +31751,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1615831024,
-			"version": 195,
-			"versionNonce": 272338192,
+			"version": 210,
+			"versionNonce": 1368158192,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32626,11 +31917,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1305449968,
-			"version": 194,
-			"versionNonce": 1289456624,
+			"version": 209,
+			"versionNonce": 799459088,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32787,11 +32078,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1199573488,
-			"version": 196,
-			"versionNonce": 694643472,
+			"version": 211,
+			"versionNonce": 408482288,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -32960,11 +32251,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 3
 			},
 			"seed": 1897049584,
-			"version": 200,
-			"versionNonce": 325357040,
+			"version": 215,
+			"versionNonce": 1801151760,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false
 		},
@@ -32989,11 +32280,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 3
 			},
 			"seed": 1389665552,
-			"version": 270,
-			"versionNonce": 761760016,
+			"version": 285,
+			"versionNonce": 373634032,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false
 		},
@@ -33016,11 +32307,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2134435824,
-			"version": 297,
-			"versionNonce": 1702711280,
+			"version": 312,
+			"versionNonce": 1120682768,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995857,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33207,11 +32498,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 560801776,
-			"version": 295,
-			"versionNonce": 934536976,
+			"version": 310,
+			"versionNonce": 1364801008,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33388,11 +32679,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1403364336,
-			"version": 300,
-			"versionNonce": 992858608,
+			"version": 315,
+			"versionNonce": 1953587472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33594,11 +32885,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1002121712,
-			"version": 321,
-			"versionNonce": 885294352,
+			"version": 336,
+			"versionNonce": 1318909936,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -33905,11 +33196,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1153473008,
-			"version": 292,
-			"versionNonce": 1266553840,
+			"version": 307,
+			"versionNonce": 801292048,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34066,11 +33357,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 526176240,
-			"version": 308,
-			"versionNonce": 1108435728,
+			"version": 323,
+			"versionNonce": 840464880,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34312,11 +33603,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1205396976,
-			"version": 295,
-			"versionNonce": 745936368,
+			"version": 310,
+			"versionNonce": 1966628112,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -34493,11 +33784,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1422975472,
-			"version": 384,
-			"versionNonce": 236093712,
+			"version": 399,
+			"versionNonce": 1590934512,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35119,11 +34410,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 332812272,
-			"version": 300,
-			"versionNonce": 1931335664,
+			"version": 315,
+			"versionNonce": 1984576272,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35325,11 +34616,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 896226800,
-			"version": 294,
-			"versionNonce": 943709968,
+			"version": 309,
+			"versionNonce": 383172080,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35501,11 +34792,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 134139888,
-			"version": 277,
-			"versionNonce": 1400723952,
+			"version": 292,
+			"versionNonce": 1970297104,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35592,11 +34883,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1590668784,
-			"version": 283,
-			"versionNonce": 823229712,
+			"version": 298,
+			"versionNonce": 455704560,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35728,11 +35019,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 179247088,
-			"version": 297,
-			"versionNonce": 1084005360,
+			"version": 312,
+			"versionNonce": 639809296,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -35934,11 +35225,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1218705680,
-			"version": 276,
-			"versionNonce": 436165392,
+			"version": 291,
+			"versionNonce": 1272185328,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36035,11 +35326,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 615505168,
-			"version": 274,
-			"versionNonce": 209952240,
+			"version": 289,
+			"versionNonce": 215569680,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36126,11 +35417,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 94291216,
-			"version": 378,
-			"versionNonce": 629242128,
+			"version": 393,
+			"versionNonce": 1205748720,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -36737,11 +36028,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 843679216,
-			"version": 446,
-			"versionNonce": 138043376,
+			"version": 461,
+			"versionNonce": 1594635024,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37753,11 +37044,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 945901552,
-			"version": 272,
-			"versionNonce": 1997526800,
+			"version": 287,
+			"versionNonce": 223364592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37894,11 +37185,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1844821488,
-			"version": 264,
-			"versionNonce": 600367600,
+			"version": 279,
+			"versionNonce": 1664307472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -37995,11 +37286,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1256512496,
-			"version": 269,
-			"versionNonce": 52589840,
+			"version": 284,
+			"versionNonce": 422709232,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38121,11 +37412,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1830913008,
-			"version": 269,
-			"versionNonce": 238494704,
+			"version": 284,
+			"versionNonce": 1355198224,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38247,11 +37538,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 494545904,
-			"version": 269,
-			"versionNonce": 1865503504,
+			"version": 284,
+			"versionNonce": 126585328,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38378,11 +37669,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1593573648,
-			"version": 286,
-			"versionNonce": 1435313648,
+			"version": 301,
+			"versionNonce": 809389328,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38599,11 +37890,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 553891088,
-			"version": 262,
-			"versionNonce": 1907650832,
+			"version": 277,
+			"versionNonce": 862243824,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38700,11 +37991,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 750592496,
-			"version": 288,
-			"versionNonce": 114485232,
+			"version": 303,
+			"versionNonce": 991046416,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -38936,11 +38227,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2054284784,
-			"version": 247,
-			"versionNonce": 841207568,
+			"version": 262,
+			"versionNonce": 1455803888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39242,11 +38533,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 530948080,
-			"version": 282,
-			"versionNonce": 1309698544,
+			"version": 297,
+			"versionNonce": 1002064144,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"text": "When the Madd is at the end of the word\nthen you can optionally extend for 5harakat\n(if you opt for not extending for 5 harakat\nthen you still have to extend for 2 harakat)",
@@ -39262,8 +38553,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 257,
-			"versionNonce": 687303952,
+			"version": 272,
+			"versionNonce": 716607472,
 			"isDeleted": false,
 			"id": "Zw5viuh6U_xpFKoNWyk1Q",
 			"fillStyle": "hachure",
@@ -39283,7 +38574,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39540,8 +38831,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 229,
-			"versionNonce": 374189040,
+			"version": 244,
+			"versionNonce": 1840162576,
 			"isDeleted": false,
 			"id": "0sj2bZVZb2x3XteFB5e78",
 			"fillStyle": "hachure",
@@ -39561,7 +38852,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39683,8 +38974,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 258,
-			"versionNonce": 2141670160,
+			"version": 273,
+			"versionNonce": 121573872,
 			"isDeleted": false,
 			"id": "V9o_IzWL3K7evhCJ5Zywp",
 			"fillStyle": "hachure",
@@ -39704,7 +38995,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -39971,8 +39262,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 236,
-			"versionNonce": 697478640,
+			"version": 251,
+			"versionNonce": 1567048976,
 			"isDeleted": false,
 			"id": "iYpBVOZQEL3a-tCBFT6l8",
 			"fillStyle": "hachure",
@@ -39992,7 +39283,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40099,8 +39390,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 230,
-			"versionNonce": 1890281744,
+			"version": 245,
+			"versionNonce": 57103344,
 			"isDeleted": false,
 			"id": "MWuCLJQXY6BAYlrdw2dAU",
 			"fillStyle": "hachure",
@@ -40120,7 +39411,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40252,8 +39543,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 218,
-			"versionNonce": 1357344752,
+			"version": 233,
+			"versionNonce": 1213997840,
 			"isDeleted": false,
 			"id": "LzsqkJewClOiporMMMCwH",
 			"fillStyle": "hachure",
@@ -40273,7 +39564,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40345,8 +39636,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 216,
-			"versionNonce": 662423312,
+			"version": 231,
+			"versionNonce": 355948016,
 			"isDeleted": false,
 			"id": "Ptyg5qXAAgwrnfykclXGf",
 			"fillStyle": "hachure",
@@ -40366,7 +39657,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40428,8 +39719,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 278,
-			"versionNonce": 1951658480,
+			"version": 293,
+			"versionNonce": 2097496336,
 			"isDeleted": false,
 			"id": "EDsAX3X-UBoBSHfAxcKXJ",
 			"fillStyle": "hachure",
@@ -40449,7 +39740,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889396,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40656,8 +39947,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 232,
-			"versionNonce": 546333968,
+			"version": 247,
+			"versionNonce": 834082800,
 			"isDeleted": false,
 			"id": "Pa1jeeMztz0sFqLkwC_Ev",
 			"fillStyle": "hachure",
@@ -40677,7 +39968,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40819,8 +40110,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 231,
-			"versionNonce": 987771888,
+			"version": 246,
+			"versionNonce": 987406096,
 			"isDeleted": false,
 			"id": "h2fw6iNNKaA9xppXyWmTh",
 			"fillStyle": "hachure",
@@ -40840,7 +40131,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -40977,8 +40268,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "freedraw",
-			"version": 233,
-			"versionNonce": 157369104,
+			"version": 248,
+			"versionNonce": 1827576304,
 			"isDeleted": false,
 			"id": "YNAsEmE2roNgaMBGxia2Y",
 			"fillStyle": "hachure",
@@ -40998,7 +40289,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41145,8 +40436,8 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		},
 		{
 			"type": "rectangle",
-			"version": 237,
-			"versionNonce": 714356208,
+			"version": 252,
+			"versionNonce": 307510544,
 			"isDeleted": false,
 			"id": "QJ8u3jKY_Owsy02Ve40NO",
 			"fillStyle": "hachure",
@@ -41168,7 +40459,7 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false
 		},
@@ -41191,11 +40482,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2041485296,
-			"version": 102,
-			"versionNonce": 949189104,
+			"version": 117,
+			"versionNonce": 622082320,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41697,11 +40988,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2083245840,
-			"version": 19,
-			"versionNonce": 2056371696,
+			"version": 34,
+			"versionNonce": 1292186896,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41798,11 +41089,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1697665296,
-			"version": 20,
-			"versionNonce": 2128959760,
+			"version": 35,
+			"versionNonce": 1491100656,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -41904,11 +41195,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 147472368,
-			"version": 87,
-			"versionNonce": 955758352,
+			"version": 102,
+			"versionNonce": 2030986736,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42355,11 +41646,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1767204848,
-			"version": 43,
-			"versionNonce": 1020199408,
+			"version": 58,
+			"versionNonce": 837234960,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42586,11 +41877,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 537592304,
-			"version": 25,
-			"versionNonce": 10564368,
+			"version": 40,
+			"versionNonce": 1916905968,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42732,11 +42023,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1438101488,
-			"version": 25,
-			"versionNonce": 998983152,
+			"version": 40,
+			"versionNonce": 192556304,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42873,11 +42164,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2105023984,
-			"version": 17,
-			"versionNonce": 170414352,
+			"version": 32,
+			"versionNonce": 576121840,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -42979,11 +42270,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 443759600,
-			"version": 35,
-			"versionNonce": 1208813552,
+			"version": 50,
+			"versionNonce": 64097040,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43175,11 +42466,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1273134576,
-			"version": 58,
-			"versionNonce": 1360768784,
+			"version": 73,
+			"versionNonce": 1651764720,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43486,11 +42777,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 937160176,
-			"version": 21,
-			"versionNonce": 587631088,
+			"version": 36,
+			"versionNonce": 561916176,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43607,11 +42898,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 419680240,
-			"version": 35,
-			"versionNonce": 662686704,
+			"version": 50,
+			"versionNonce": 804685584,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43808,11 +43099,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1005114352,
-			"version": 19,
-			"versionNonce": 1780951824,
+			"version": 34,
+			"versionNonce": 1441083888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -43929,11 +43220,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 2142418928,
-			"version": 18,
-			"versionNonce": 260099568,
+			"version": 33,
+			"versionNonce": 1270031632,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44045,11 +43336,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 461612816,
-			"version": 46,
-			"versionNonce": 543746544,
+			"version": 61,
+			"versionNonce": 1221948912,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696169890946,
+			"updated": 1696169995859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44288,6 +43579,1684 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			]
 		},
 		{
+			"id": "Yothj_3GQaWJu3nzs3Pkl",
+			"type": "freedraw",
+			"x": -756.449192507412,
+			"y": 320.9954337447141,
+			"width": 93.51845545276444,
+			"height": 52.7284746907942,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 452530160,
+			"version": 44,
+			"versionNonce": 153108976,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9897995901994818,
+					-1.9897616386527943
+				],
+				[
+					-3.9795232773057023,
+					-2.9846234822059614
+				],
+				[
+					-5.969246964411923,
+					-2.9846234822059614
+				],
+				[
+					-8.953908398164572,
+					-2.9846234822059614
+				],
+				[
+					-11.938569831917107,
+					-2.9846234822059614
+				],
+				[
+					-16.912954952775976,
+					-2.9846234822059614
+				],
+				[
+					-20.892402326988417,
+					-2.9846234822059614
+				],
+				[
+					-23.877063760740953,
+					-2.9846234822059614
+				],
+				[
+					-26.8617251944936,
+					-2.9846234822059614
+				],
+				[
+					-29.846310725152875,
+					-2.9846234822059614
+				],
+				[
+					-34.820695846011745,
+					-1.9897616386527943
+				],
+				[
+					-37.80535727976428,
+					-0.9948618435530534
+				],
+				[
+					-40.78994281042367,
+					0
+				],
+				[
+					-43.77460424417632,
+					0.9948997950997409
+				],
+				[
+					-48.74898936503507,
+					3.9795232773057023
+				],
+				[
+					-51.73365079878772,
+					5.96928491595861
+				],
+				[
+					-54.718236329446995,
+					6.964146759511664
+				],
+				[
+					-57.702897763199644,
+					8.953908398164572
+				],
+				[
+					-60.68748329385892,
+					10.94367003681748
+				],
+				[
+					-63.67214472761157,
+					13.928293519023441
+				],
+				[
+					-65.66186841471779,
+					14.923155362576495
+				],
+				[
+					-67.65166800491727,
+					16.912917001229403
+				],
+				[
+					-69.64139169202349,
+					18.902678639882197
+				],
+				[
+					-71.63119128222297,
+					20.892440278535105
+				],
+				[
+					-73.62091496932919,
+					22.882163965641325
+				],
+				[
+					-74.61577681288225,
+					23.877063760741066
+				],
+				[
+					-76.60557640308184,
+					25.86682539939386
+				],
+				[
+					-78.59530009018806,
+					27.85654908650008
+				],
+				[
+					-81.5799615239406,
+					30.84121052025273
+				],
+				[
+					-83.56968521104682,
+					32.83093420735895
+				],
+				[
+					-84.56454705459998,
+					34.820695846011745
+				],
+				[
+					-86.55434664479947,
+					36.81045748466465
+				],
+				[
+					-88.54407033190557,
+					39.795080966870614
+				],
+				[
+					-90.5337940190119,
+					43.77460424417632
+				],
+				[
+					-92.52359360921139,
+					47.754089569935445
+				],
+				[
+					-93.51845545276444,
+					49.74385120858824
+				],
+				[
+					-93.51845545276444,
+					47.754089569935445
+				],
+				[
+					-93.51845545276444,
+					47.754089569935445
+				]
+			],
+			"pressures": [
+				0.125,
+				0.3623046875,
+				0.4345703125,
+				0.466796875,
+				0.48828125,
+				0.5126953125,
+				0.5361328125,
+				0.54296875,
+				0.5498046875,
+				0.556640625,
+				0.556640625,
+				0.5615234375,
+				0.5673828125,
+				0.5732421875,
+				0.5751953125,
+				0.591796875,
+				0.5966796875,
+				0.5966796875,
+				0.59765625,
+				0.595703125,
+				0.6005859375,
+				0.603515625,
+				0.607421875,
+				0.61328125,
+				0.61328125,
+				0.6142578125,
+				0.6142578125,
+				0.6181640625,
+				0.6181640625,
+				0.625,
+				0.630859375,
+				0.630859375,
+				0.6279296875,
+				0.62890625,
+				0.630859375,
+				0.630859375,
+				0.6064453125,
+				0.3388671875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-93.51845545276444,
+				47.754089569935445
+			]
+		},
+		{
+			"id": "k8oJjXCTJjwdjvV8Uxu-a",
+			"type": "freedraw",
+			"x": -861.9061418890003,
+			"y": 369.7444231097493,
+			"width": 20.892402326988304,
+			"height": 14.92315536257638,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1028284400,
+			"version": 33,
+			"versionNonce": 1232147728,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.9948618435530534
+				],
+				[
+					0,
+					1.9897616386527943
+				],
+				[
+					0,
+					3.979485325759015
+				],
+				[
+					0.9948618435530534,
+					5.969246964411923
+				],
+				[
+					0.9948618435530534,
+					7.959008603064717
+				],
+				[
+					0.9948618435530534,
+					8.953870446617884
+				],
+				[
+					0.9948618435530534,
+					10.943632085270679
+				],
+				[
+					0.9948618435530534,
+					12.933393723923587
+				],
+				[
+					0.9948618435530534,
+					13.92825556747664
+				],
+				[
+					0.9948618435530534,
+					14.92315536257638
+				],
+				[
+					1.9897236871061068,
+					14.92315536257638
+				],
+				[
+					2.984585530659274,
+					14.92315536257638
+				],
+				[
+					3.979447374212441,
+					14.92315536257638
+				],
+				[
+					4.974385120858756,
+					14.92315536257638
+				],
+				[
+					5.969246964411923,
+					14.92315536257638
+				],
+				[
+					7.95897065151803,
+					13.92825556747664
+				],
+				[
+					8.953832495071197,
+					13.92825556747664
+				],
+				[
+					10.943632085270792,
+					12.933393723923587
+				],
+				[
+					11.938493928823846,
+					11.93853188037042
+				],
+				[
+					13.928217615929952,
+					10.943632085270679
+				],
+				[
+					14.92315536257638,
+					9.948770241717625
+				],
+				[
+					16.912879049682715,
+					8.953870446617884
+				],
+				[
+					17.90774089323577,
+					8.953870446617884
+				],
+				[
+					18.902602736788822,
+					7.959008603064717
+				],
+				[
+					19.89754048343525,
+					6.964146759511664
+				],
+				[
+					20.892402326988304,
+					6.964146759511664
+				],
+				[
+					20.892402326988304,
+					6.964146759511664
+				]
+			],
+			"pressures": [
+				0.10546875,
+				0.44921875,
+				0.474609375,
+				0.501953125,
+				0.513671875,
+				0.5166015625,
+				0.5205078125,
+				0.5263671875,
+				0.525390625,
+				0.5302734375,
+				0.5341796875,
+				0.53515625,
+				0.5380859375,
+				0.546875,
+				0.5458984375,
+				0.5517578125,
+				0.560546875,
+				0.560546875,
+				0.5634765625,
+				0.5693359375,
+				0.5693359375,
+				0.572265625,
+				0.572265625,
+				0.5732421875,
+				0.5732421875,
+				0.576171875,
+				0.583984375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				20.892402326988304,
+				6.964146759511664
+			]
+		},
+		{
+			"id": "UOlK1jly5rXkhIngs8IF7",
+			"type": "freedraw",
+			"x": -380.07482384228706,
+			"y": 332.9339656250846,
+			"width": 154.20593874662342,
+			"height": 38.80021912331745,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1602565904,
+			"version": 72,
+			"versionNonce": 344753648,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9897236871062205,
+					0
+				],
+				[
+					-0.9948618435531102,
+					-0.9948618435530534
+				],
+				[
+					0,
+					-1.989761638652908
+				],
+				[
+					2.984661433752592,
+					-2.9846234822059614
+				],
+				[
+					4.974385120858813,
+					-3.9795232773057023
+				],
+				[
+					6.964184711058294,
+					-4.974385120858869
+				],
+				[
+					8.953908398164515,
+					-5.969246964411923
+				],
+				[
+					10.943707988363997,
+					-5.969246964411923
+				],
+				[
+					13.928293519023327,
+					-7.959008603064831
+				],
+				[
+					15.91809310922281,
+					-7.959008603064831
+				],
+				[
+					17.90781679632903,
+					-7.959008603064831
+				],
+				[
+					19.89754048343525,
+					-8.953908398164572
+				],
+				[
+					23.877063760740953,
+					-9.948770241717625
+				],
+				[
+					25.866863350940434,
+					-9.948770241717625
+				],
+				[
+					28.851448881599765,
+					-10.943632085270792
+				],
+				[
+					31.836110315352414,
+					-10.943632085270792
+				],
+				[
+					34.820695846011745,
+					-11.938531880370533
+				],
+				[
+					40.79001871351693,
+					-12.933393723923587
+				],
+				[
+					44.76946608772937,
+					-12.933393723923587
+				],
+				[
+					48.74898936503507,
+					-13.928293519023327
+				],
+				[
+					51.733650798787664,
+					-13.928293519023327
+				],
+				[
+					55.71317407609337,
+					-13.928293519023327
+				],
+				[
+					58.6977596067527,
+					-13.928293519023327
+				],
+				[
+					61.68242104050529,
+					-13.928293519023327
+				],
+				[
+					65.66194431781105,
+					-12.933393723923587
+				],
+				[
+					68.64652984847038,
+					-12.933393723923587
+				],
+				[
+					72.62605312577608,
+					-11.938531880370533
+				],
+				[
+					75.61071455952867,
+					-10.943632085270792
+				],
+				[
+					78.595300090188,
+					-10.943632085270792
+				],
+				[
+					80.58509968038749,
+					-9.948770241717625
+				],
+				[
+					83.56968521104682,
+					-8.953908398164572
+				],
+				[
+					87.54920848835252,
+					-8.953908398164572
+				],
+				[
+					89.53893217545874,
+					-7.959008603064831
+				],
+				[
+					92.52359360921133,
+					-6.964146759511664
+				],
+				[
+					94.51331729631755,
+					-5.969246964411923
+				],
+				[
+					98.49284057362325,
+					-4.974385120858869
+				],
+				[
+					100.4826401638228,
+					-3.9795232773057023
+				],
+				[
+					102.47236385092901,
+					-2.9846234822059614
+				],
+				[
+					105.4570252846816,
+					-1.989761638652908
+				],
+				[
+					107.44674897178783,
+					-0.9948618435530534
+				],
+				[
+					112.42113409264664,
+					0
+				],
+				[
+					116.40065736995234,
+					0
+				],
+				[
+					118.39038105705856,
+					0.9948618435531671
+				],
+				[
+					121.37504249081115,
+					1.989761638652908
+				],
+				[
+					124.35962802147048,
+					2.9846234822059614
+				],
+				[
+					126.34942761166997,
+					3.9795232773057023
+				],
+				[
+					128.3391512987762,
+					4.974385120858869
+				],
+				[
+					130.32895088897567,
+					5.969246964411923
+				],
+				[
+					132.3186745760819,
+					6.964146759511664
+				],
+				[
+					135.30333600983454,
+					8.953908398164572
+				],
+				[
+					137.29305969694076,
+					9.948770241717625
+				],
+				[
+					139.28278338404698,
+					10.943632085270792
+				],
+				[
+					141.27258297424646,
+					12.933393723923587
+				],
+				[
+					143.26230666135268,
+					13.928293519023327
+				],
+				[
+					143.26230666135268,
+					14.923155362576495
+				],
+				[
+					144.2571685049058,
+					15.918017206129548
+				],
+				[
+					145.25210625155216,
+					16.91291700122929
+				],
+				[
+					146.24696809510527,
+					16.91291700122929
+				],
+				[
+					147.24182993865838,
+					18.902678639882197
+				],
+				[
+					148.2366917822115,
+					18.902678639882197
+				],
+				[
+					148.2366917822115,
+					19.89754048343525
+				],
+				[
+					149.2315536257646,
+					20.892402326988417
+				],
+				[
+					150.22649137241098,
+					21.88730212208816
+				],
+				[
+					151.2213532159641,
+					22.88216396564121
+				],
+				[
+					152.2162150595172,
+					23.877063760740953
+				],
+				[
+					152.2162150595172,
+					24.87192560429412
+				],
+				[
+					152.2162150595172,
+					23.877063760740953
+				],
+				[
+					152.2162150595172,
+					23.877063760740953
+				]
+			],
+			"pressures": [
+				0.2578125,
+				0.5087890625,
+				0.537109375,
+				0.5576171875,
+				0.576171875,
+				0.5869140625,
+				0.595703125,
+				0.5986328125,
+				0.607421875,
+				0.6181640625,
+				0.6220703125,
+				0.6259765625,
+				0.626953125,
+				0.6337890625,
+				0.6337890625,
+				0.6396484375,
+				0.640625,
+				0.6474609375,
+				0.650390625,
+				0.650390625,
+				0.65625,
+				0.6552734375,
+				0.6572265625,
+				0.6572265625,
+				0.6611328125,
+				0.662109375,
+				0.6650390625,
+				0.6689453125,
+				0.6708984375,
+				0.6748046875,
+				0.6767578125,
+				0.6806640625,
+				0.685546875,
+				0.6953125,
+				0.7060546875,
+				0.7158203125,
+				0.7275390625,
+				0.7314453125,
+				0.732421875,
+				0.7392578125,
+				0.7470703125,
+				0.7548828125,
+				0.7587890625,
+				0.7587890625,
+				0.7607421875,
+				0.765625,
+				0.765625,
+				0.767578125,
+				0.76953125,
+				0.7744140625,
+				0.7744140625,
+				0.7763671875,
+				0.7763671875,
+				0.779296875,
+				0.779296875,
+				0.7802734375,
+				0.7822265625,
+				0.78125,
+				0.78125,
+				0.783203125,
+				0.78515625,
+				0.78515625,
+				0.78515625,
+				0.779296875,
+				0.78125,
+				0.78515625,
+				0.7841796875,
+				0.51171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				152.2162150595172,
+				23.877063760740953
+			]
+		},
+		{
+			"id": "2r-zdqv3zwAQkeLxS9x_7",
+			"type": "freedraw",
+			"x": -241.7869023017932,
+			"y": 366.7597996275433,
+			"width": 21.887340073634732,
+			"height": 23.877063760740953,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 259419920,
+			"version": 30,
+			"versionNonce": 1164739056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696169997040,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9948618435531102,
+					0
+				],
+				[
+					1.9897995901994818,
+					0
+				],
+				[
+					3.9795232773057023,
+					0.9948618435530534
+				],
+				[
+					6.964184711058294,
+					1.9897236871062205
+				],
+				[
+					7.959046554611405,
+					1.9897236871062205
+				],
+				[
+					9.948770241717625,
+					1.9897236871062205
+				],
+				[
+					11.938569831917107,
+					2.9846234822059614
+				],
+				[
+					14.923155362576438,
+					2.9846234822059614
+				],
+				[
+					15.918017206129548,
+					3.979485325759015
+				],
+				[
+					16.91295495277592,
+					3.979485325759015
+				],
+				[
+					17.90781679632903,
+					3.979485325759015
+				],
+				[
+					18.90267863988214,
+					3.979485325759015
+				],
+				[
+					19.89754048343525,
+					4.974385120858756
+				],
+				[
+					20.89240232698836,
+					4.974385120858756
+				],
+				[
+					20.89240232698836,
+					3.979485325759015
+				],
+				[
+					20.89240232698836,
+					2.9846234822059614
+				],
+				[
+					20.89240232698836,
+					1.9897236871062205
+				],
+				[
+					20.89240232698836,
+					0
+				],
+				[
+					20.89240232698836,
+					-3.979523277305816
+				],
+				[
+					20.89240232698836,
+					-5.96928491595861
+				],
+				[
+					20.89240232698836,
+					-9.948770241717739
+				],
+				[
+					20.89240232698836,
+					-12.933431675470274
+				],
+				[
+					21.887340073634732,
+					-16.912917001229403
+				],
+				[
+					21.887340073634732,
+					-17.907816796329143
+				],
+				[
+					21.887340073634732,
+					-18.902678639882197
+				],
+				[
+					21.887340073634732,
+					-17.907816796329143
+				],
+				[
+					21.887340073634732,
+					-16.912917001229403
+				],
+				[
+					21.887340073634732,
+					-16.912917001229403
+				]
+			],
+			"pressures": [
+				0.2607421875,
+				0.4892578125,
+				0.521484375,
+				0.5439453125,
+				0.564453125,
+				0.5712890625,
+				0.5869140625,
+				0.5908203125,
+				0.595703125,
+				0.6015625,
+				0.6015625,
+				0.6005859375,
+				0.603515625,
+				0.60546875,
+				0.6083984375,
+				0.62109375,
+				0.62109375,
+				0.6298828125,
+				0.6298828125,
+				0.634765625,
+				0.6328125,
+				0.6376953125,
+				0.6416015625,
+				0.638671875,
+				0.642578125,
+				0.64453125,
+				0.552734375,
+				0.3583984375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				21.887340073634732,
+				-16.912917001229403
+			]
+		},
+		{
+			"id": "R0YM31c4P3nOeAqnUPwZy",
+			"type": "freedraw",
+			"x": -742.656790339119,
+			"y": 335.87095805469284,
+			"width": 34.3519183243734,
+			"height": 32.59027545635945,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1163985680,
+			"version": 97,
+			"versionNonce": 149779728,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995857,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.7616092674709307,
+					0
+				],
+				[
+					-2.6424139012065098,
+					0
+				],
+				[
+					-3.5232857360281287,
+					0
+				],
+				[
+					-5.284895003499059,
+					0
+				],
+				[
+					-7.927376105791609,
+					0.8808046337355222
+				],
+				[
+					-9.688985373262767,
+					1.7616428680140643
+				],
+				[
+					-12.331466475555317,
+					2.6424475017495865
+				],
+				[
+					-14.973880376761826,
+					4.404090369763651
+				],
+				[
+					-18.497166112789955,
+					6.165733237777715
+				],
+				[
+					-21.139647215082505,
+					7.927376105791723
+				],
+				[
+					-25.543737584846212,
+					11.450628241276831
+				],
+				[
+					-27.305346852317257,
+					13.212271109290896
+				],
+				[
+					-29.0669561197883,
+					15.854718611040482
+				],
+				[
+					-30.828632588345386,
+					19.37800434706861
+				],
+				[
+					-31.70943722208085,
+					22.02045184881814
+				],
+				[
+					-32.59024185581643,
+					24.662899350567727
+				],
+				[
+					-33.47104648955201,
+					27.305346852317314
+				],
+				[
+					-33.47104648955201,
+					29.066989720331378
+				],
+				[
+					-34.3519183243734,
+					30.828632588345442
+				],
+				[
+					-34.3519183243734,
+					31.709437222080965
+				],
+				[
+					-34.3519183243734,
+					32.59027545635945
+				],
+				[
+					-34.3519183243734,
+					32.59027545635945
+				]
+			],
+			"pressures": [
+				0.1005859375,
+				0.3798828125,
+				0.4345703125,
+				0.4912109375,
+				0.521484375,
+				0.537109375,
+				0.5390625,
+				0.55078125,
+				0.556640625,
+				0.568359375,
+				0.568359375,
+				0.572265625,
+				0.5732421875,
+				0.57421875,
+				0.5732421875,
+				0.5732421875,
+				0.5771484375,
+				0.5771484375,
+				0.5751953125,
+				0.5751953125,
+				0.57421875,
+				0.5693359375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-34.3519183243734,
+				32.59027545635945
+			]
+		},
+		{
+			"id": "f_kwboqrHfeud_Kwrk4Gd",
+			"type": "freedraw",
+			"x": -786.6976940367553,
+			"y": 369.34203814478786,
+			"width": 17.61636147905449,
+			"height": 15.854718611040482,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1594938128,
+			"version": 99,
+			"versionNonce": 1587291120,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995857,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.8808382342784853
+				],
+				[
+					0,
+					1.7616428680140075
+				],
+				[
+					1.7616764685570843,
+					3.523285736028072
+				],
+				[
+					2.6424811022926633,
+					5.284928604042136
+				],
+				[
+					3.5232857360281287,
+					6.165733237777658
+				],
+				[
+					4.404090369763594,
+					7.927376105791723
+				],
+				[
+					4.404090369763594,
+					9.689018973805787
+				],
+				[
+					5.284895003499173,
+					11.450628241276831
+				],
+				[
+					6.165766838320678,
+					13.212271109290896
+				],
+				[
+					7.046571472056144,
+					14.093109343569381
+				],
+				[
+					7.927376105791723,
+					14.973913977304903
+				],
+				[
+					8.808180739527302,
+					15.854718611040482
+				],
+				[
+					9.68898537326288,
+					15.854718611040482
+				],
+				[
+					10.569857208084272,
+					15.854718611040482
+				],
+				[
+					11.450661841819851,
+					14.973913977304903
+				],
+				[
+					12.33146647555543,
+					12.331466475555317
+				],
+				[
+					14.093075743026475,
+					10.56982360754131
+				],
+				[
+					14.97394757784798,
+					8.808180739527245
+				],
+				[
+					15.854752211583559,
+					7.046537871513181
+				],
+				[
+					16.735556845319024,
+					6.165733237777658
+				],
+				[
+					17.61636147905449,
+					5.284928604042136
+				],
+				[
+					17.61636147905449,
+					4.404090369763594
+				],
+				[
+					17.61636147905449,
+					5.284928604042136
+				],
+				[
+					17.61636147905449,
+					5.284928604042136
+				]
+			],
+			"pressures": [
+				0.1669921875,
+				0.57421875,
+				0.580078125,
+				0.5859375,
+				0.5859375,
+				0.5908203125,
+				0.5908203125,
+				0.5908203125,
+				0.5908203125,
+				0.5908203125,
+				0.591796875,
+				0.58984375,
+				0.5908203125,
+				0.58984375,
+				0.583984375,
+				0.5927734375,
+				0.6015625,
+				0.603515625,
+				0.6103515625,
+				0.6103515625,
+				0.6123046875,
+				0.6123046875,
+				0.6220703125,
+				0.453125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				17.61636147905449,
+				5.284928604042136
+			]
+		},
+		{
+			"id": "A5ixopRwjvg9o73Y2PDke",
+			"type": "freedraw",
+			"x": -410.5883361382896,
+			"y": 338.5134055564424,
+			"width": 39.63681332787269,
+			"height": 33.47108009009497,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 766451472,
+			"version": 108,
+			"versionNonce": 60576528,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995857,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.8808718348215052,
+					0
+				],
+				[
+					0,
+					0
+				],
+				[
+					0.880804633735579,
+					-0.8808046337355222
+				],
+				[
+					2.6424139012066234,
+					-0.8808046337355222
+				],
+				[
+					4.404090369763708,
+					-0.8808046337355222
+				],
+				[
+					7.0465042709702175,
+					-0.8808046337355222
+				],
+				[
+					8.808180739527302,
+					-0.8808046337355222
+				],
+				[
+					10.569790006998346,
+					-0.8808046337355222
+				],
+				[
+					13.212271109290896,
+					-0.8808046337355222
+				],
+				[
+					15.85468501049752,
+					0
+				],
+				[
+					17.616361479054603,
+					0.8808382342785421
+				],
+				[
+					19.377970746525648,
+					1.7616428680140643
+				],
+				[
+					22.020451848818198,
+					2.6424475017495865
+				],
+				[
+					23.782061116289242,
+					3.5232857360281287
+				],
+				[
+					25.543670383760286,
+					4.404090369763651
+				],
+				[
+					27.30534685231737,
+					5.284928604042136
+				],
+				[
+					28.186151486052836,
+					7.046537871513237
+				],
+				[
+					29.947760753523994,
+					7.927376105791723
+				],
+				[
+					30.8286325883455,
+					10.56982360754131
+				],
+				[
+					31.709437222080965,
+					12.331466475555374
+				],
+				[
+					33.47104648955201,
+					14.093109343569438
+				],
+				[
+					34.35185112328759,
+					16.735556845319024
+				],
+				[
+					36.11352759184456,
+					19.378004347068554
+				],
+				[
+					36.11352759184456,
+					21.13964721508262
+				],
+				[
+					36.99433222558014,
+					22.901290083096683
+				],
+				[
+					36.99433222558014,
+					25.54373758484627
+				],
+				[
+					36.99433222558014,
+					28.186185086595856
+				],
+				[
+					36.99433222558014,
+					30.828632588345442
+				],
+				[
+					36.99433222558014,
+					32.59027545635945
+				],
+				[
+					37.87513685931572,
+					32.59027545635945
+				],
+				[
+					38.75594149305118,
+					30.828632588345442
+				],
+				[
+					38.75594149305118,
+					29.947827954609863
+				],
+				[
+					38.75594149305118,
+					29.947827954609863
+				]
+			],
+			"pressures": [
+				0.1826171875,
+				0.4853515625,
+				0.5126953125,
+				0.513671875,
+				0.5224609375,
+				0.5322265625,
+				0.5576171875,
+				0.564453125,
+				0.57421875,
+				0.5859375,
+				0.591796875,
+				0.6015625,
+				0.607421875,
+				0.6103515625,
+				0.6181640625,
+				0.6220703125,
+				0.6279296875,
+				0.630859375,
+				0.6318359375,
+				0.642578125,
+				0.646484375,
+				0.65234375,
+				0.65625,
+				0.6611328125,
+				0.6630859375,
+				0.6630859375,
+				0.6669921875,
+				0.6669921875,
+				0.66796875,
+				0.6669921875,
+				0.65234375,
+				0.455078125,
+				0.1025390625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				38.75594149305118,
+				29.947827954609863
+			]
+		},
+		{
+			"id": "YnsiqggdV5VQ7bjNoVvEB",
+			"type": "freedraw",
+			"x": -385.0446657545293,
+			"y": 373.74612851455146,
+			"width": 28.186218687138876,
+			"height": 18.49716611279007,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1950382352,
+			"version": 105,
+			"versionNonce": 1364338160,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995857,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.8808718348215052,
+					0
+				],
+				[
+					2.6424811022925496,
+					1.7616428680140643
+				],
+				[
+					4.404090369763708,
+					3.5232857360281287
+				],
+				[
+					5.284962204585213,
+					4.404090369763651
+				],
+				[
+					6.165766838320678,
+					6.165733237777715
+				],
+				[
+					7.927376105791723,
+					7.927376105791723
+				],
+				[
+					8.808180739527302,
+					9.689018973805787
+				],
+				[
+					9.689052574348807,
+					10.56982360754131
+				],
+				[
+					10.569857208084272,
+					11.450628241276888
+				],
+				[
+					11.450661841819851,
+					12.331466475555374
+				],
+				[
+					12.33146647555543,
+					13.212271109290896
+				],
+				[
+					12.33146647555543,
+					14.093109343569438
+				],
+				[
+					13.212271109290896,
+					14.093109343569438
+				],
+				[
+					13.212271109290896,
+					14.97391397730496
+				],
+				[
+					14.093142944112401,
+					14.97391397730496
+				],
+				[
+					14.093142944112401,
+					15.854718611040482
+				],
+				[
+					14.97394757784798,
+					15.854718611040482
+				],
+				[
+					15.854752211583445,
+					14.97391397730496
+				],
+				[
+					17.616361479054603,
+					13.212271109290896
+				],
+				[
+					18.49723331387611,
+					11.450628241276888
+				],
+				[
+					20.258842581347153,
+					8.808180739527302
+				],
+				[
+					22.020451848818198,
+					6.165733237777715
+				],
+				[
+					23.782128317375168,
+					3.5232857360281287
+				],
+				[
+					24.662932951110747,
+					1.7616428680140643
+				],
+				[
+					25.543737584846326,
+					0.8808382342785421
+				],
+				[
+					26.42454221858179,
+					-0.8808046337355222
+				],
+				[
+					27.305414053403297,
+					-1.7616428680140075
+				],
+				[
+					27.305414053403297,
+					-2.6424475017495865
+				],
+				[
+					28.186218687138876,
+					-2.6424475017495865
+				],
+				[
+					28.186218687138876,
+					-2.6424475017495865
+				]
+			],
+			"pressures": [
+				0.1904296875,
+				0.4404296875,
+				0.5205078125,
+				0.5400390625,
+				0.552734375,
+				0.5634765625,
+				0.5693359375,
+				0.5751953125,
+				0.5771484375,
+				0.580078125,
+				0.5810546875,
+				0.5791015625,
+				0.5830078125,
+				0.5830078125,
+				0.58203125,
+				0.5810546875,
+				0.580078125,
+				0.580078125,
+				0.5849609375,
+				0.58984375,
+				0.591796875,
+				0.5927734375,
+				0.5927734375,
+				0.59765625,
+				0.6025390625,
+				0.603515625,
+				0.6064453125,
+				0.6064453125,
+				0.609375,
+				0.6083984375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				28.186218687138876,
+				-2.6424475017495865
+			]
+		},
+		{
 			"id": "f17lxU8vHXjYi9q-ElK4B",
 			"type": "freedraw",
 			"x": -646.9399624109996,
@@ -44306,11 +45275,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1473214736,
-			"version": 60,
-			"versionNonce": 543580432,
+			"version": 75,
+			"versionNonce": 434494448,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44587,11 +45556,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 141825296,
-			"version": 19,
-			"versionNonce": 1215821808,
+			"version": 34,
+			"versionNonce": 1156193040,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44663,11 +45632,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 976224528,
-			"version": 22,
-			"versionNonce": 353877776,
+			"version": 37,
+			"versionNonce": 1789189616,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44759,11 +45728,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 773035504,
-			"version": 27,
-			"versionNonce": 1743609104,
+			"version": 42,
+			"versionNonce": 271818736,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44890,11 +45859,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1404174320,
-			"version": 18,
-			"versionNonce": 1575926768,
+			"version": 33,
+			"versionNonce": 1984599824,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -44981,11 +45950,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 840452368,
-			"version": 21,
-			"versionNonce": 1247755024,
+			"version": 36,
+			"versionNonce": 1520050672,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45087,11 +46056,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 434385168,
-			"version": 113,
-			"versionNonce": 1334083568,
+			"version": 128,
+			"versionNonce": 1857819408,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45663,11 +46632,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 141473776,
-			"version": 41,
-			"versionNonce": 2098091280,
+			"version": 56,
+			"versionNonce": 673982448,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -45884,11 +46853,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1401619952,
-			"version": 34,
-			"versionNonce": 1635337200,
+			"version": 49,
+			"versionNonce": 1576963856,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46065,11 +47034,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 861115376,
-			"version": 27,
-			"versionNonce": 1576226064,
+			"version": 42,
+			"versionNonce": 1537257456,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995858,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46216,11 +47185,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 599567344,
-			"version": 2,
-			"versionNonce": 764176656,
+			"version": 17,
+			"versionNonce": 1481208816,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169885877,
+			"updated": 1696169995859,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -46253,11 +47222,11 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 			"frameId": null,
 			"roundness": null,
 			"seed": 1496409360,
-			"version": 41,
-			"versionNonce": 1076840720,
+			"version": 56,
+			"versionNonce": 1110180624,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1696169889397,
+			"updated": 1696169995859,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -46464,12 +47433,2426 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 				22.493645321228882,
 				-9.761384393991648
 			]
+		},
+		{
+			"id": "YRX5-fDFEq8nKuV02T08u",
+			"type": "freedraw",
+			"x": -921.598316356416,
+			"y": 765.8330875223448,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 589744912,
+			"version": 18,
+			"versionNonce": 1910055184,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "_GIz2TB972QNiU2paDueK",
+			"type": "freedraw",
+			"x": -714.6175583483742,
+			"y": 915.9956225191569,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 708830480,
+			"version": 17,
+			"versionNonce": 210843632,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "Wai6W5iF-Zio7ZHEJI1YS",
+			"type": "freedraw",
+			"x": -583.3943622142015,
+			"y": 792.889403853722,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1928806160,
+			"version": 16,
+			"versionNonce": 707952400,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "i6EW9_4Wyt5gVCZEfBO06",
+			"type": "freedraw",
+			"x": -749.4850836994469,
+			"y": 334.92372726373753,
+			"width": 103.46722569448218,
+			"height": 25.866787447847173,
+			"angle": 0,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2081255696,
+			"version": 60,
+			"versionNonce": 663009776,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.9897236871062205,
+					-1.989761638652908
+				],
+				[
+					-4.974385120858869,
+					-2.9846234822059614
+				],
+				[
+					-8.953908398164572,
+					-2.9846234822059614
+				],
+				[
+					-10.943632085270792,
+					-2.9846234822059614
+				],
+				[
+					-15.918017206129662,
+					-3.979523277305816
+				],
+				[
+					-16.912879049682715,
+					-3.979523277305816
+				],
+				[
+					-18.902678639882197,
+					-3.979523277305816
+				],
+				[
+					-21.887264170541584,
+					-3.979523277305816
+				],
+				[
+					-24.87192560429412,
+					-4.974385120858869
+				],
+				[
+					-26.86164929140034,
+					-4.974385120858869
+				],
+				[
+					-28.851448881599822,
+					-4.974385120858869
+				],
+				[
+					-29.84631072515299,
+					-4.974385120858869
+				],
+				[
+					-34.820695846011745,
+					-4.974385120858869
+				],
+				[
+					-36.810419533117965,
+					-4.974385120858869
+				],
+				[
+					-39.795080966870614,
+					-4.974385120858869
+				],
+				[
+					-41.784804653976835,
+					-4.974385120858869
+				],
+				[
+					-45.76432793128254,
+					-4.974385120858869
+				],
+				[
+					-46.75918977483559,
+					-4.974385120858869
+				],
+				[
+					-48.748989365035186,
+					-4.974385120858869
+				],
+				[
+					-51.73357489569446,
+					-4.974385120858869
+				],
+				[
+					-54.71823632944711,
+					-4.974385120858869
+				],
+				[
+					-58.69775960675281,
+					-4.974385120858869
+				],
+				[
+					-60.68748329385903,
+					-4.974385120858869
+				],
+				[
+					-64.66700657116473,
+					-4.974385120858869
+				],
+				[
+					-66.65673025827095,
+					-4.974385120858869
+				],
+				[
+					-68.64652984847044,
+					-4.974385120858869
+				],
+				[
+					-70.63625353557666,
+					-4.974385120858869
+				],
+				[
+					-73.62091496932919,
+					-4.974385120858869
+				],
+				[
+					-74.61577681288236,
+					-4.974385120858869
+				],
+				[
+					-78.59530009018806,
+					-4.974385120858869
+				],
+				[
+					-79.59016193374111,
+					-4.974385120858869
+				],
+				[
+					-80.58502377729428,
+					-4.974385120858869
+				],
+				[
+					-83.56968521104693,
+					-4.974385120858869
+				],
+				[
+					-85.55940889815315,
+					-1.989761638652908
+				],
+				[
+					-88.54407033190569,
+					-0.9948997950997409
+				],
+				[
+					-89.53893217545874,
+					-0.9948997950997409
+				],
+				[
+					-90.5337940190119,
+					0
+				],
+				[
+					-91.52865586256507,
+					0.9948618435530534
+				],
+				[
+					-93.51845545276456,
+					2.9846234822059614
+				],
+				[
+					-94.51331729631761,
+					3.979485325759015
+				],
+				[
+					-94.51331729631761,
+					4.974385120858756
+				],
+				[
+					-95.50817913987066,
+					5.969246964411923
+				],
+				[
+					-96.50304098342383,
+					8.953870446617884
+				],
+				[
+					-98.49284057362343,
+					9.948770241717625
+				],
+				[
+					-99.48770241717648,
+					12.933393723923587
+				],
+				[
+					-99.48770241717648,
+					14.92315536257638
+				],
+				[
+					-100.48256426072953,
+					15.918017206129548
+				],
+				[
+					-100.48256426072953,
+					17.907778844782342
+				],
+				[
+					-100.48256426072953,
+					18.90264068833551
+				],
+				[
+					-103.46722569448218,
+					20.892402326988304
+				],
+				[
+					-103.46722569448218,
+					20.892402326988304
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-103.46722569448218,
+				20.892402326988304
+			]
+		},
+		{
+			"id": "N5uS2LoTriJAX3ULsiOw_",
+			"type": "freedraw",
+			"x": -760.4287157847177,
+			"y": 335.9185891072906,
+			"width": 98.49284057362331,
+			"height": 26.861649291400227,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 953247216,
+			"version": 46,
+			"versionNonce": 196091152,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9948618435530534,
+					0
+				],
+				[
+					-3.9795232773057023,
+					0
+				],
+				[
+					-9.948770241717625,
+					0
+				],
+				[
+					-13.928293519023327,
+					0
+				],
+				[
+					-19.89754048343525,
+					0
+				],
+				[
+					-24.87192560429412,
+					0
+				],
+				[
+					-32.830972158905524,
+					0
+				],
+				[
+					-38.80021912331745,
+					0
+				],
+				[
+					-44.76946608772937,
+					-2.9846234822059614
+				],
+				[
+					-49.74385120858824,
+					-2.9846234822059614
+				],
+				[
+					-55.71309817300016,
+					-3.979485325759015
+				],
+				[
+					-60.68748329385892,
+					-3.979485325759015
+				],
+				[
+					-67.65166800491727,
+					-3.979485325759015
+				],
+				[
+					-73.62091496932919,
+					-3.979485325759015
+				],
+				[
+					-78.59530009018795,
+					-3.979485325759015
+				],
+				[
+					-80.58502377729428,
+					-3.979485325759015
+				],
+				[
+					-84.56454705459987,
+					-3.979485325759015
+				],
+				[
+					-85.55940889815304,
+					-3.979485325759015
+				],
+				[
+					-87.54920848835263,
+					-3.979485325759015
+				],
+				[
+					-89.53893217545874,
+					-2.9846234822059614
+				],
+				[
+					-90.5337940190118,
+					-2.9846234822059614
+				],
+				[
+					-92.52359360921139,
+					-1.9897616386527943
+				],
+				[
+					-93.51845545276456,
+					-0.9948618435530534
+				],
+				[
+					-94.51331729631761,
+					1.989761638652908
+				],
+				[
+					-95.50817913987066,
+					3.9795232773057023
+				],
+				[
+					-95.50817913987066,
+					4.974385120858869
+				],
+				[
+					-98.49284057362331,
+					7.959008603064831
+				],
+				[
+					-98.49284057362331,
+					8.953908398164572
+				],
+				[
+					-98.49284057362331,
+					9.948770241717625
+				],
+				[
+					-98.49284057362331,
+					13.928293519023327
+				],
+				[
+					-98.49284057362331,
+					14.923155362576495
+				],
+				[
+					-98.49284057362331,
+					16.91291700122929
+				],
+				[
+					-98.49284057362331,
+					17.907778844782456
+				],
+				[
+					-98.49284057362331,
+					19.89754048343525
+				],
+				[
+					-98.49284057362331,
+					21.88730212208816
+				],
+				[
+					-98.49284057362331,
+					22.88216396564121
+				],
+				[
+					-98.49284057362331,
+					22.88216396564121
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				-98.49284057362331,
+				22.88216396564121
+			]
+		},
+		{
+			"id": "lBvpfWd999if8cOx_1jbX",
+			"type": "freedraw",
+			"x": -805.1981818724471,
+			"y": 298.1132697790729,
+			"width": 43.77460424417632,
+			"height": 52.7284746907942,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1964656624,
+			"version": 26,
+			"versionNonce": 1555561456,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.9795232773057023,
+					-4.974385120858869
+				],
+				[
+					-4.974385120858869,
+					-5.969246964411923
+				],
+				[
+					-4.974385120858869,
+					-3.9795232773057023
+				],
+				[
+					-4.974385120858869,
+					2.9846234822059614
+				],
+				[
+					-4.974385120858869,
+					13.928293519023327
+				],
+				[
+					-2.984661433752649,
+					24.87192560429412
+				],
+				[
+					0,
+					32.83093420735884
+				],
+				[
+					8.953908398164572,
+					37.805319328217706
+				],
+				[
+					15.918017206129548,
+					37.805319328217706
+				],
+				[
+					22.8822019171879,
+					36.81045748466465
+				],
+				[
+					26.86164929140034,
+					36.81045748466465
+				],
+				[
+					29.846310725152875,
+					37.805319328217706
+				],
+				[
+					30.841172568706043,
+					39.795080966870614
+				],
+				[
+					32.830972158905524,
+					42.779704449076576
+				],
+				[
+					36.810419533117965,
+					45.76432793128254
+				],
+				[
+					38.80021912331745,
+					46.75922772638228
+				],
+				[
+					38.80021912331745,
+					46.75922772638228
+				]
+			],
+			"pressures": [
+				0.369140625,
+				0.375,
+				0.400390625,
+				0.4130859375,
+				0.41796875,
+				0.4189453125,
+				0.4228515625,
+				0.419921875,
+				0.400390625,
+				0.4033203125,
+				0.408203125,
+				0.408203125,
+				0.4169921875,
+				0.42578125,
+				0.4228515625,
+				0.376953125,
+				0.1201171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				38.80021912331745,
+				46.75922772638228
+			]
+		},
+		{
+			"id": "rKZhw-FrdVdgPvHculK3t",
+			"type": "freedraw",
+			"x": -743.515836735035,
+			"y": 324.9749570220198,
+			"width": 99.48770241717648,
+			"height": 33.825796050912004,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1308967408,
+			"version": 45,
+			"versionNonce": 1741290256,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9948618435531671,
+					0
+				],
+				[
+					-2.9845855306593876,
+					0
+				],
+				[
+					-4.974385120858869,
+					-0.9948997950997409
+				],
+				[
+					-7.958970651518143,
+					-0.9948997950997409
+				],
+				[
+					-12.933355772377013,
+					-1.9897616386527943
+				],
+				[
+					-16.912879049682715,
+					-1.9897616386527943
+				],
+				[
+					-20.892402326988417,
+					-1.9897616386527943
+				],
+				[
+					-24.87192560429412,
+					-1.9897616386527943
+				],
+				[
+					-28.85137297850656,
+					-1.9897616386527943
+				],
+				[
+					-32.83089625581226,
+					-2.9846234822059614
+				],
+				[
+					-38.800143220224186,
+					-2.9846234822059614
+				],
+				[
+					-42.77966649752989,
+					-2.9846234822059614
+				],
+				[
+					-45.76432793128254,
+					-2.9846234822059614
+				],
+				[
+					-49.74385120858824,
+					-2.9846234822059614
+				],
+				[
+					-51.73357489569446,
+					-2.9846234822059614
+				],
+				[
+					-54.71823632944711,
+					-2.9846234822059614
+				],
+				[
+					-57.70282186010638,
+					-2.9846234822059614
+				],
+				[
+					-60.68748329385903,
+					-1.9897616386527943
+				],
+				[
+					-63.672068824518306,
+					-0.9948997950997409
+				],
+				[
+					-67.65159210182401,
+					0.9948618435531671
+				],
+				[
+					-69.64139169202349,
+					1.989761638652908
+				],
+				[
+					-71.63111537912971,
+					2.9846234822059614
+				],
+				[
+					-74.61577681288236,
+					4.974385120858869
+				],
+				[
+					-76.60550049998858,
+					6.964146759511777
+				],
+				[
+					-79.59016193374111,
+					8.953870446617998
+				],
+				[
+					-82.5747474644005,
+					11.938531880370533
+				],
+				[
+					-85.55940889815304,
+					13.928255567476754
+				],
+				[
+					-88.54399442881243,
+					16.912917001229403
+				],
+				[
+					-91.52865586256507,
+					19.897540483435364
+				],
+				[
+					-93.5183795496713,
+					20.892402326988417
+				],
+				[
+					-94.51331729631761,
+					22.882163965641325
+				],
+				[
+					-96.50304098342383,
+					25.866787447847287
+				],
+				[
+					-98.49276467053005,
+					27.85654908650008
+				],
+				[
+					-99.48770241717648,
+					29.84631072515299
+				],
+				[
+					-99.48770241717648,
+					30.841172568706043
+				],
+				[
+					-99.48770241717648,
+					30.841172568706043
+				]
+			],
+			"pressures": [
+				0.1689453125,
+				0.501953125,
+				0.5517578125,
+				0.564453125,
+				0.580078125,
+				0.60546875,
+				0.611328125,
+				0.61328125,
+				0.6201171875,
+				0.62109375,
+				0.6240234375,
+				0.626953125,
+				0.626953125,
+				0.6240234375,
+				0.6220703125,
+				0.6220703125,
+				0.6220703125,
+				0.6220703125,
+				0.6220703125,
+				0.6240234375,
+				0.6240234375,
+				0.6240234375,
+				0.626953125,
+				0.6279296875,
+				0.6259765625,
+				0.6240234375,
+				0.6298828125,
+				0.6298828125,
+				0.62890625,
+				0.630859375,
+				0.6298828125,
+				0.6279296875,
+				0.62890625,
+				0.6337890625,
+				0.6337890625,
+				0.6171875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-99.48770241717648,
+				30.841172568706043
+			]
+		},
+		{
+			"id": "PSm9VU_40sPltS-BduNNl",
+			"type": "freedraw",
+			"x": -749.4850836994469,
+			"y": 322.985195383367,
+			"width": 97.497902826977,
+			"height": 39.7950809668705,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1266442736,
+			"version": 47,
+			"versionNonce": 1311964656,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9948618435531671,
+					0
+				],
+				[
+					-1.9897236871062205,
+					0
+				],
+				[
+					-2.9845855306593876,
+					0
+				],
+				[
+					-4.974385120858869,
+					0
+				],
+				[
+					-6.96410880796509,
+					0
+				],
+				[
+					-11.938493928823846,
+					0
+				],
+				[
+					-15.918017206129662,
+					0
+				],
+				[
+					-19.897540483435364,
+					-0.9948618435531671
+				],
+				[
+					-25.866787447847287,
+					-1.989761638652908
+				],
+				[
+					-28.851448881599822,
+					-1.989761638652908
+				],
+				[
+					-32.83089625581226,
+					-2.9846234822059614
+				],
+				[
+					-36.810419533117965,
+					-2.9846234822059614
+				],
+				[
+					-39.795080966870614,
+					-3.9795232773057023
+				],
+				[
+					-42.77966649752989,
+					-4.974385120858869
+				],
+				[
+					-45.76432793128254,
+					-5.969246964411923
+				],
+				[
+					-48.748989365035186,
+					-5.969246964411923
+				],
+				[
+					-51.73357489569446,
+					-5.969246964411923
+				],
+				[
+					-55.71309817300016,
+					-5.969246964411923
+				],
+				[
+					-58.69775960675281,
+					-5.969246964411923
+				],
+				[
+					-60.68748329385903,
+					-5.969246964411923
+				],
+				[
+					-62.67720698096525,
+					-4.974385120858869
+				],
+				[
+					-65.66186841471779,
+					-3.9795232773057023
+				],
+				[
+					-68.64652984847044,
+					-1.989761638652908
+				],
+				[
+					-71.63111537912971,
+					0
+				],
+				[
+					-73.62091496932919,
+					1.9897616386527943
+				],
+				[
+					-76.60550049998858,
+					4.974385120858756
+				],
+				[
+					-79.59016193374111,
+					8.953908398164572
+				],
+				[
+					-82.5747474644005,
+					10.943632085270792
+				],
+				[
+					-84.56454705459998,
+					13.928293519023327
+				],
+				[
+					-87.54913258525937,
+					15.918017206129548
+				],
+				[
+					-89.53893217545874,
+					18.902678639882197
+				],
+				[
+					-91.52865586256507,
+					21.88730212208816
+				],
+				[
+					-92.52351770611813,
+					25.866787447847173
+				],
+				[
+					-93.51845545276456,
+					27.85654908650008
+				],
+				[
+					-94.51331729631761,
+					29.846310725152875
+				],
+				[
+					-96.50304098342383,
+					32.83093420735884
+				],
+				[
+					-97.497902826977,
+					33.82583400245858
+				],
+				[
+					-97.497902826977,
+					33.82583400245858
+				]
+			],
+			"pressures": [
+				0.1875,
+				0.4580078125,
+				0.494140625,
+				0.5263671875,
+				0.572265625,
+				0.5927734375,
+				0.6123046875,
+				0.619140625,
+				0.6181640625,
+				0.623046875,
+				0.625,
+				0.625,
+				0.625,
+				0.625,
+				0.623046875,
+				0.6201171875,
+				0.6279296875,
+				0.630859375,
+				0.6279296875,
+				0.6279296875,
+				0.6279296875,
+				0.6279296875,
+				0.6279296875,
+				0.6328125,
+				0.63671875,
+				0.6328125,
+				0.626953125,
+				0.6328125,
+				0.6337890625,
+				0.6337890625,
+				0.6318359375,
+				0.6318359375,
+				0.6328125,
+				0.6298828125,
+				0.6357421875,
+				0.6396484375,
+				0.6328125,
+				0.6279296875,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-97.497902826977,
+				33.82583400245858
+			]
+		},
+		{
+			"id": "HYKoxDNJ621PFg7RH49cK",
+			"type": "freedraw",
+			"x": -856.9317567681416,
+			"y": 357.80589122937874,
+			"width": 18.902678639882197,
+			"height": 21.887264170541584,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1947447792,
+			"version": 34,
+			"versionNonce": 553130256,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9949377466463147,
+					-0.9948618435531671
+				],
+				[
+					-0.9949377466463147,
+					0
+				],
+				[
+					-0.9949377466463147,
+					1.9897616386527943
+				],
+				[
+					-0.9949377466463147,
+					3.9795232773057023
+				],
+				[
+					-0.9949377466463147,
+					5.969246964411923
+				],
+				[
+					-0.9949377466463147,
+					10.943632085270792
+				],
+				[
+					-0.9949377466463147,
+					12.933393723923587
+				],
+				[
+					-0.9949377466463147,
+					15.918017206129548
+				],
+				[
+					0,
+					17.907778844782456
+				],
+				[
+					0,
+					18.902678639882197
+				],
+				[
+					0,
+					19.89754048343525
+				],
+				[
+					0.9948618435531671,
+					20.892402326988417
+				],
+				[
+					1.9897236871062205,
+					20.892402326988417
+				],
+				[
+					2.984585530659274,
+					20.892402326988417
+				],
+				[
+					3.979447374212441,
+					20.892402326988417
+				],
+				[
+					4.974385120858869,
+					20.892402326988417
+				],
+				[
+					5.9692469644120365,
+					19.89754048343525
+				],
+				[
+					7.958970651518143,
+					18.902678639882197
+				],
+				[
+					9.948770241717625,
+					16.91291700122929
+				],
+				[
+					11.93849392882396,
+					15.918017206129548
+				],
+				[
+					14.923155362576495,
+					13.928293519023327
+				],
+				[
+					15.918017206129548,
+					12.933393723923587
+				],
+				[
+					16.912879049682715,
+					11.938531880370533
+				],
+				[
+					17.907740893235882,
+					10.943632085270792
+				],
+				[
+					17.907740893235882,
+					9.948770241717625
+				],
+				[
+					17.907740893235882,
+					10.943632085270792
+				],
+				[
+					17.907740893235882,
+					10.943632085270792
+				]
+			],
+			"pressures": [
+				0.14453125,
+				0.478515625,
+				0.5615234375,
+				0.5712890625,
+				0.5712890625,
+				0.5751953125,
+				0.578125,
+				0.580078125,
+				0.580078125,
+				0.5791015625,
+				0.578125,
+				0.580078125,
+				0.576171875,
+				0.576171875,
+				0.5703125,
+				0.5751953125,
+				0.57421875,
+				0.57421875,
+				0.5791015625,
+				0.5791015625,
+				0.5771484375,
+				0.5771484375,
+				0.580078125,
+				0.580078125,
+				0.5791015625,
+				0.5791015625,
+				0.49609375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				17.907740893235882,
+				10.943632085270792
+			]
+		},
+		{
+			"id": "JXe63X6yPXBP6tROeHF-7",
+			"type": "freedraw",
+			"x": -752.4696692301063,
+			"y": 322.985195383367,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 410284816,
+			"version": 8,
+			"versionNonce": 486391792,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [
+				0.0791015625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "LxVaOqcdZZ6WrfkmU7UMf",
+			"type": "freedraw",
+			"x": -746.5004222656944,
+			"y": 324.9749570220198,
+			"width": 80.58502377729417,
+			"height": 39.7950809668705,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1154381808,
+			"version": 39,
+			"versionNonce": 179468048,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.9948997950997409
+				],
+				[
+					-0.9948618435530534,
+					-1.9897616386527943
+				],
+				[
+					-1.9897995901994818,
+					-2.9846234822059614
+				],
+				[
+					-3.9795232773057023,
+					-3.9795232773057023
+				],
+				[
+					-7.959046554611405,
+					-4.974385120858756
+				],
+				[
+					-10.943632085270679,
+					-5.969284915958497
+				],
+				[
+					-14.92315536257638,
+					-5.969284915958497
+				],
+				[
+					-18.902678639882197,
+					-5.969284915958497
+				],
+				[
+					-25.866787447847173,
+					-5.969284915958497
+				],
+				[
+					-29.846310725152875,
+					-4.974385120858756
+				],
+				[
+					-33.82583400245858,
+					-4.974385120858756
+				],
+				[
+					-36.81049543621123,
+					-3.9795232773057023
+				],
+				[
+					-39.7950809668705,
+					-2.9846234822059614
+				],
+				[
+					-44.76946608772937,
+					-0.9948997950997409
+				],
+				[
+					-47.754127521481905,
+					0
+				],
+				[
+					-50.73871305214129,
+					1.989761638652908
+				],
+				[
+					-53.72337448589394,
+					2.9846234822059614
+				],
+				[
+					-58.6977596067527,
+					5.969246964411923
+				],
+				[
+					-61.682421040505346,
+					7.959008603064831
+				],
+				[
+					-63.67214472761157,
+					9.948770241717739
+				],
+				[
+					-65.66186841471779,
+					11.938531880370533
+				],
+				[
+					-66.6568061613641,
+					12.9333937239237
+				],
+				[
+					-68.64652984847032,
+					14.923155362576495
+				],
+				[
+					-69.64139169202349,
+					17.907778844782456
+				],
+				[
+					-71.63119128222297,
+					20.892402326988417
+				],
+				[
+					-73.62091496932919,
+					23.87702580919438
+				],
+				[
+					-76.60557640308173,
+					28.851410930053248
+				],
+				[
+					-78.59530009018795,
+					31.836072363805783
+				],
+				[
+					-79.59016193374111,
+					32.83093420735895
+				],
+				[
+					-80.58502377729417,
+					33.825796050912004
+				],
+				[
+					-79.59016193374111,
+					31.836072363805783
+				],
+				[
+					-79.59016193374111,
+					31.836072363805783
+				]
+			],
+			"pressures": [
+				0.23828125,
+				0.4541015625,
+				0.4892578125,
+				0.498046875,
+				0.55078125,
+				0.5693359375,
+				0.580078125,
+				0.5849609375,
+				0.6005859375,
+				0.6025390625,
+				0.6044921875,
+				0.607421875,
+				0.6064453125,
+				0.6025390625,
+				0.607421875,
+				0.6123046875,
+				0.6123046875,
+				0.61328125,
+				0.6162109375,
+				0.6162109375,
+				0.6123046875,
+				0.615234375,
+				0.615234375,
+				0.619140625,
+				0.6201171875,
+				0.6201171875,
+				0.6220703125,
+				0.6181640625,
+				0.623046875,
+				0.623046875,
+				0.6220703125,
+				0.23828125,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-79.59016193374111,
+				31.836072363805783
+			]
+		},
+		{
+			"id": "bV2r4baiASrm88zDmTkmm",
+			"type": "freedraw",
+			"x": -387.03893265025215,
+			"y": 333.9288274686378,
+			"width": 140.2776452276001,
+			"height": 21.88730212208816,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2021235184,
+			"version": 62,
+			"versionNonce": 295863280,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-0.9948618435531671
+				],
+				[
+					1.9897236871062205,
+					-0.9948618435531671
+				],
+				[
+					3.979523277305759,
+					-2.984623482206075
+				],
+				[
+					5.96924696441198,
+					-3.9794853257591285
+				],
+				[
+					8.953908398164572,
+					-5.9692469644120365
+				],
+				[
+					12.933431675470274,
+					-7.959008603064831
+				],
+				[
+					14.923155362576495,
+					-8.953870446617998
+				],
+				[
+					16.912879049682715,
+					-9.948770241717739
+				],
+				[
+					18.902678639882197,
+					-10.943632085270792
+				],
+				[
+					20.892402326988417,
+					-11.93849392882396
+				],
+				[
+					24.87192560429412,
+					-12.9333937239237
+				],
+				[
+					26.86164929140034,
+					-13.928255567476754
+				],
+				[
+					28.851448881599822,
+					-13.928255567476754
+				],
+				[
+					31.836034412259153,
+					-14.923155362576495
+				],
+				[
+					34.820695846011745,
+					-14.923155362576495
+				],
+				[
+					37.805357279764394,
+					-14.923155362576495
+				],
+				[
+					39.795080966870614,
+					-14.923155362576495
+				],
+				[
+					42.779742400623206,
+					-14.923155362576495
+				],
+				[
+					45.76432793128254,
+					-14.923155362576495
+				],
+				[
+					50.73871305214135,
+					-14.923155362576495
+				],
+				[
+					54.71823632944705,
+					-15.918017206129662
+				],
+				[
+					57.702897763199644,
+					-15.918017206129662
+				],
+				[
+					61.682345137412085,
+					-15.918017206129662
+				],
+				[
+					66.6567302582709,
+					-15.918017206129662
+				],
+				[
+					70.6362535355766,
+					-15.918017206129662
+				],
+				[
+					74.61577681288236,
+					-15.918017206129662
+				],
+				[
+					77.60043824663495,
+					-15.918017206129662
+				],
+				[
+					81.57988562084739,
+					-15.918017206129662
+				],
+				[
+					85.5594088981531,
+					-15.918017206129662
+				],
+				[
+					88.54407033190569,
+					-15.918017206129662
+				],
+				[
+					91.52865586256502,
+					-15.918017206129662
+				],
+				[
+					94.51331729631761,
+					-14.923155362576495
+				],
+				[
+					98.49284057362331,
+					-13.928255567476754
+				],
+				[
+					100.48256426072953,
+					-13.928255567476754
+				],
+				[
+					103.46722569448212,
+					-12.9333937239237
+				],
+				[
+					105.45694938158834,
+					-12.9333937239237
+				],
+				[
+					107.44674897178788,
+					-11.93849392882396
+				],
+				[
+					110.43133450244721,
+					-10.943632085270792
+				],
+				[
+					113.4159959361998,
+					-10.943632085270792
+				],
+				[
+					116.40058146685914,
+					-9.948770241717739
+				],
+				[
+					118.39038105705862,
+					-8.953870446617998
+				],
+				[
+					122.36990433436432,
+					-7.959008603064831
+				],
+				[
+					125.35448986502365,
+					-6.96410880796509
+				],
+				[
+					127.34428945522313,
+					-5.9692469644120365
+				],
+				[
+					129.33401314232935,
+					-3.9794853257591285
+				],
+				[
+					130.32887498588246,
+					-2.984623482206075
+				],
+				[
+					132.31867457608195,
+					-1.9897236871062205
+				],
+				[
+					134.30839826318817,
+					0
+				],
+				[
+					135.30326010674128,
+					0.9948997950997409
+				],
+				[
+					137.29305969694076,
+					1.9897616386527943
+				],
+				[
+					138.28792154049387,
+					3.9795232773057023
+				],
+				[
+					139.28278338404698,
+					4.974385120858756
+				],
+				[
+					139.28278338404698,
+					5.969284915958497
+				],
+				[
+					140.2776452276001,
+					5.969284915958497
+				],
+				[
+					139.28278338404698,
+					5.969284915958497
+				],
+				[
+					139.28278338404698,
+					5.969284915958497
+				]
+			],
+			"pressures": [
+				0.3115234375,
+				0.564453125,
+				0.5732421875,
+				0.5830078125,
+				0.58984375,
+				0.6044921875,
+				0.6220703125,
+				0.6298828125,
+				0.6357421875,
+				0.6376953125,
+				0.6435546875,
+				0.65234375,
+				0.658203125,
+				0.658203125,
+				0.66015625,
+				0.6611328125,
+				0.6611328125,
+				0.6650390625,
+				0.6669921875,
+				0.6669921875,
+				0.666015625,
+				0.6689453125,
+				0.66796875,
+				0.6650390625,
+				0.66796875,
+				0.66796875,
+				0.666015625,
+				0.6669921875,
+				0.6708984375,
+				0.6689453125,
+				0.6689453125,
+				0.6689453125,
+				0.669921875,
+				0.6708984375,
+				0.6728515625,
+				0.673828125,
+				0.6728515625,
+				0.671875,
+				0.673828125,
+				0.677734375,
+				0.677734375,
+				0.6787109375,
+				0.6806640625,
+				0.68359375,
+				0.6845703125,
+				0.6865234375,
+				0.6875,
+				0.689453125,
+				0.69140625,
+				0.6923828125,
+				0.6982421875,
+				0.6982421875,
+				0.7041015625,
+				0.7041015625,
+				0.705078125,
+				0.21484375,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				139.28278338404698,
+				5.969284915958497
+			]
+		},
+		{
+			"id": "RvzR---jrqB9iI6FcepvG",
+			"type": "freedraw",
+			"x": -255.71519582081658,
+			"y": 346.86225914410795,
+			"width": 21.88734007363479,
+			"height": 20.892402326988417,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 734612976,
+			"version": 30,
+			"versionNonce": 850129680,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.9949377466463716,
+					0
+				],
+				[
+					1.9897995901994818,
+					0.9948618435531671
+				],
+				[
+					3.9795232773057023,
+					1.9897236871062205
+				],
+				[
+					5.969322867505184,
+					2.9846234822059614
+				],
+				[
+					8.953908398164515,
+					4.974385120858869
+				],
+				[
+					9.948770241717625,
+					4.974385120858869
+				],
+				[
+					11.938569831917164,
+					5.969246964411923
+				],
+				[
+					12.933431675470274,
+					5.969246964411923
+				],
+				[
+					13.928293519023384,
+					6.96410880796509
+				],
+				[
+					15.918093109222866,
+					6.96410880796509
+				],
+				[
+					16.912954952775976,
+					6.96410880796509
+				],
+				[
+					17.907816796329087,
+					6.96410880796509
+				],
+				[
+					18.902678639882197,
+					4.974385120858869
+				],
+				[
+					19.897540483435307,
+					1.9897236871062205
+				],
+				[
+					19.897540483435307,
+					-0.9948997950997409
+				],
+				[
+					20.89247823008168,
+					-2.9846614337525352
+				],
+				[
+					20.89247823008168,
+					-5.969284915958497
+				],
+				[
+					20.89247823008168,
+					-9.948770241717625
+				],
+				[
+					21.88734007363479,
+					-11.93853188037042
+				],
+				[
+					21.88734007363479,
+					-12.93343167547016
+				],
+				[
+					21.88734007363479,
+					-13.928293519023327
+				],
+				[
+					21.88734007363479,
+					-12.93343167547016
+				],
+				[
+					21.88734007363479,
+					-11.93853188037042
+				],
+				[
+					21.88734007363479,
+					-8.953908398164458
+				],
+				[
+					21.88734007363479,
+					-8.953908398164458
+				]
+			],
+			"pressures": [
+				0.0048828125,
+				0.578125,
+				0.5849609375,
+				0.5869140625,
+				0.58984375,
+				0.591796875,
+				0.59375,
+				0.595703125,
+				0.595703125,
+				0.595703125,
+				0.595703125,
+				0.59765625,
+				0.595703125,
+				0.6005859375,
+				0.609375,
+				0.62109375,
+				0.6279296875,
+				0.6328125,
+				0.6376953125,
+				0.640625,
+				0.640625,
+				0.6435546875,
+				0.6318359375,
+				0.603515625,
+				0.275390625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				21.88734007363479,
+				-8.953908398164458
+			]
+		},
+		{
+			"id": "M1OVtN8MLTI5p0riCrIV5",
+			"type": "freedraw",
+			"x": -239.7971027115937,
+			"y": 359.79565286803154,
+			"width": 20.892478230081622,
+			"height": 23.877063760741066,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1897147152,
+			"version": 37,
+			"versionNonce": 171471856,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169994451,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.9949377466463716,
+					0
+				],
+				[
+					-0.9949377466463716,
+					0.9948618435531671
+				],
+				[
+					0,
+					0.9948618435531671
+				],
+				[
+					0.9948618435531102,
+					1.989761638652908
+				],
+				[
+					1.9897236871062205,
+					1.989761638652908
+				],
+				[
+					1.9897236871062205,
+					2.9846234822059614
+				],
+				[
+					2.9845855306593307,
+					2.9846234822059614
+				],
+				[
+					3.979447374212441,
+					3.9794853257591285
+				],
+				[
+					4.974385120858813,
+					3.9794853257591285
+				],
+				[
+					5.969246964411923,
+					4.974385120858869
+				],
+				[
+					6.964108807965033,
+					5.969246964411923
+				],
+				[
+					8.953832495071254,
+					6.964146759511777
+				],
+				[
+					10.943632085270735,
+					7.959008603064831
+				],
+				[
+					11.938493928823846,
+					8.953870446617998
+				],
+				[
+					13.928217615930066,
+					9.948770241717739
+				],
+				[
+					14.923155362576438,
+					10.943632085270792
+				],
+				[
+					15.918017206129548,
+					10.943632085270792
+				],
+				[
+					15.918017206129548,
+					11.938531880370533
+				],
+				[
+					16.912879049682658,
+					11.938531880370533
+				],
+				[
+					17.90774089323577,
+					11.938531880370533
+				],
+				[
+					17.90774089323577,
+					12.9333937239237
+				],
+				[
+					17.90774089323577,
+					11.938531880370533
+				],
+				[
+					17.90774089323577,
+					9.948770241717739
+				],
+				[
+					17.90774089323577,
+					6.964146759511777
+				],
+				[
+					17.90774089323577,
+					3.9794853257591285
+				],
+				[
+					18.90260273678888,
+					0.9948618435531671
+				],
+				[
+					19.89754048343525,
+					-2.9846234822059614
+				],
+				[
+					19.89754048343525,
+					-4.974385120858756
+				],
+				[
+					19.89754048343525,
+					-6.964146759511664
+				],
+				[
+					19.89754048343525,
+					-8.953908398164458
+				],
+				[
+					19.89754048343525,
+					-9.948770241717625
+				],
+				[
+					19.89754048343525,
+					-10.943670036817366
+				],
+				[
+					18.90260273678888,
+					-10.943670036817366
+				],
+				[
+					18.90260273678888,
+					-10.943670036817366
+				]
+			],
+			"pressures": [
+				0.2724609375,
+				0.4248046875,
+				0.5771484375,
+				0.58203125,
+				0.5966796875,
+				0.6103515625,
+				0.6240234375,
+				0.6240234375,
+				0.6328125,
+				0.634765625,
+				0.6435546875,
+				0.6484375,
+				0.654296875,
+				0.666015625,
+				0.666015625,
+				0.6728515625,
+				0.6748046875,
+				0.6767578125,
+				0.6806640625,
+				0.6796875,
+				0.68359375,
+				0.68359375,
+				0.6923828125,
+				0.6953125,
+				0.69921875,
+				0.7001953125,
+				0.703125,
+				0.70703125,
+				0.70703125,
+				0.705078125,
+				0.705078125,
+				0.708984375,
+				0.708984375,
+				0.400390625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				18.90260273678888,
+				-10.943670036817366
+			]
+		},
+		{
+			"id": "O5AiEmv06RovdJZ7_On7R",
+			"type": "freedraw",
+			"x": -241.7869023017932,
+			"y": 358.8007530729318,
+			"width": 19.89754048343525,
+			"height": 18.902678639882197,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1692694000,
+			"version": 26,
+			"versionNonce": 752554256,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1696169995859,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					0.9948997950997409
+				],
+				[
+					0.9948618435531102,
+					0.9948997950997409
+				],
+				[
+					1.9897995901994818,
+					1.989761638652908
+				],
+				[
+					3.9795232773057023,
+					1.989761638652908
+				],
+				[
+					5.969246964411923,
+					2.984661433752649
+				],
+				[
+					7.959046554611405,
+					2.984661433752649
+				],
+				[
+					9.948770241717625,
+					2.984661433752649
+				],
+				[
+					10.943632085270735,
+					3.9795232773057023
+				],
+				[
+					12.933431675470217,
+					3.9795232773057023
+				],
+				[
+					13.928293519023327,
+					3.9795232773057023
+				],
+				[
+					14.923155362576438,
+					3.9795232773057023
+				],
+				[
+					15.918017206129548,
+					4.974385120858869
+				],
+				[
+					16.91295495277592,
+					4.974385120858869
+				],
+				[
+					17.90781679632903,
+					5.96928491595861
+				],
+				[
+					17.90781679632903,
+					4.974385120858869
+				],
+				[
+					17.90781679632903,
+					3.9795232773057023
+				],
+				[
+					18.90267863988214,
+					1.989761638652908
+				],
+				[
+					18.90267863988214,
+					-0.9948618435530534
+				],
+				[
+					19.89754048343525,
+					-3.979485325759015
+				],
+				[
+					19.89754048343525,
+					-9.948770241717625
+				],
+				[
+					19.89754048343525,
+					-11.938493928823846
+				],
+				[
+					19.89754048343525,
+					-12.933393723923587
+				],
+				[
+					19.89754048343525,
+					-12.933393723923587
+				]
+			],
+			"pressures": [
+				0.1494140625,
+				0.5185546875,
+				0.5341796875,
+				0.5439453125,
+				0.5654296875,
+				0.57421875,
+				0.5888671875,
+				0.6015625,
+				0.6083984375,
+				0.611328125,
+				0.6162109375,
+				0.6181640625,
+				0.6240234375,
+				0.62890625,
+				0.6328125,
+				0.6455078125,
+				0.6494140625,
+				0.654296875,
+				0.6572265625,
+				0.6591796875,
+				0.66015625,
+				0.6640625,
+				0.6640625,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				19.89754048343525,
+				-12.933393723923587
+			]
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#f08c00",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
@@ -46481,10 +49864,10 @@ then you still have to extend for 2 harakat) ^Xb4t85tn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 985.3906467934397,
-		"scrollY": -427.6707016604569,
+		"scrollX": 1717.4337774224584,
+		"scrollY": 587.0645288699709,
 		"zoom": {
-			"value": 1.8849779041392782
+			"value": 0.5069420737377481
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
