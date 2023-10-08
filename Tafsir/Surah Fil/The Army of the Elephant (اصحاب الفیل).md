@@ -1,0 +1,2 @@
+This is an army led by [[Abraha]] than travelled from Yemen to [[The Ka'ba]] in order to destroy it.
+After this event, that year became famous among the Arabs as the 'Year of the Elephant' and it was considered the beginning point for the Arab's calendar in [[The Age of Ignorance]]
