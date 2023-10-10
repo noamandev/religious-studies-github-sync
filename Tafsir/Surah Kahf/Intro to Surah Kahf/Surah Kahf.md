@@ -26,12 +26,12 @@ Surah Kahf is divided into 8 sections: Khutbah #1, The story of the cave, Khutba
 
 - نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِٱلْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ ءَامَنُوا۟ بِرَبِّهِمْ وَزِدْنَـٰهُمْ هُدًۭى (13)- This Ayat tells that Allah will tell the story with purpose, truth, and right.
 
+##### The Structure of Surah Kahf
 When the 7 sleepers were stuck in the cave, they made a dua which you can see in Ayat 10, ‘رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا’. In Ayat 14-16 we learn why they even made this dua. And in Ayat 17-18 it explain how the sleep looked like.
 
 In the story after the men wake up they decide to go to a restaurant because they’re hungry. You can see the entire conversation they had in Ayat 19-21.
 
 When the people discovered about this story, instead of learning the lessons of this story they wondered about how many years they slept, or if they should build a monument. Allah explains this from Ayat 22-26.
-
 ##### The Ring Structure of Surah Kahf
 Ring composition is **a way of indicating the unity of a specific episode by means of symmetry**: the first element corresponds to the last, the second to the next-to-last, and so on.
 
