@@ -15153,8 +15153,8 @@ The Noon can have a Sukoon or not have a Sukoon ^P0BQCwGG
 		},
 		{
 			"type": "arrow",
-			"version": 252,
-			"versionNonce": 264391276,
+			"version": 408,
+			"versionNonce": 597181804,
 			"isDeleted": false,
 			"id": "beMaKjtDOd4Bt6kFW_pvl",
 			"fillStyle": "hachure",
@@ -15176,17 +15176,17 @@ The Noon can have a Sukoon or not have a Sukoon ^P0BQCwGG
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697033323241,
+			"updated": 1697033343376,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "sug8QNBC",
-				"focus": -0.9231411466056522,
+				"focus": -0.9574652633024132,
 				"gap": 10.703243006169487
 			},
 			"endBinding": {
 				"elementId": "4Yur8chH",
-				"focus": -0.4881734008732166,
+				"focus": -0.40421809944081327,
 				"gap": 9.758490685409868
 			},
 			"lastCommittedPoint": null,
@@ -15198,8 +15198,8 @@ The Noon can have a Sukoon or not have a Sukoon ^P0BQCwGG
 					0
 				],
 				[
-					-432.1650044115513,
-					-433.7338913350325
+					-347.88588804150777,
+					-444.268768322724
 				],
 				[
 					-897.917252879533,
@@ -15223,8 +15223,8 @@ The Noon can have a Sukoon or not have a Sukoon ^P0BQCwGG
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1085.5139869501706,
-		"scrollY": 643.4557545720162,
+		"scrollX": 1333.0838724493276,
+		"scrollY": 736.9528569098793,
 		"zoom": {
 			"value": 0.6075053276807958
 		},
